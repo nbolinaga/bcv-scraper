@@ -1,0 +1,112 @@
+{
+  "moneda": "COP",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "COP",
+      "compra": 0.27731085,
+      "venta": 0.27800586
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "COP",
+      "compra": 0.27638034,
+      "venta": 0.27707303
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "COP",
+      "compra": 0.27822297,
+      "venta": 0.27892027
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "COP",
+      "compra": 0.27917239,
+      "venta": 0.27987207
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "COP",
+      "compra": 0.27692086,
+      "venta": 0.27761489
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "COP",
+      "compra": 0.27732116,
+      "venta": 0.2780162
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "COP",
+      "compra": 0.2742618,
+      "venta": 0.27494917
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "COP",
+      "compra": 0.27563976,
+      "venta": 0.27633059
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "COP",
+      "compra": 0.27394775,
+      "venta": 0.27463434
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "COP",
+      "compra": 0.27138771,
+      "venta": 0.27206788
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "COP",
+      "compra": 0.26838462,
+      "venta": 0.26905727
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "COP",
+      "compra": 0.27085179,
+      "venta": 0.27153062
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "COP",
+      "compra": 0.27005918,
+      "venta": 0.27073602
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "COP",
+      "compra": 0.26615747,
+      "venta": 0.26682453
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "COP",
+      "compra": 0.26102817,
+      "venta": 0.26168237
+    }
+  ]
+}

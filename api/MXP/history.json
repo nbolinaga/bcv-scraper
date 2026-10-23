@@ -1,0 +1,112 @@
+{
+  "moneda": "MXP",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "MXP",
+      "compra": 47.25209316,
+      "venta": 47.37051946
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "MXP",
+      "compra": 47.38686572,
+      "venta": 47.5056298
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "MXP",
+      "compra": 47.85085278,
+      "venta": 47.97077973
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "MXP",
+      "compra": 47.70404918,
+      "venta": 47.8236082
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "MXP",
+      "compra": 47.58923601,
+      "venta": 47.70850728
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "MXP",
+      "compra": 47.58530731,
+      "venta": 47.70456873
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "MXP",
+      "compra": 47.41902081,
+      "venta": 47.53786547
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "MXP",
+      "compra": 47.71468121,
+      "venta": 47.83426687
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "MXP",
+      "compra": 47.60017448,
+      "venta": 47.71947316
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "MXP",
+      "compra": 48.31759777,
+      "venta": 48.4386945
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "MXP",
+      "compra": 48.46423662,
+      "venta": 48.58570087
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "MXP",
+      "compra": 48.52438417,
+      "venta": 48.64599917
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "MXP",
+      "compra": 47.90041989,
+      "venta": 48.02047107
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "MXP",
+      "compra": 47.79159281,
+      "venta": 47.91137124
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "MXP",
+      "compra": 47.10315986,
+      "venta": 47.22121289
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "moneda": "JPY",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "JPY",
+      "compra": 5.62570181,
+      "venta": 5.63980132
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "JPY",
+      "compra": 5.58140744,
+      "venta": 5.59539593
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "JPY",
+      "compra": 5.57780878,
+      "venta": 5.59178825
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "JPY",
+      "compra": 5.55204907,
+      "venta": 5.56596398
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "JPY",
+      "compra": 5.56778504,
+      "venta": 5.58173939
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "JPY",
+      "compra": 5.55059627,
+      "venta": 5.56450754
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "JPY",
+      "compra": 5.52017961,
+      "venta": 5.53401465
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "JPY",
+      "compra": 5.52796813,
+      "venta": 5.54182269
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "JPY",
+      "compra": 5.52223215,
+      "venta": 5.53607233
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "JPY",
+      "compra": 5.51810836,
+      "venta": 5.53193821
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "JPY",
+      "compra": 5.51960874,
+      "venta": 5.53344234
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "JPY",
+      "compra": 5.51467319,
+      "venta": 5.52849442
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "JPY",
+      "compra": 5.50592672,
+      "venta": 5.51972603
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "JPY",
+      "compra": 5.51153095,
+      "venta": 5.52534431
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "JPY",
+      "compra": 5.48975457,
+      "venta": 5.50351336
+    }
+  ]
+}

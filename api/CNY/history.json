@@ -1,0 +1,112 @@
+{
+  "moneda": "CNY",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "CNY",
+      "compra": 132.4500745,
+      "venta": 132.78202957
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "CNY",
+      "compra": 132.21340893,
+      "venta": 132.54477086
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "CNY",
+      "compra": 131.96570659,
+      "venta": 132.29644771
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "CNY",
+      "compra": 131.68548491,
+      "venta": 132.01552371
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "CNY",
+      "compra": 131.45622442,
+      "venta": 131.78568864
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "CNY",
+      "compra": 131.22019763,
+      "venta": 131.5490703
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "CNY",
+      "compra": 131.03879107,
+      "venta": 131.36720909
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "CNY",
+      "compra": 130.83540671,
+      "venta": 131.163315
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "CNY",
+      "compra": 130.70396861,
+      "venta": 131.03154748
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "CNY",
+      "compra": 130.33624414,
+      "venta": 130.66290139
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "CNY",
+      "compra": 130.1374045,
+      "venta": 130.46356341
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "CNY",
+      "compra": 130.01451748,
+      "venta": 130.3403684
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "CNY",
+      "compra": 129.80485057,
+      "venta": 130.13017601
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "CNY",
+      "compra": 129.65251756,
+      "venta": 129.97746121
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "CNY",
+      "compra": 128.92178692,
+      "venta": 129.24489917
+    }
+  ]
+}

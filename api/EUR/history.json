@@ -1,0 +1,112 @@
+{
+  "moneda": "EUR",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "EUR",
+      "compra": 990.6056428,
+      "venta": 993.08836371
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "EUR",
+      "compra": 990.72802583,
+      "venta": 993.21105346
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "EUR",
+      "compra": 990.6930183,
+      "venta": 993.1759582
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "EUR",
+      "compra": 986.49960065,
+      "venta": 988.97203073
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "EUR",
+      "compra": 988.6865462,
+      "venta": 991.16445734
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "EUR",
+      "compra": 983.26548348,
+      "venta": 985.729808
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "EUR",
+      "compra": 975.23672116,
+      "venta": 977.68092347
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "EUR",
+      "compra": 980.30205333,
+      "venta": 982.75895071
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "EUR",
+      "compra": 979.54953266,
+      "venta": 982.00454402
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "EUR",
+      "compra": 978.16318862,
+      "venta": 980.61472543
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "EUR",
+      "compra": 976.63119497,
+      "venta": 979.0788922
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "EUR",
+      "compra": 981.80196156,
+      "venta": 984.26261811
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "EUR",
+      "compra": 974.77635831,
+      "venta": 977.21940683
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "EUR",
+      "compra": 978.72586175,
+      "venta": 981.17880877
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "EUR",
+      "compra": 971.49331234,
+      "venta": 973.92813268
+    }
+  ]
+}

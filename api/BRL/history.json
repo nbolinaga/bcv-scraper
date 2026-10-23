@@ -1,0 +1,112 @@
+{
+  "moneda": "BRL",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "BRL",
+      "compra": 175.46177846,
+      "venta": 175.90153229
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "BRL",
+      "compra": 175.6538674,
+      "venta": 176.09410266
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "BRL",
+      "compra": 175.84367202,
+      "venta": 176.28438298
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "BRL",
+      "compra": 173.82421557,
+      "venta": 174.25986523
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "BRL",
+      "compra": 172.76321165,
+      "venta": 173.19620215
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "BRL",
+      "compra": 174.13777848,
+      "venta": 174.57421402
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "BRL",
+      "compra": 174.11045025,
+      "venta": 174.54681729
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "BRL",
+      "compra": 175.17654415,
+      "venta": 175.61558311
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "BRL",
+      "compra": 175.26463989,
+      "venta": 175.70389964
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "BRL",
+      "compra": 174.23925269,
+      "venta": 174.67594254
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "BRL",
+      "compra": 174.97799497,
+      "venta": 175.41653631
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "BRL",
+      "compra": 175.13860129,
+      "venta": 175.57754515
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "BRL",
+      "compra": 174.61858498,
+      "venta": 175.05622554
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "BRL",
+      "compra": 166.40957224,
+      "venta": 166.82663884
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "BRL",
+      "compra": 165.3869314,
+      "venta": 165.80143499
+    }
+  ]
+}

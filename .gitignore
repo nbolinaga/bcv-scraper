@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Excel files downloaded or used for testing
+*.xls
+*.xlsx
+
+# Secrets / local config
+.env
+.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# NOTE: do NOT ignore api/ - GitHub Pages serves the API from it

@@ -1,0 +1,112 @@
+{
+  "moneda": "RUB",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "RUB",
+      "compra": 10.82882994,
+      "venta": 10.85596986
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "RUB",
+      "compra": 10.7754017,
+      "venta": 10.80240772
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "RUB",
+      "compra": 10.68883805,
+      "venta": 10.71562712
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "RUB",
+      "compra": 10.62598547,
+      "venta": 10.65261701
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "RUB",
+      "compra": 10.58000074,
+      "venta": 10.60651703
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "RUB",
+      "compra": 10.46807538,
+      "venta": 10.49431116
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "RUB",
+      "compra": 10.45591082,
+      "venta": 10.48211611
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "RUB",
+      "compra": 10.46996107,
+      "venta": 10.49620157
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "RUB",
+      "compra": 10.31372102,
+      "venta": 10.33956995
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "RUB",
+      "compra": 10.24046368,
+      "venta": 10.266129
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "RUB",
+      "compra": 10.20402631,
+      "venta": 10.22960031
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "RUB",
+      "compra": 10.20429289,
+      "venta": 10.22986756
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "RUB",
+      "compra": 10.20297477,
+      "venta": 10.22854613
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "RUB",
+      "compra": 10.37304313,
+      "venta": 10.39904073
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "RUB",
+      "compra": 10.3532734,
+      "venta": 10.37922146
+    }
+  ]
+}

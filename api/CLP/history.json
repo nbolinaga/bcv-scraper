@@ -1,0 +1,112 @@
+{
+  "moneda": "CLP",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "CLP",
+      "compra": 0.89604542,
+      "venta": 0.89829115
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "CLP",
+      "compra": 0.90365617,
+      "venta": 0.90592097
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "CLP",
+      "compra": 0.90325431,
+      "venta": 0.9055181
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "CLP",
+      "compra": 0.89750564,
+      "venta": 0.89975503
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "CLP",
+      "compra": 0.89568469,
+      "venta": 0.89792951
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "CLP",
+      "compra": 0.89364374,
+      "venta": 0.89588344
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "CLP",
+      "compra": 0.88883508,
+      "venta": 0.89106274
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "CLP",
+      "compra": 0.89344237,
+      "venta": 0.89568157
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "CLP",
+      "compra": 0.8947738,
+      "venta": 0.89701634
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "CLP",
+      "compra": 0.89045118,
+      "venta": 0.89268288
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "CLP",
+      "compra": 0.89152585,
+      "venta": 0.89376025
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "CLP",
+      "compra": 0.89929055,
+      "venta": 0.90154441
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "CLP",
+      "compra": 0.89315691,
+      "venta": 0.8953954
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "CLP",
+      "compra": 0.88018397,
+      "venta": 0.88238995
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "CLP",
+      "compra": 0.87657924,
+      "venta": 0.87877618
+    }
+  ]
+}

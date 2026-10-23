@@ -1,0 +1,112 @@
+{
+  "moneda": "INR",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "INR",
+      "compra": 9.3242293,
+      "venta": 9.3475983
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "INR",
+      "compra": 9.34396745,
+      "venta": 9.36738591
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "INR",
+      "compra": 9.30131319,
+      "venta": 9.32462475
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "INR",
+      "compra": 9.26799987,
+      "venta": 9.29122794
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "INR",
+      "compra": 9.25606881,
+      "venta": 9.27926698
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "INR",
+      "compra": 9.2368416,
+      "venta": 9.25999158
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "INR",
+      "compra": 9.217203,
+      "venta": 9.24030376
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "INR",
+      "compra": 9.19184994,
+      "venta": 9.21488716
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "INR",
+      "compra": 9.04265514,
+      "venta": 9.06531844
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "INR",
+      "compra": 9.02615866,
+      "venta": 9.04878061
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "INR",
+      "compra": 9.01715775,
+      "venta": 9.03975714
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "INR",
+      "compra": 9.04140994,
+      "venta": 9.06407011
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "INR",
+      "compra": 9.03806194,
+      "venta": 9.06071372
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "INR",
+      "compra": 9.02586165,
+      "venta": 9.04848286
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "INR",
+      "compra": 8.97466435,
+      "venta": 8.99715724
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "moneda": "ARS",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "ARS",
+      "compra": 0.57854157,
+      "venta": 0.57999155
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "ARS",
+      "compra": 0.57804235,
+      "venta": 0.57949108
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "ARS",
+      "compra": 0.57782807,
+      "venta": 0.57927626
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "ARS",
+      "compra": 0.57778141,
+      "venta": 0.57922949
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "ARS",
+      "compra": 0.5808749,
+      "venta": 0.58233073
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "ARS",
+      "compra": 0.58005656,
+      "venta": 0.58151034
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "ARS",
+      "compra": 0.57901927,
+      "venta": 0.58047045
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "ARS",
+      "compra": 0.57726271,
+      "venta": 0.57870949
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "ARS",
+      "compra": 0.57767873,
+      "venta": 0.57912655
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "ARS",
+      "compra": 0.57502394,
+      "venta": 0.5764651
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "ARS",
+      "compra": 0.57366552,
+      "venta": 0.57510328
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "ARS",
+      "compra": 0.57328663,
+      "venta": 0.57472344
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "ARS",
+      "compra": 0.57091141,
+      "venta": 0.57234226
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "ARS",
+      "compra": 0.57024141,
+      "venta": 0.57167059
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "ARS",
+      "compra": 0.56700216,
+      "venta": 0.56842322
+    }
+  ]
+}

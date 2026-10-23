@@ -1,0 +1,112 @@
+{
+  "moneda": "PEN",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "PEN",
+      "compra": 256.52521176,
+      "venta": 257.16813209
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "PEN",
+      "compra": 257.36715931,
+      "venta": 258.01218978
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "PEN",
+      "compra": 256.95101453,
+      "venta": 257.59500204
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "PEN",
+      "compra": 255.62206368,
+      "venta": 256.26272048
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "PEN",
+      "compra": 256.42286689,
+      "venta": 257.06553072
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "PEN",
+      "compra": 256.27334858,
+      "venta": 256.91563767
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "PEN",
+      "compra": 255.69299444,
+      "venta": 256.33382901
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "PEN",
+      "compra": 255.42002165,
+      "venta": 256.06017208
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "PEN",
+      "compra": 253.26661628,
+      "venta": 253.9013697
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "PEN",
+      "compra": 253.97225335,
+      "venta": 254.60877529
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "PEN",
+      "compra": 253.64688074,
+      "venta": 254.2825872
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "PEN",
+      "compra": 254.17925365,
+      "venta": 254.81629439
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "PEN",
+      "compra": 254.3437535,
+      "venta": 254.98120652
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "PEN",
+      "compra": 252.84805612,
+      "venta": 253.48176053
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "PEN",
+      "compra": 250.5201707,
+      "venta": 251.1480408
+    }
+  ]
+}

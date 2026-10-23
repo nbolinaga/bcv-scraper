@@ -1,0 +1,112 @@
+{
+  "moneda": "UYU",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "UYU",
+      "compra": 22.05012427,
+      "venta": 22.10538774
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "UYU",
+      "compra": 22.02105262,
+      "venta": 22.07624323
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "UYU",
+      "compra": 21.96106689,
+      "venta": 22.01610716
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "UYU",
+      "compra": 21.93860407,
+      "venta": 21.99358804
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "UYU",
+      "compra": 21.89768865,
+      "venta": 21.95257007
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "UYU",
+      "compra": 21.81915722,
+      "venta": 21.87384183
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "UYU",
+      "compra": 21.8140471,
+      "venta": 21.8687189
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "UYU",
+      "compra": 21.79244336,
+      "venta": 21.84706101
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "UYU",
+      "compra": 21.75094767,
+      "venta": 21.80546132
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "UYU",
+      "compra": 21.75495326,
+      "venta": 21.80947696
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "UYU",
+      "compra": 21.76357552,
+      "venta": 21.81812082
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "UYU",
+      "compra": 21.74205159,
+      "venta": 21.79654295
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "UYU",
+      "compra": 21.57086208,
+      "venta": 21.62492439
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "UYU",
+      "compra": 21.481118,
+      "venta": 21.53495539
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "UYU",
+      "compra": 21.45645626,
+      "venta": 21.51023184
+    }
+  ]
+}

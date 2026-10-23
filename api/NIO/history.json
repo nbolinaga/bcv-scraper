@@ -1,0 +1,112 @@
+{
+  "moneda": "NIO",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "NIO",
+      "compra": 24.77291414,
+      "venta": 24.83500165
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "NIO",
+      "compra": 24.74347027,
+      "venta": 24.80548398
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "NIO",
+      "compra": 24.72947369,
+      "venta": 24.79145232
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "NIO",
+      "compra": 24.69525668,
+      "venta": 24.75714955
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "NIO",
+      "compra": 24.64965513,
+      "venta": 24.71143371
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "NIO",
+      "compra": 24.63480885,
+      "venta": 24.69655023
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "NIO",
+      "compra": 23.92700392,
+      "venta": 23.98697135
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "NIO",
+      "compra": 24.57250451,
+      "venta": 24.63408974
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "NIO",
+      "compra": 24.53284131,
+      "venta": 24.59432713
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "NIO",
+      "compra": 24.49085299,
+      "venta": 24.55223357
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "NIO",
+      "compra": 24.47710828,
+      "venta": 24.53845441
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "NIO",
+      "compra": 24.47940768,
+      "venta": 24.54075958
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "NIO",
+      "compra": 24.4117832,
+      "venta": 24.47296561
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "NIO",
+      "compra": 24.38792368,
+      "venta": 24.4490463
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "NIO",
+      "compra": 24.22237408,
+      "venta": 24.28308178
+    }
+  ]
+}

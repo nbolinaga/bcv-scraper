@@ -1,0 +1,112 @@
+{
+  "moneda": "TRY",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "TRY",
+      "compra": 17.81318828,
+      "venta": 17.85783286
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "TRY",
+      "compra": 17.79406794,
+      "venta": 17.8386646
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "TRY",
+      "compra": 17.7755236,
+      "venta": 17.82007379
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "TRY",
+      "compra": 17.75361729,
+      "venta": 17.79811257
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "TRY",
+      "compra": 17.74711815,
+      "venta": 17.79159714
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "TRY",
+      "compra": 17.76747087,
+      "venta": 17.81200087
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "TRY",
+      "compra": 17.75636446,
+      "venta": 17.80086663
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "TRY",
+      "compra": 17.73922259,
+      "venta": 17.78368179
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "TRY",
+      "compra": 17.72537809,
+      "venta": 17.7698026
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "TRY",
+      "compra": 17.7490952,
+      "venta": 17.79357915
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "TRY",
+      "compra": 17.7375441,
+      "venta": 17.7819991
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "TRY",
+      "compra": 17.7256952,
+      "venta": 17.7701205
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "TRY",
+      "compra": 17.70470444,
+      "venta": 17.74907713
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "TRY",
+      "compra": 17.68822388,
+      "venta": 17.73255527
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "TRY",
+      "compra": 17.63006014,
+      "venta": 17.67424576
+    }
+  ]
+}

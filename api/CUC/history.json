@@ -1,0 +1,112 @@
+{
+  "moneda": "CUC",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "CUC",
+      "compra": 884.01153225,
+      "venta": 886.2271
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "CUC",
+      "compra": 882.537726,
+      "venta": 884.7496
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "CUC",
+      "compra": 881.18780925,
+      "venta": 883.3963
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "CUC",
+      "compra": 879.67220775,
+      "venta": 881.8769
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "CUC",
+      "compra": 878.863734,
+      "venta": 881.0664
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "CUC",
+      "compra": 877.91561025,
+      "venta": 880.1159
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "CUC",
+      "compra": 876.92469375,
+      "venta": 879.1225
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "CUC",
+      "compra": 875.70754425,
+      "venta": 877.9023
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "CUC",
+      "compra": 874.605606,
+      "venta": 876.7976
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "CUC",
+      "compra": 873.46137375,
+      "venta": 875.6505
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "CUC",
+      "compra": 872.54526975,
+      "venta": 874.7321
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "CUC",
+      "compra": 871.6823325,
+      "venta": 873.867
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "CUC",
+      "compra": 870.21171825,
+      "venta": 872.3927
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "CUC",
+      "compra": 869.19047775,
+      "venta": 871.3689
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "CUC",
+      "compra": 864.394797,
+      "venta": 866.5612
+    }
+  ]
+}

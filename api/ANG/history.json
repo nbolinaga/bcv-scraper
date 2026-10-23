@@ -1,0 +1,112 @@
+{
+  "moneda": "ANG",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "ANG",
+      "compra": 506.85828349,
+      "venta": 508.12860501
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "ANG",
+      "compra": 506.01325956,
+      "venta": 507.28146321
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "ANG",
+      "compra": 505.2392691,
+      "venta": 506.50553293
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "ANG",
+      "compra": 504.37028137,
+      "venta": 505.63436729
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "ANG",
+      "compra": 503.90673355,
+      "venta": 505.1696577
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "ANG",
+      "compra": 503.36311579,
+      "venta": 504.62467748
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "ANG",
+      "compra": 502.7949623,
+      "venta": 504.05510005
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "ANG",
+      "compra": 502.09709549,
+      "venta": 503.3554842
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "ANG",
+      "compra": 501.46528639,
+      "venta": 502.72209162
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "ANG",
+      "compra": 500.80922753,
+      "venta": 502.0643885
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "ANG",
+      "compra": 500.28396866,
+      "venta": 501.53781319
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "ANG",
+      "compra": 499.78919356,
+      "venta": 501.04179806
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "ANG",
+      "compra": 498.94599979,
+      "venta": 500.19649102
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "ANG",
+      "compra": 498.36045969,
+      "venta": 499.6094834
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "ANG",
+      "compra": 495.61080041,
+      "venta": 496.85293274
+    }
+  ]
+}

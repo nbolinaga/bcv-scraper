@@ -1,0 +1,112 @@
+{
+  "moneda": "BOB",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "BOB",
+      "compra": 75.55654121,
+      "venta": 75.74590598
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "BOB",
+      "compra": 75.55973681,
+      "venta": 75.74910958
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "BOB",
+      "compra": 75.63843856,
+      "venta": 75.82800858
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "BOB",
+      "compra": 75.7032881,
+      "venta": 75.89302065
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "BOB",
+      "compra": 75.69885736,
+      "venta": 75.88857881
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "BOB",
+      "compra": 75.68238019,
+      "venta": 75.87206034
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "BOB",
+      "compra": 75.2725059,
+      "venta": 75.46115879
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "BOB",
+      "compra": 75.23260689,
+      "venta": 75.42115979
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "BOB",
+      "compra": 76.15464239,
+      "venta": 76.34550615
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "BOB",
+      "compra": 74.21082189,
+      "venta": 74.39681393
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "BOB",
+      "compra": 73.50844732,
+      "venta": 73.69267902
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "BOB",
+      "compra": 73.25061617,
+      "venta": 73.43420168
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "BOB",
+      "compra": 72.82106428,
+      "venta": 73.00357322
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "BOB",
+      "compra": 72.85754214,
+      "venta": 73.04014249
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "BOB",
+      "compra": 72.39487412,
+      "venta": 72.5763149
+    }
+  ]
+}

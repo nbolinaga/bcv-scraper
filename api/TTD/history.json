@@ -1,0 +1,112 @@
+{
+  "moneda": "TTD",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "TTD",
+      "compra": 131.05009669,
+      "venta": 131.37854305
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "TTD",
+      "compra": 131.45129822,
+      "venta": 131.78075009
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "TTD",
+      "compra": 130.9751645,
+      "venta": 131.30342305
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "TTD",
+      "compra": 130.68579268,
+      "venta": 131.013326
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "TTD",
+      "compra": 130.64914507,
+      "venta": 130.97658654
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "TTD",
+      "compra": 130.10976068,
+      "venta": 130.43585031
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "TTD",
+      "compra": 129.4927191,
+      "venta": 129.81726225
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "TTD",
+      "compra": 129.69602254,
+      "venta": 130.02107523
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "TTD",
+      "compra": 129.55008902,
+      "venta": 129.87477596
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "TTD",
+      "compra": 129.81709971,
+      "venta": 130.14245585
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "TTD",
+      "compra": 130.2403567,
+      "venta": 130.56677363
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "TTD",
+      "compra": 130.39376701,
+      "venta": 130.72056843
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "TTD",
+      "compra": 130.31023034,
+      "venta": 130.6368224
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "TTD",
+      "compra": 129.97435142,
+      "venta": 130.30010168
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "TTD",
+      "compra": 129.12785841,
+      "venta": 129.45148713
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "moneda": "CAD",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "CAD",
+      "compra": 630.22587474,
+      "venta": 631.80538821
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "CAD",
+      "compra": 627.43068413,
+      "venta": 629.00319211
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "CAD",
+      "compra": 627.11744683,
+      "venta": 628.68916976
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "CAD",
+      "compra": 624.11559504,
+      "venta": 625.67979453
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "CAD",
+      "compra": 621.27195571,
+      "venta": 622.82902829
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "CAD",
+      "compra": 618.44641629,
+      "venta": 619.99640731
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "CAD",
+      "compra": 614.18324385,
+      "venta": 615.72255023
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "CAD",
+      "compra": 616.47838384,
+      "venta": 618.02344244
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "CAD",
+      "compra": 612.76070257,
+      "venta": 614.29644368
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "CAD",
+      "compra": 613.52366665,
+      "venta": 615.06131995
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "CAD",
+      "compra": 612.18358924,
+      "venta": 613.71788395
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "CAD",
+      "compra": 612.80780384,
+      "venta": 614.343663
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "CAD",
+      "compra": 610.79919299,
+      "venta": 612.33001803
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "CAD",
+      "compra": 609.70151357,
+      "venta": 611.22958754
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "CAD",
+      "compra": 606.38007506,
+      "venta": 607.89982462
+    }
+  ]
+}

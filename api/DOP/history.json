@@ -1,0 +1,112 @@
+{
+  "moneda": "DOP",
+  "updated_at": "2026-10-23T15:09:32-04:00",
+  "count": 15,
+  "data": [
+    {
+      "fecha_valor": "2026-10-23",
+      "fecha_operacion": "2026-10-22",
+      "moneda": "DOP",
+      "compra": 14.44463287,
+      "venta": 14.48083496
+    },
+    {
+      "fecha_valor": "2026-10-22",
+      "fecha_operacion": "2026-10-21",
+      "moneda": "DOP",
+      "compra": 14.44651704,
+      "venta": 14.48272385
+    },
+    {
+      "fecha_valor": "2026-10-21",
+      "fecha_operacion": "2026-10-20",
+      "moneda": "DOP",
+      "compra": 14.39143898,
+      "venta": 14.42750775
+    },
+    {
+      "fecha_valor": "2026-10-20",
+      "fecha_operacion": "2026-10-19",
+      "moneda": "DOP",
+      "compra": 14.33624849,
+      "venta": 14.37217894
+    },
+    {
+      "fecha_valor": "2026-10-19",
+      "fecha_operacion": "2026-10-16",
+      "moneda": "DOP",
+      "compra": 14.34645337,
+      "venta": 14.3824094
+    },
+    {
+      "fecha_valor": "2026-10-16",
+      "fecha_operacion": "2026-10-15",
+      "moneda": "DOP",
+      "compra": 14.35675568,
+      "venta": 14.39273753
+    },
+    {
+      "fecha_valor": "2026-10-15",
+      "fecha_operacion": "2026-10-14",
+      "moneda": "DOP",
+      "compra": 14.34524282,
+      "venta": 14.38119581
+    },
+    {
+      "fecha_valor": "2026-10-14",
+      "fecha_operacion": "2026-10-13",
+      "moneda": "DOP",
+      "compra": 14.32767578,
+      "venta": 14.36358475
+    },
+    {
+      "fecha_valor": "2026-10-13",
+      "fecha_operacion": "2026-10-09",
+      "moneda": "DOP",
+      "compra": 14.29795007,
+      "venta": 14.33378453
+    },
+    {
+      "fecha_valor": "2026-10-09",
+      "fecha_operacion": "2026-10-08",
+      "moneda": "DOP",
+      "compra": 14.30496845,
+      "venta": 14.3408205
+    },
+    {
+      "fecha_valor": "2026-10-08",
+      "fecha_operacion": "2026-10-07",
+      "moneda": "DOP",
+      "compra": 14.33928134,
+      "venta": 14.37521939
+    },
+    {
+      "fecha_valor": "2026-10-07",
+      "fecha_operacion": "2026-10-06",
+      "moneda": "DOP",
+      "compra": 14.44139053,
+      "venta": 14.47758449
+    },
+    {
+      "fecha_valor": "2026-10-06",
+      "fecha_operacion": "2026-10-05",
+      "moneda": "DOP",
+      "compra": 14.54473873,
+      "venta": 14.5811917
+    },
+    {
+      "fecha_valor": "2026-10-05",
+      "fecha_operacion": "2026-10-02",
+      "moneda": "DOP",
+      "compra": 14.60088153,
+      "venta": 14.63747522
+    },
+    {
+      "fecha_valor": "2026-10-02",
+      "fecha_operacion": "2026-10-01",
+      "moneda": "DOP",
+      "compra": 14.52276204,
+      "venta": 14.55915994
+    }
+  ]
+}

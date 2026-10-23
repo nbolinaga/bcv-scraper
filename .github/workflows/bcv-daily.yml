@@ -1,0 +1,52 @@
+name: BCV daily scrape
+
+on:
+  schedule:
+    # 21:30 and 23:30 UTC = 5:30 PM and 7:30 PM Venezuela time, Mon-Fri.
+    # The BCV usually publishes the next day's rate in the afternoon;
+    # the second run is a safety net (re-runs only rewrite the same files).
+    - cron: "30 21 * * 1-5"
+    - cron: "30 23 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Process every Excel file on the page"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # lets the job commit the updated JSON files
+
+concurrency:
+  group: bcv-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      - name: Scrape BCV and write JSON
+        run: |
+          if [ "${{ inputs.backfill }}" = "true" ]; then
+            python bcv_scraper.py --all
+          else
+            python bcv_scraper.py
+          fi
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "bcv-bot"
+          git config user.email "bcv-bot@users.noreply.github.com"
+          git add api
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "BCV rates $(date -u +%Y-%m-%d)"
+            git push
+          fi

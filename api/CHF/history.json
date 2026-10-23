@@ -1,0 +1,6209 @@
+{
+  "moneda": "CHF",
+  "updated_at": "2026-10-23T19:22:19+00:00",
+  "count": 886,
+  "data": [
+    {
+      "fecha_valor": "2024-09-13",
+      "fecha_operacion": "2024-09-12",
+      "moneda": "CHF",
+      "compra": 42.91167775,
+      "venta": 43.01922581
+    },
+    {
+      "fecha_valor": "2023-11-29",
+      "fecha_operacion": "2023-11-28",
+      "moneda": "CHF",
+      "compra": 40.24713013,
+      "venta": 40.34800013
+    },
+    {
+      "fecha_valor": "2023-11-28",
+      "fecha_operacion": "2023-11-27",
+      "moneda": "CHF",
+      "compra": 40.1526606,
+      "venta": 40.25329384
+    },
+    {
+      "fecha_valor": "2023-11-27",
+      "fecha_operacion": "2023-11-24",
+      "moneda": "CHF",
+      "compra": 40.14390218,
+      "venta": 40.24451346
+    },
+    {
+      "fecha_valor": "2023-11-24",
+      "fecha_operacion": "2023-11-23",
+      "moneda": "CHF",
+      "compra": 40.08911773,
+      "venta": 40.1895917
+    },
+    {
+      "fecha_valor": "2023-11-23",
+      "fecha_operacion": "2023-11-22",
+      "moneda": "CHF",
+      "compra": 39.83067367,
+      "venta": 39.93049992
+    },
+    {
+      "fecha_valor": "2023-11-22",
+      "fecha_operacion": "2023-11-21",
+      "moneda": "CHF",
+      "compra": 40.00368388,
+      "venta": 40.10394374
+    },
+    {
+      "fecha_valor": "2023-11-21",
+      "fecha_operacion": "2023-11-20",
+      "moneda": "CHF",
+      "compra": 40.01954692,
+      "venta": 40.11984654
+    },
+    {
+      "fecha_valor": "2023-11-20",
+      "fecha_operacion": "2023-11-17",
+      "moneda": "CHF",
+      "compra": 39.93511967,
+      "venta": 40.03520769
+    },
+    {
+      "fecha_valor": "2023-11-17",
+      "fecha_operacion": "2023-11-16",
+      "moneda": "CHF",
+      "compra": 39.88806616,
+      "venta": 39.98803625
+    },
+    {
+      "fecha_valor": "2023-11-16",
+      "fecha_operacion": "2023-11-15",
+      "moneda": "CHF",
+      "compra": 39.85497985,
+      "venta": 39.95486702
+    },
+    {
+      "fecha_valor": "2023-11-15",
+      "fecha_operacion": "2023-11-14",
+      "moneda": "CHF",
+      "compra": 39.57951043,
+      "venta": 39.6787072
+    },
+    {
+      "fecha_valor": "2023-11-14",
+      "fecha_operacion": "2023-11-13",
+      "moneda": "CHF",
+      "compra": 39.02133813,
+      "venta": 39.11913597
+    },
+    {
+      "fecha_valor": "2023-11-13",
+      "fecha_operacion": "2023-11-10",
+      "moneda": "CHF",
+      "compra": 39.0994531,
+      "venta": 39.19744672
+    },
+    {
+      "fecha_valor": "2023-11-10",
+      "fecha_operacion": "2023-11-09",
+      "moneda": "CHF",
+      "compra": 39.15119633,
+      "venta": 39.24931963
+    },
+    {
+      "fecha_valor": "2023-11-09",
+      "fecha_operacion": "2023-11-08",
+      "moneda": "CHF",
+      "compra": 39.10667782,
+      "venta": 39.20468955
+    },
+    {
+      "fecha_valor": "2023-11-08",
+      "fecha_operacion": "2023-11-07",
+      "moneda": "CHF",
+      "compra": 38.98845313,
+      "venta": 39.08616855
+    },
+    {
+      "fecha_valor": "2023-11-07",
+      "fecha_operacion": "2023-11-03",
+      "moneda": "CHF",
+      "compra": 39.10667912,
+      "venta": 39.20469085
+    },
+    {
+      "fecha_valor": "2023-11-03",
+      "fecha_operacion": "2023-11-02",
+      "moneda": "CHF",
+      "compra": 38.79609102,
+      "venta": 38.89332433
+    },
+    {
+      "fecha_valor": "2023-11-02",
+      "fecha_operacion": "2023-11-01",
+      "moneda": "CHF",
+      "compra": 38.60236492,
+      "venta": 38.6991127
+    },
+    {
+      "fecha_valor": "2023-11-01",
+      "fecha_operacion": "2023-10-31",
+      "moneda": "CHF",
+      "compra": 38.57430494,
+      "venta": 38.67098239
+    },
+    {
+      "fecha_valor": "2023-10-31",
+      "fecha_operacion": "2023-10-27",
+      "moneda": "CHF",
+      "compra": 38.83341756,
+      "venta": 38.93074442
+    },
+    {
+      "fecha_valor": "2023-10-27",
+      "fecha_operacion": "2023-10-26",
+      "moneda": "CHF",
+      "compra": 38.9562854,
+      "venta": 39.0539202
+    },
+    {
+      "fecha_valor": "2023-10-26",
+      "fecha_operacion": "2023-10-25",
+      "moneda": "CHF",
+      "compra": 39.02876159,
+      "venta": 39.12657803
+    },
+    {
+      "fecha_valor": "2023-10-25",
+      "fecha_operacion": "2023-10-24",
+      "moneda": "CHF",
+      "compra": 39.10621565,
+      "venta": 39.20422621
+    },
+    {
+      "fecha_valor": "2023-10-24",
+      "fecha_operacion": "2023-10-23",
+      "moneda": "CHF",
+      "compra": 39.07681279,
+      "venta": 39.17474966
+    },
+    {
+      "fecha_valor": "2023-10-23",
+      "fecha_operacion": "2023-10-20",
+      "moneda": "CHF",
+      "compra": 39.14557977,
+      "venta": 39.24368899
+    },
+    {
+      "fecha_valor": "2023-10-20",
+      "fecha_operacion": "2023-10-19",
+      "moneda": "CHF",
+      "compra": 38.82366852,
+      "venta": 38.92097094
+    },
+    {
+      "fecha_valor": "2023-10-19",
+      "fecha_operacion": "2023-10-18",
+      "moneda": "CHF",
+      "compra": 38.71328794,
+      "venta": 38.81031373
+    },
+    {
+      "fecha_valor": "2023-10-18",
+      "fecha_operacion": "2023-10-17",
+      "moneda": "CHF",
+      "compra": 38.55868763,
+      "venta": 38.65532595
+    },
+    {
+      "fecha_valor": "2023-10-17",
+      "fecha_operacion": "2023-10-16",
+      "moneda": "CHF",
+      "compra": 38.58129182,
+      "venta": 38.67798679
+    },
+    {
+      "fecha_valor": "2023-10-16",
+      "fecha_operacion": "2023-10-13",
+      "moneda": "CHF",
+      "compra": 38.46368822,
+      "venta": 38.56008844
+    },
+    {
+      "fecha_valor": "2023-10-13",
+      "fecha_operacion": "2023-10-11",
+      "moneda": "CHF",
+      "compra": 38.5716578,
+      "venta": 38.66832862
+    },
+    {
+      "fecha_valor": "2023-10-11",
+      "fecha_operacion": "2023-10-10",
+      "moneda": "CHF",
+      "compra": 38.39978786,
+      "venta": 38.49602793
+    },
+    {
+      "fecha_valor": "2023-10-10",
+      "fecha_operacion": "2023-10-09",
+      "moneda": "CHF",
+      "compra": 38.27606564,
+      "venta": 38.37199563
+    },
+    {
+      "fecha_valor": "2023-10-09",
+      "fecha_operacion": "2023-10-06",
+      "moneda": "CHF",
+      "compra": 38.09422248,
+      "venta": 38.18969673
+    },
+    {
+      "fecha_valor": "2023-10-06",
+      "fecha_operacion": "2023-10-05",
+      "moneda": "CHF",
+      "compra": 37.91914197,
+      "venta": 38.01417741
+    },
+    {
+      "fecha_valor": "2023-10-05",
+      "fecha_operacion": "2023-10-04",
+      "moneda": "CHF",
+      "compra": 37.73842748,
+      "venta": 37.83301
+    },
+    {
+      "fecha_valor": "2023-10-04",
+      "fecha_operacion": "2023-10-03",
+      "moneda": "CHF",
+      "compra": 37.53631185,
+      "venta": 37.63038782
+    },
+    {
+      "fecha_valor": "2023-10-03",
+      "fecha_operacion": "2023-10-02",
+      "moneda": "CHF",
+      "compra": 37.42861936,
+      "venta": 37.52242543
+    },
+    {
+      "fecha_valor": "2023-10-02",
+      "fecha_operacion": "2023-09-29",
+      "moneda": "CHF",
+      "compra": 37.54902735,
+      "venta": 37.64313519
+    },
+    {
+      "fecha_valor": "2023-09-29",
+      "fecha_operacion": "2023-09-28",
+      "moneda": "CHF",
+      "compra": 37.33036686,
+      "venta": 37.42392668
+    },
+    {
+      "fecha_valor": "2023-09-28",
+      "fecha_operacion": "2023-09-27",
+      "moneda": "CHF",
+      "compra": 37.16665207,
+      "venta": 37.25980157
+    },
+    {
+      "fecha_valor": "2023-09-27",
+      "fecha_operacion": "2023-09-26",
+      "moneda": "CHF",
+      "compra": 37.2075434,
+      "venta": 37.30079539
+    },
+    {
+      "fecha_valor": "2023-09-26",
+      "fecha_operacion": "2023-09-25",
+      "moneda": "CHF",
+      "compra": 37.18322148,
+      "venta": 37.27641252
+    },
+    {
+      "fecha_valor": "2023-09-25",
+      "fecha_operacion": "2023-09-22",
+      "moneda": "CHF",
+      "compra": 37.42036883,
+      "venta": 37.51415422
+    },
+    {
+      "fecha_valor": "2023-09-22",
+      "fecha_operacion": "2023-09-21",
+      "moneda": "CHF",
+      "compra": 37.47088467,
+      "venta": 37.56479666
+    },
+    {
+      "fecha_valor": "2023-09-21",
+      "fecha_operacion": "2023-09-20",
+      "moneda": "CHF",
+      "compra": 37.7223937,
+      "venta": 37.81693604
+    },
+    {
+      "fecha_valor": "2023-09-20",
+      "fecha_operacion": "2023-09-19",
+      "moneda": "CHF",
+      "compra": 37.56214755,
+      "venta": 37.65628827
+    },
+    {
+      "fecha_valor": "2023-09-19",
+      "fecha_operacion": "2023-09-18",
+      "moneda": "CHF",
+      "compra": 37.40733328,
+      "venta": 37.501086
+    },
+    {
+      "fecha_valor": "2023-09-18",
+      "fecha_operacion": "2023-09-15",
+      "moneda": "CHF",
+      "compra": 37.426208,
+      "venta": 37.52000802
+    },
+    {
+      "fecha_valor": "2023-09-15",
+      "fecha_operacion": "2023-09-14",
+      "moneda": "CHF",
+      "compra": 37.36407187,
+      "venta": 37.45771617
+    },
+    {
+      "fecha_valor": "2023-09-14",
+      "fecha_operacion": "2023-09-13",
+      "moneda": "CHF",
+      "compra": 37.38146145,
+      "venta": 37.47514932
+    },
+    {
+      "fecha_valor": "2023-09-13",
+      "fecha_operacion": "2023-09-12",
+      "moneda": "CHF",
+      "compra": 37.26621009,
+      "venta": 37.35960911
+    },
+    {
+      "fecha_valor": "2023-09-12",
+      "fecha_operacion": "2023-09-08",
+      "moneda": "CHF",
+      "compra": 37.29213127,
+      "venta": 37.38559526
+    },
+    {
+      "fecha_valor": "2023-09-08",
+      "fecha_operacion": "2023-09-07",
+      "moneda": "CHF",
+      "compra": 37.0926747,
+      "venta": 37.18563879
+    },
+    {
+      "fecha_valor": "2023-09-07",
+      "fecha_operacion": "2023-09-06",
+      "moneda": "CHF",
+      "compra": 36.9758984,
+      "venta": 37.06856982
+    },
+    {
+      "fecha_valor": "2023-09-06",
+      "fecha_operacion": "2023-09-05",
+      "moneda": "CHF",
+      "compra": 36.9504189,
+      "venta": 37.04302647
+    },
+    {
+      "fecha_valor": "2023-09-05",
+      "fecha_operacion": "2023-09-04",
+      "moneda": "CHF",
+      "compra": 36.97228473,
+      "venta": 37.0649471
+    },
+    {
+      "fecha_valor": "2023-09-04",
+      "fecha_operacion": "2023-09-01",
+      "moneda": "CHF",
+      "compra": 36.9760658,
+      "venta": 37.06873764
+    },
+    {
+      "fecha_valor": "2023-09-01",
+      "fecha_operacion": "2023-08-31",
+      "moneda": "CHF",
+      "compra": 36.77717155,
+      "venta": 36.86934491
+    },
+    {
+      "fecha_valor": "2023-08-31",
+      "fecha_operacion": "2023-08-30",
+      "moneda": "CHF",
+      "compra": 37.0086742,
+      "venta": 37.10142777
+    },
+    {
+      "fecha_valor": "2023-08-30",
+      "fecha_operacion": "2023-08-29",
+      "moneda": "CHF",
+      "compra": 36.74830614,
+      "venta": 36.84040716
+    },
+    {
+      "fecha_valor": "2023-08-29",
+      "fecha_operacion": "2023-08-28",
+      "moneda": "CHF",
+      "compra": 36.57285774,
+      "venta": 36.66451904
+    },
+    {
+      "fecha_valor": "2023-08-28",
+      "fecha_operacion": "2023-08-25",
+      "moneda": "CHF",
+      "compra": 36.4161752,
+      "venta": 36.50744381
+    },
+    {
+      "fecha_valor": "2023-08-25",
+      "fecha_operacion": "2023-08-24",
+      "moneda": "CHF",
+      "compra": 36.52644224,
+      "venta": 36.61798721
+    },
+    {
+      "fecha_valor": "2023-08-24",
+      "fecha_operacion": "2023-08-23",
+      "moneda": "CHF",
+      "compra": 36.52071196,
+      "venta": 36.61224257
+    },
+    {
+      "fecha_valor": "2023-08-23",
+      "fecha_operacion": "2023-08-22",
+      "moneda": "CHF",
+      "compra": 36.2853931,
+      "venta": 36.37633394
+    },
+    {
+      "fecha_valor": "2023-08-22",
+      "fecha_operacion": "2023-08-21",
+      "moneda": "CHF",
+      "compra": 36.07848268,
+      "venta": 36.16890494
+    },
+    {
+      "fecha_valor": "2023-08-21",
+      "fecha_operacion": "2023-08-18",
+      "moneda": "CHF",
+      "compra": 36.05375175,
+      "venta": 36.14411203
+    },
+    {
+      "fecha_valor": "2023-08-18",
+      "fecha_operacion": "2023-08-17",
+      "moneda": "CHF",
+      "compra": 36.06667681,
+      "venta": 36.15706949
+    },
+    {
+      "fecha_valor": "2023-08-17",
+      "fecha_operacion": "2023-08-16",
+      "moneda": "CHF",
+      "compra": 35.86885685,
+      "venta": 35.95875373
+    },
+    {
+      "fecha_valor": "2023-08-16",
+      "fecha_operacion": "2023-08-15",
+      "moneda": "CHF",
+      "compra": 35.86501762,
+      "venta": 35.95490489
+    },
+    {
+      "fecha_valor": "2023-08-15",
+      "fecha_operacion": "2023-08-11",
+      "moneda": "CHF",
+      "compra": 35.88284181,
+      "venta": 35.97277374
+    },
+    {
+      "fecha_valor": "2023-08-11",
+      "fecha_operacion": "2023-08-10",
+      "moneda": "CHF",
+      "compra": 35.80448915,
+      "venta": 35.89422471
+    },
+    {
+      "fecha_valor": "2023-08-10",
+      "fecha_operacion": "2023-08-09",
+      "moneda": "CHF",
+      "compra": 35.54140593,
+      "venta": 35.63048214
+    },
+    {
+      "fecha_valor": "2023-08-09",
+      "fecha_operacion": "2023-08-08",
+      "moneda": "CHF",
+      "compra": 35.418744,
+      "venta": 35.50751278
+    },
+    {
+      "fecha_valor": "2023-08-08",
+      "fecha_operacion": "2023-08-07",
+      "moneda": "CHF",
+      "compra": 35.32831513,
+      "venta": 35.41685727
+    },
+    {
+      "fecha_valor": "2023-08-07",
+      "fecha_operacion": "2023-08-04",
+      "moneda": "CHF",
+      "compra": 35.45306233,
+      "venta": 35.54191712
+    },
+    {
+      "fecha_valor": "2023-08-04",
+      "fecha_operacion": "2023-08-03",
+      "moneda": "CHF",
+      "compra": 34.28743948,
+      "venta": 34.37337291
+    },
+    {
+      "fecha_valor": "2023-08-03",
+      "fecha_operacion": "2023-08-02",
+      "moneda": "CHF",
+      "compra": 33.80197044,
+      "venta": 33.88668716
+    },
+    {
+      "fecha_valor": "2023-08-02",
+      "fecha_operacion": "2023-08-01",
+      "moneda": "CHF",
+      "compra": 33.7255965,
+      "venta": 33.81012181
+    },
+    {
+      "fecha_valor": "2023-08-01",
+      "fecha_operacion": "2023-07-31",
+      "moneda": "CHF",
+      "compra": 33.93165317,
+      "venta": 34.01669491
+    },
+    {
+      "fecha_valor": "2023-07-31",
+      "fecha_operacion": "2023-07-28",
+      "moneda": "CHF",
+      "compra": 33.91968935,
+      "venta": 34.00470111
+    },
+    {
+      "fecha_valor": "2023-07-28",
+      "fecha_operacion": "2023-07-27",
+      "moneda": "CHF",
+      "compra": 33.65292126,
+      "venta": 33.73726442
+    },
+    {
+      "fecha_valor": "2023-07-27",
+      "fecha_operacion": "2023-07-26",
+      "moneda": "CHF",
+      "compra": 33.91210785,
+      "venta": 33.9971006
+    },
+    {
+      "fecha_valor": "2023-07-26",
+      "fecha_operacion": "2023-07-25",
+      "moneda": "CHF",
+      "compra": 33.55653875,
+      "venta": 33.64064035
+    },
+    {
+      "fecha_valor": "2023-07-25",
+      "fecha_operacion": "2023-07-21",
+      "moneda": "CHF",
+      "compra": 33.53848874,
+      "venta": 33.6225451
+    },
+    {
+      "fecha_valor": "2023-07-21",
+      "fecha_operacion": "2023-07-20",
+      "moneda": "CHF",
+      "compra": 33.3946804,
+      "venta": 33.47837634
+    },
+    {
+      "fecha_valor": "2023-07-20",
+      "fecha_operacion": "2023-07-19",
+      "moneda": "CHF",
+      "compra": 33.52852491,
+      "venta": 33.6125563
+    },
+    {
+      "fecha_valor": "2023-07-19",
+      "fecha_operacion": "2023-07-18",
+      "moneda": "CHF",
+      "compra": 33.48901101,
+      "venta": 33.57294336
+    },
+    {
+      "fecha_valor": "2023-07-18",
+      "fecha_operacion": "2023-07-17",
+      "moneda": "CHF",
+      "compra": 33.2096504,
+      "venta": 33.2928826
+    },
+    {
+      "fecha_valor": "2023-07-17",
+      "fecha_operacion": "2023-07-14",
+      "moneda": "CHF",
+      "compra": 33.14985102,
+      "venta": 33.23293335
+    },
+    {
+      "fecha_valor": "2023-07-14",
+      "fecha_operacion": "2023-07-13",
+      "moneda": "CHF",
+      "compra": 33.00441966,
+      "venta": 33.0871375
+    },
+    {
+      "fecha_valor": "2023-07-13",
+      "fecha_operacion": "2023-07-12",
+      "moneda": "CHF",
+      "compra": 32.54397697,
+      "venta": 32.62554082
+    },
+    {
+      "fecha_valor": "2023-07-12",
+      "fecha_operacion": "2023-07-11",
+      "moneda": "CHF",
+      "compra": 32.06837254,
+      "venta": 32.1487444
+    },
+    {
+      "fecha_valor": "2023-07-11",
+      "fecha_operacion": "2023-07-10",
+      "moneda": "CHF",
+      "compra": 31.68406511,
+      "venta": 31.76347379
+    },
+    {
+      "fecha_valor": "2023-07-10",
+      "fecha_operacion": "2023-07-07",
+      "moneda": "CHF",
+      "compra": 31.71508581,
+      "venta": 31.79457225
+    },
+    {
+      "fecha_valor": "2023-07-07",
+      "fecha_operacion": "2023-07-06",
+      "moneda": "CHF",
+      "compra": 31.46457989,
+      "venta": 31.54343849
+    },
+    {
+      "fecha_valor": "2023-07-06",
+      "fecha_operacion": "2023-07-04",
+      "moneda": "CHF",
+      "compra": 31.35814358,
+      "venta": 31.43673542
+    },
+    {
+      "fecha_valor": "2023-07-04",
+      "fecha_operacion": "2023-06-30",
+      "moneda": "CHF",
+      "compra": 31.22720156,
+      "venta": 31.30546523
+    },
+    {
+      "fecha_valor": "2023-06-30",
+      "fecha_operacion": "2023-06-29",
+      "moneda": "CHF",
+      "compra": 30.956452,
+      "venta": 31.0340371
+    },
+    {
+      "fecha_valor": "2023-06-29",
+      "fecha_operacion": "2023-06-28",
+      "moneda": "CHF",
+      "compra": 30.95837681,
+      "venta": 31.03596673
+    },
+    {
+      "fecha_valor": "2023-06-28",
+      "fecha_operacion": "2023-06-27",
+      "moneda": "CHF",
+      "compra": 30.85147024,
+      "venta": 30.92879222
+    },
+    {
+      "fecha_valor": "2023-06-27",
+      "fecha_operacion": "2023-06-26",
+      "moneda": "CHF",
+      "compra": 30.80313282,
+      "venta": 30.88033366
+    },
+    {
+      "fecha_valor": "2023-06-26",
+      "fecha_operacion": "2023-06-23",
+      "moneda": "CHF",
+      "compra": 30.68006728,
+      "venta": 30.75695968
+    },
+    {
+      "fecha_valor": "2023-06-23",
+      "fecha_operacion": "2023-06-22",
+      "moneda": "CHF",
+      "compra": 30.63122421,
+      "venta": 30.7079942
+    },
+    {
+      "fecha_valor": "2023-06-22",
+      "fecha_operacion": "2023-06-21",
+      "moneda": "CHF",
+      "compra": 30.41702037,
+      "venta": 30.4932535
+    },
+    {
+      "fecha_valor": "2023-06-21",
+      "fecha_operacion": "2023-06-20",
+      "moneda": "CHF",
+      "compra": 30.26670999,
+      "venta": 30.3425664
+    },
+    {
+      "fecha_valor": "2023-06-20",
+      "fecha_operacion": "2023-06-16",
+      "moneda": "CHF",
+      "compra": 30.46737694,
+      "venta": 30.54373628
+    },
+    {
+      "fecha_valor": "2023-06-16",
+      "fecha_operacion": "2023-06-15",
+      "moneda": "CHF",
+      "compra": 30.33118383,
+      "venta": 30.40720184
+    },
+    {
+      "fecha_valor": "2023-06-15",
+      "fecha_operacion": "2023-06-14",
+      "moneda": "CHF",
+      "compra": 30.11263949,
+      "venta": 30.18810976
+    },
+    {
+      "fecha_valor": "2023-06-14",
+      "fecha_operacion": "2023-06-13",
+      "moneda": "CHF",
+      "compra": 29.78839543,
+      "venta": 29.86305306
+    },
+    {
+      "fecha_valor": "2023-06-13",
+      "fecha_operacion": "2023-06-09",
+      "moneda": "CHF",
+      "compra": 29.89181268,
+      "venta": 29.96672951
+    },
+    {
+      "fecha_valor": "2023-06-09",
+      "fecha_operacion": "2023-06-08",
+      "moneda": "CHF",
+      "compra": 29.75240412,
+      "venta": 29.82697155
+    },
+    {
+      "fecha_valor": "2023-06-08",
+      "fecha_operacion": "2023-06-07",
+      "moneda": "CHF",
+      "compra": 29.34338048,
+      "venta": 29.41692278
+    },
+    {
+      "fecha_valor": "2023-06-07",
+      "fecha_operacion": "2023-06-06",
+      "moneda": "CHF",
+      "compra": 29.24131306,
+      "venta": 29.31459956
+    },
+    {
+      "fecha_valor": "2023-06-06",
+      "fecha_operacion": "2023-06-05",
+      "moneda": "CHF",
+      "compra": 29.12764281,
+      "venta": 29.20064442
+    },
+    {
+      "fecha_valor": "2023-06-05",
+      "fecha_operacion": "2023-06-02",
+      "moneda": "CHF",
+      "compra": 29.24200523,
+      "venta": 29.31529346
+    },
+    {
+      "fecha_valor": "2023-06-02",
+      "fecha_operacion": "2023-06-01",
+      "moneda": "CHF",
+      "compra": 29.05522698,
+      "venta": 29.1280471
+    },
+    {
+      "fecha_valor": "2023-06-01",
+      "fecha_operacion": "2023-05-31",
+      "moneda": "CHF",
+      "compra": 28.66133487,
+      "venta": 28.73316779
+    },
+    {
+      "fecha_valor": "2023-05-31",
+      "fecha_operacion": "2023-05-30",
+      "moneda": "CHF",
+      "compra": 28.87096944,
+      "venta": 28.94332776
+    },
+    {
+      "fecha_valor": "2023-05-30",
+      "fecha_operacion": "2023-05-29",
+      "moneda": "CHF",
+      "compra": 28.97672383,
+      "venta": 29.0493472
+    },
+    {
+      "fecha_valor": "2023-05-29",
+      "fecha_operacion": "2023-05-26",
+      "moneda": "CHF",
+      "compra": 28.89179134,
+      "venta": 28.96420184
+    },
+    {
+      "fecha_valor": "2023-05-26",
+      "fecha_operacion": "2023-05-25",
+      "moneda": "CHF",
+      "compra": 28.80401406,
+      "venta": 28.87620457
+    },
+    {
+      "fecha_valor": "2023-05-25",
+      "fecha_operacion": "2023-05-24",
+      "moneda": "CHF",
+      "compra": 28.72109025,
+      "venta": 28.79307294
+    },
+    {
+      "fecha_valor": "2023-05-24",
+      "fecha_operacion": "2023-05-23",
+      "moneda": "CHF",
+      "compra": 28.81640807,
+      "venta": 28.88862964
+    },
+    {
+      "fecha_valor": "2023-05-23",
+      "fecha_operacion": "2023-05-19",
+      "moneda": "CHF",
+      "compra": 28.78821664,
+      "venta": 28.86036755
+    },
+    {
+      "fecha_valor": "2023-05-19",
+      "fecha_operacion": "2023-05-18",
+      "moneda": "CHF",
+      "compra": 28.53971187,
+      "venta": 28.61123997
+    },
+    {
+      "fecha_valor": "2023-05-18",
+      "fecha_operacion": "2023-05-17",
+      "moneda": "CHF",
+      "compra": 28.62028778,
+      "venta": 28.69201782
+    },
+    {
+      "fecha_valor": "2023-05-17",
+      "fecha_operacion": "2023-05-16",
+      "moneda": "CHF",
+      "compra": 28.55746955,
+      "venta": 28.62904216
+    },
+    {
+      "fecha_valor": "2023-05-16",
+      "fecha_operacion": "2023-05-15",
+      "moneda": "CHF",
+      "compra": 28.39460063,
+      "venta": 28.46576505
+    },
+    {
+      "fecha_valor": "2023-05-15",
+      "fecha_operacion": "2023-05-12",
+      "moneda": "CHF",
+      "compra": 28.28568681,
+      "venta": 28.35657825
+    },
+    {
+      "fecha_valor": "2023-05-12",
+      "fecha_operacion": "2023-05-11",
+      "moneda": "CHF",
+      "compra": 28.272594,
+      "venta": 28.34345264
+    },
+    {
+      "fecha_valor": "2023-05-11",
+      "fecha_operacion": "2023-05-10",
+      "moneda": "CHF",
+      "compra": 28.23816361,
+      "venta": 28.30893595
+    },
+    {
+      "fecha_valor": "2023-05-10",
+      "fecha_operacion": "2023-05-09",
+      "moneda": "CHF",
+      "compra": 28.11933058,
+      "venta": 28.1898051
+    },
+    {
+      "fecha_valor": "2023-05-09",
+      "fecha_operacion": "2023-05-08",
+      "moneda": "CHF",
+      "compra": 28.06803381,
+      "venta": 28.13837976
+    },
+    {
+      "fecha_valor": "2023-05-08",
+      "fecha_operacion": "2023-05-05",
+      "moneda": "CHF",
+      "compra": 28.01382559,
+      "venta": 28.08403568
+    },
+    {
+      "fecha_valor": "2023-05-05",
+      "fecha_operacion": "2023-05-04",
+      "moneda": "CHF",
+      "compra": 28.13600176,
+      "venta": 28.20651806
+    },
+    {
+      "fecha_valor": "2023-05-04",
+      "fecha_operacion": "2023-05-03",
+      "moneda": "CHF",
+      "compra": 27.96852454,
+      "venta": 28.03862109
+    },
+    {
+      "fecha_valor": "2023-05-03",
+      "fecha_operacion": "2023-05-02",
+      "moneda": "CHF",
+      "compra": 27.68637914,
+      "venta": 27.75576856
+    },
+    {
+      "fecha_valor": "2023-05-02",
+      "fecha_operacion": "2023-04-28",
+      "moneda": "CHF",
+      "compra": 27.72080287,
+      "venta": 27.79027857
+    },
+    {
+      "fecha_valor": "2023-04-28",
+      "fecha_operacion": "2023-04-27",
+      "moneda": "CHF",
+      "compra": 27.51223902,
+      "venta": 27.581192
+    },
+    {
+      "fecha_valor": "2023-04-27",
+      "fecha_operacion": "2023-04-26",
+      "moneda": "CHF",
+      "compra": 27.59574109,
+      "venta": 27.66490335
+    },
+    {
+      "fecha_valor": "2023-04-26",
+      "fecha_operacion": "2023-04-25",
+      "moneda": "CHF",
+      "compra": 27.56882406,
+      "venta": 27.63791885
+    },
+    {
+      "fecha_valor": "2023-04-25",
+      "fecha_operacion": "2023-04-24",
+      "moneda": "CHF",
+      "compra": 27.63097787,
+      "venta": 27.70022844
+    },
+    {
+      "fecha_valor": "2023-04-24",
+      "fecha_operacion": "2023-04-21",
+      "moneda": "CHF",
+      "compra": 27.51676403,
+      "venta": 27.58572835
+    },
+    {
+      "fecha_valor": "2023-04-21",
+      "fecha_operacion": "2023-04-20",
+      "moneda": "CHF",
+      "compra": 27.41819722,
+      "venta": 27.4869145
+    },
+    {
+      "fecha_valor": "2023-04-20",
+      "fecha_operacion": "2023-04-18",
+      "moneda": "CHF",
+      "compra": 27.3010705,
+      "venta": 27.36949424
+    },
+    {
+      "fecha_valor": "2023-04-18",
+      "fecha_operacion": "2023-04-17",
+      "moneda": "CHF",
+      "compra": 27.26531822,
+      "venta": 27.33365235
+    },
+    {
+      "fecha_valor": "2023-04-17",
+      "fecha_operacion": "2023-04-14",
+      "moneda": "CHF",
+      "compra": 27.42622767,
+      "venta": 27.49496509
+    },
+    {
+      "fecha_valor": "2023-04-14",
+      "fecha_operacion": "2023-04-13",
+      "moneda": "CHF",
+      "compra": 27.53407406,
+      "venta": 27.60308176
+    },
+    {
+      "fecha_valor": "2023-04-13",
+      "fecha_operacion": "2023-04-12",
+      "moneda": "CHF",
+      "compra": 27.21969294,
+      "venta": 27.28791272
+    },
+    {
+      "fecha_valor": "2023-04-12",
+      "fecha_operacion": "2023-04-11",
+      "moneda": "CHF",
+      "compra": 27.01362896,
+      "venta": 27.0813323
+    },
+    {
+      "fecha_valor": "2023-04-11",
+      "fecha_operacion": "2023-04-10",
+      "moneda": "CHF",
+      "compra": 26.72017016,
+      "venta": 26.787138
+    },
+    {
+      "fecha_valor": "2023-04-10",
+      "fecha_operacion": "2023-04-05",
+      "moneda": "CHF",
+      "compra": 26.99349134,
+      "venta": 27.0611442
+    },
+    {
+      "fecha_valor": "2023-04-05",
+      "fecha_operacion": "2023-04-04",
+      "moneda": "CHF",
+      "compra": 26.86948565,
+      "venta": 26.93682771
+    },
+    {
+      "fecha_valor": "2023-04-04",
+      "fecha_operacion": "2023-04-03",
+      "moneda": "CHF",
+      "compra": 26.76711893,
+      "venta": 26.83420444
+    },
+    {
+      "fecha_valor": "2023-04-03",
+      "fecha_operacion": "2023-03-31",
+      "moneda": "CHF",
+      "compra": 26.75710207,
+      "venta": 26.82416248
+    },
+    {
+      "fecha_valor": "2023-03-31",
+      "fecha_operacion": "2023-03-30",
+      "moneda": "CHF",
+      "compra": 26.75142922,
+      "venta": 26.81847541
+    },
+    {
+      "fecha_valor": "2023-03-30",
+      "fecha_operacion": "2023-03-29",
+      "moneda": "CHF",
+      "compra": 26.54586915,
+      "venta": 26.61240015
+    },
+    {
+      "fecha_valor": "2023-03-29",
+      "fecha_operacion": "2023-03-28",
+      "moneda": "CHF",
+      "compra": 26.44679732,
+      "venta": 26.51308002
+    },
+    {
+      "fecha_valor": "2023-03-28",
+      "fecha_operacion": "2023-03-27",
+      "moneda": "CHF",
+      "compra": 26.55235641,
+      "venta": 26.61890367
+    },
+    {
+      "fecha_valor": "2023-03-27",
+      "fecha_operacion": "2023-03-24",
+      "moneda": "CHF",
+      "compra": 26.47846746,
+      "venta": 26.54482953
+    },
+    {
+      "fecha_valor": "2023-03-24",
+      "fecha_operacion": "2023-03-23",
+      "moneda": "CHF",
+      "compra": 26.53940849,
+      "venta": 26.60592329
+    },
+    {
+      "fecha_valor": "2023-03-23",
+      "fecha_operacion": "2023-03-22",
+      "moneda": "CHF",
+      "compra": 26.15950315,
+      "venta": 26.22506582
+    },
+    {
+      "fecha_valor": "2023-03-22",
+      "fecha_operacion": "2023-03-21",
+      "moneda": "CHF",
+      "compra": 26.1817019,
+      "venta": 26.24732021
+    },
+    {
+      "fecha_valor": "2023-03-21",
+      "fecha_operacion": "2023-03-20",
+      "moneda": "CHF",
+      "compra": 26.0990966,
+      "venta": 26.16450786
+    },
+    {
+      "fecha_valor": "2023-03-20",
+      "fecha_operacion": "2023-03-17",
+      "moneda": "CHF",
+      "compra": 26.02866853,
+      "venta": 26.09390329
+    },
+    {
+      "fecha_valor": "2023-03-17",
+      "fecha_operacion": "2023-03-16",
+      "moneda": "CHF",
+      "compra": 25.90723051,
+      "venta": 25.97216091
+    },
+    {
+      "fecha_valor": "2023-03-16",
+      "fecha_operacion": "2023-03-15",
+      "moneda": "CHF",
+      "compra": 26.03938387,
+      "venta": 26.10464548
+    },
+    {
+      "fecha_valor": "2023-03-15",
+      "fecha_operacion": "2023-03-14",
+      "moneda": "CHF",
+      "compra": 26.13427132,
+      "venta": 26.19977075
+    },
+    {
+      "fecha_valor": "2023-03-14",
+      "fecha_operacion": "2023-03-13",
+      "moneda": "CHF",
+      "compra": 26.41316656,
+      "venta": 26.47936497
+    },
+    {
+      "fecha_valor": "2023-03-13",
+      "fecha_operacion": "2023-03-10",
+      "moneda": "CHF",
+      "compra": 26.06518613,
+      "venta": 26.13051241
+    },
+    {
+      "fecha_valor": "2023-03-10",
+      "fecha_operacion": "2023-03-09",
+      "moneda": "CHF",
+      "compra": 25.71694671,
+      "venta": 25.78140021
+    },
+    {
+      "fecha_valor": "2023-03-09",
+      "fecha_operacion": "2023-03-08",
+      "moneda": "CHF",
+      "compra": 25.66477517,
+      "venta": 25.72909791
+    },
+    {
+      "fecha_valor": "2023-03-08",
+      "fecha_operacion": "2023-03-07",
+      "moneda": "CHF",
+      "compra": 25.74890545,
+      "venta": 25.81343905
+    },
+    {
+      "fecha_valor": "2023-03-07",
+      "fecha_operacion": "2023-03-06",
+      "moneda": "CHF",
+      "compra": 25.94710023,
+      "venta": 26.01213056
+    },
+    {
+      "fecha_valor": "2023-03-06",
+      "fecha_operacion": "2023-03-03",
+      "moneda": "CHF",
+      "compra": 25.8193709,
+      "venta": 25.88408111
+    },
+    {
+      "fecha_valor": "2023-03-03",
+      "fecha_operacion": "2023-03-02",
+      "moneda": "CHF",
+      "compra": 25.7827403,
+      "venta": 25.8473587
+    },
+    {
+      "fecha_valor": "2023-03-02",
+      "fecha_operacion": "2023-03-01",
+      "moneda": "CHF",
+      "compra": 25.82367779,
+      "venta": 25.88839878
+    },
+    {
+      "fecha_valor": "2023-03-01",
+      "fecha_operacion": "2023-02-28",
+      "moneda": "CHF",
+      "compra": 25.9307848,
+      "venta": 25.99577424
+    },
+    {
+      "fecha_valor": "2023-02-28",
+      "fecha_operacion": "2023-02-27",
+      "moneda": "CHF",
+      "compra": 25.94462667,
+      "venta": 26.00965079
+    },
+    {
+      "fecha_valor": "2023-02-27",
+      "fecha_operacion": "2023-02-24",
+      "moneda": "CHF",
+      "compra": 25.96066689,
+      "venta": 26.02573121
+    },
+    {
+      "fecha_valor": "2023-02-24",
+      "fecha_operacion": "2023-02-23",
+      "moneda": "CHF",
+      "compra": 26.0824353,
+      "venta": 26.14780481
+    },
+    {
+      "fecha_valor": "2023-02-23",
+      "fecha_operacion": "2023-02-22",
+      "moneda": "CHF",
+      "compra": 26.21473677,
+      "venta": 26.28043787
+    },
+    {
+      "fecha_valor": "2023-02-22",
+      "fecha_operacion": "2023-02-17",
+      "moneda": "CHF",
+      "compra": 26.19246575,
+      "venta": 26.25811103
+    },
+    {
+      "fecha_valor": "2023-02-17",
+      "fecha_operacion": "2023-02-16",
+      "moneda": "CHF",
+      "compra": 26.24635216,
+      "venta": 26.31213249
+    },
+    {
+      "fecha_valor": "2023-02-16",
+      "fecha_operacion": "2023-02-15",
+      "moneda": "CHF",
+      "compra": 26.28087133,
+      "venta": 26.34673817
+    },
+    {
+      "fecha_valor": "2023-02-15",
+      "fecha_operacion": "2023-02-14",
+      "moneda": "CHF",
+      "compra": 26.43943581,
+      "venta": 26.50570006
+    },
+    {
+      "fecha_valor": "2023-02-14",
+      "fecha_operacion": "2023-02-13",
+      "moneda": "CHF",
+      "compra": 26.21040644,
+      "venta": 26.27609668
+    },
+    {
+      "fecha_valor": "2023-02-13",
+      "fecha_operacion": "2023-02-10",
+      "moneda": "CHF",
+      "compra": 26.15047123,
+      "venta": 26.21601126
+    },
+    {
+      "fecha_valor": "2023-02-10",
+      "fecha_operacion": "2023-02-09",
+      "moneda": "CHF",
+      "compra": 26.25579627,
+      "venta": 26.32160027
+    },
+    {
+      "fecha_valor": "2023-02-09",
+      "fecha_operacion": "2023-02-08",
+      "moneda": "CHF",
+      "compra": 25.80341175,
+      "venta": 25.86808196
+    },
+    {
+      "fecha_valor": "2023-02-08",
+      "fecha_operacion": "2023-02-07",
+      "moneda": "CHF",
+      "compra": 25.40903606,
+      "venta": 25.47271785
+    },
+    {
+      "fecha_valor": "2023-02-07",
+      "fecha_operacion": "2023-02-06",
+      "moneda": "CHF",
+      "compra": 24.90758769,
+      "venta": 24.97001272
+    },
+    {
+      "fecha_valor": "2023-02-06",
+      "fecha_operacion": "2023-02-03",
+      "moneda": "CHF",
+      "compra": 24.67247729,
+      "venta": 24.73431307
+    },
+    {
+      "fecha_valor": "2023-02-03",
+      "fecha_operacion": "2023-02-02",
+      "moneda": "CHF",
+      "compra": 24.84990389,
+      "venta": 24.91218435
+    },
+    {
+      "fecha_valor": "2023-02-02",
+      "fecha_operacion": "2023-02-01",
+      "moneda": "CHF",
+      "compra": 24.42010686,
+      "venta": 24.48131014
+    },
+    {
+      "fecha_valor": "2023-02-01",
+      "fecha_operacion": "2023-01-31",
+      "moneda": "CHF",
+      "compra": 24.18011847,
+      "venta": 24.24072027
+    },
+    {
+      "fecha_valor": "2023-01-31",
+      "fecha_operacion": "2023-01-30",
+      "moneda": "CHF",
+      "compra": 23.72247838,
+      "venta": 23.78193321
+    },
+    {
+      "fecha_valor": "2023-01-30",
+      "fecha_operacion": "2023-01-27",
+      "moneda": "CHF",
+      "compra": 23.78670503,
+      "venta": 23.84632083
+    },
+    {
+      "fecha_valor": "2023-01-27",
+      "fecha_operacion": "2023-01-26",
+      "moneda": "CHF",
+      "compra": 23.64939902,
+      "venta": 23.70867069
+    },
+    {
+      "fecha_valor": "2023-01-26",
+      "fecha_operacion": "2023-01-25",
+      "moneda": "CHF",
+      "compra": 23.1152881,
+      "venta": 23.17322115
+    },
+    {
+      "fecha_valor": "2023-01-25",
+      "fecha_operacion": "2023-01-24",
+      "moneda": "CHF",
+      "compra": 22.82809217,
+      "venta": 22.88530543
+    },
+    {
+      "fecha_valor": "2023-01-24",
+      "fecha_operacion": "2023-01-23",
+      "moneda": "CHF",
+      "compra": 22.38523357,
+      "venta": 22.44133691
+    },
+    {
+      "fecha_valor": "2023-01-23",
+      "fecha_operacion": "2023-01-20",
+      "moneda": "CHF",
+      "compra": 22.26171693,
+      "venta": 22.3175107
+    },
+    {
+      "fecha_valor": "2023-01-20",
+      "fecha_operacion": "2023-01-19",
+      "moneda": "CHF",
+      "compra": 22.072072,
+      "venta": 22.12739047
+    },
+    {
+      "fecha_valor": "2023-01-19",
+      "fecha_operacion": "2023-01-18",
+      "moneda": "CHF",
+      "compra": 21.89670223,
+      "venta": 21.95158119
+    },
+    {
+      "fecha_valor": "2023-01-18",
+      "fecha_operacion": "2023-01-17",
+      "moneda": "CHF",
+      "compra": 21.66462091,
+      "venta": 21.71891821
+    },
+    {
+      "fecha_valor": "2023-01-17",
+      "fecha_operacion": "2023-01-16",
+      "moneda": "CHF",
+      "compra": 21.16497491,
+      "venta": 21.21801996
+    },
+    {
+      "fecha_valor": "2023-01-16",
+      "fecha_operacion": "2023-01-13",
+      "moneda": "CHF",
+      "compra": 20.9523794,
+      "venta": 21.00489163
+    },
+    {
+      "fecha_valor": "2023-01-13",
+      "fecha_operacion": "2023-01-12",
+      "moneda": "CHF",
+      "compra": 20.62397202,
+      "venta": 20.67566118
+    },
+    {
+      "fecha_valor": "2023-01-12",
+      "fecha_operacion": "2023-01-11",
+      "moneda": "CHF",
+      "compra": 20.4399424,
+      "venta": 20.49117033
+    },
+    {
+      "fecha_valor": "2023-01-11",
+      "fecha_operacion": "2023-01-10",
+      "moneda": "CHF",
+      "compra": 20.34943275,
+      "venta": 20.40043383
+    },
+    {
+      "fecha_valor": "2023-01-10",
+      "fecha_operacion": "2023-01-06",
+      "moneda": "CHF",
+      "compra": 19.75577279,
+      "venta": 19.805286
+    },
+    {
+      "fecha_valor": "2023-01-06",
+      "fecha_operacion": "2023-01-05",
+      "moneda": "CHF",
+      "compra": 19.62817417,
+      "venta": 19.67736759
+    },
+    {
+      "fecha_valor": "2023-01-05",
+      "fecha_operacion": "2023-01-04",
+      "moneda": "CHF",
+      "compra": 19.29203123,
+      "venta": 19.34038219
+    },
+    {
+      "fecha_valor": "2023-01-04",
+      "fecha_operacion": "2023-01-03",
+      "moneda": "CHF",
+      "compra": 19.11199215,
+      "venta": 19.15989188
+    },
+    {
+      "fecha_valor": "2023-01-03",
+      "fecha_operacion": "2023-01-02",
+      "moneda": "CHF",
+      "compra": 18.92716906,
+      "venta": 18.97460557
+    },
+    {
+      "fecha_valor": "2023-01-02",
+      "fecha_operacion": "2022-12-30",
+      "moneda": "CHF",
+      "compra": 18.91497072,
+      "venta": 18.96237666
+    },
+    {
+      "fecha_valor": "2022-12-30",
+      "fecha_operacion": "2022-12-29",
+      "moneda": "CHF",
+      "compra": 18.69563211,
+      "venta": 18.74248833
+    },
+    {
+      "fecha_valor": "2022-12-29",
+      "fecha_operacion": "2022-12-28",
+      "moneda": "CHF",
+      "compra": 18.44266858,
+      "venta": 18.4888908
+    },
+    {
+      "fecha_valor": "2022-12-28",
+      "fecha_operacion": "2022-12-27",
+      "moneda": "CHF",
+      "compra": 18.02797969,
+      "venta": 18.07316259
+    },
+    {
+      "fecha_valor": "2022-12-27",
+      "fecha_operacion": "2022-12-26",
+      "moneda": "CHF",
+      "compra": 17.74706921,
+      "venta": 17.79154808
+    },
+    {
+      "fecha_valor": "2022-12-26",
+      "fecha_operacion": "2022-12-23",
+      "moneda": "CHF",
+      "compra": 17.71877533,
+      "venta": 17.76318329
+    },
+    {
+      "fecha_valor": "2022-12-23",
+      "fecha_operacion": "2022-12-22",
+      "moneda": "CHF",
+      "compra": 17.65990083,
+      "venta": 17.70416124
+    },
+    {
+      "fecha_valor": "2022-12-22",
+      "fecha_operacion": "2022-12-21",
+      "moneda": "CHF",
+      "compra": 17.41499384,
+      "venta": 17.45864044
+    },
+    {
+      "fecha_valor": "2022-12-21",
+      "fecha_operacion": "2022-12-20",
+      "moneda": "CHF",
+      "compra": 17.21408339,
+      "venta": 17.25722645
+    },
+    {
+      "fecha_valor": "2022-12-20",
+      "fecha_operacion": "2022-12-19",
+      "moneda": "CHF",
+      "compra": 17.11794259,
+      "venta": 17.16084471
+    },
+    {
+      "fecha_valor": "2022-12-19",
+      "fecha_operacion": "2022-12-16",
+      "moneda": "CHF",
+      "compra": 16.90316731,
+      "venta": 16.94553114
+    },
+    {
+      "fecha_valor": "2022-12-16",
+      "fecha_operacion": "2022-12-15",
+      "moneda": "CHF",
+      "compra": 16.77792888,
+      "venta": 16.81997882
+    },
+    {
+      "fecha_valor": "2022-12-15",
+      "fecha_operacion": "2022-12-14",
+      "moneda": "CHF",
+      "compra": 16.41905325,
+      "venta": 16.46020376
+    },
+    {
+      "fecha_valor": "2022-12-14",
+      "fecha_operacion": "2022-12-13",
+      "moneda": "CHF",
+      "compra": 15.92854122,
+      "venta": 15.96846237
+    },
+    {
+      "fecha_valor": "2022-12-13",
+      "fecha_operacion": "2022-12-09",
+      "moneda": "CHF",
+      "compra": 15.086556,
+      "venta": 15.12436692
+    },
+    {
+      "fecha_valor": "2022-12-09",
+      "fecha_operacion": "2022-12-08",
+      "moneda": "CHF",
+      "compra": 14.46169188,
+      "venta": 14.49793672
+    },
+    {
+      "fecha_valor": "2022-12-08",
+      "fecha_operacion": "2022-12-07",
+      "moneda": "CHF",
+      "compra": 13.46594689,
+      "venta": 13.49969613
+    },
+    {
+      "fecha_valor": "2022-12-07",
+      "fecha_operacion": "2022-12-06",
+      "moneda": "CHF",
+      "compra": 12.58110783,
+      "venta": 12.61263943
+    },
+    {
+      "fecha_valor": "2022-12-06",
+      "fecha_operacion": "2022-12-05",
+      "moneda": "CHF",
+      "compra": 12.26480601,
+      "venta": 12.29554487
+    },
+    {
+      "fecha_valor": "2022-12-05",
+      "fecha_operacion": "2022-12-02",
+      "moneda": "CHF",
+      "compra": 12.40078949,
+      "venta": 12.43186917
+    },
+    {
+      "fecha_valor": "2022-12-02",
+      "fecha_operacion": "2022-12-01",
+      "moneda": "CHF",
+      "compra": 11.97957957,
+      "venta": 12.00960358
+    },
+    {
+      "fecha_valor": "2022-12-01",
+      "fecha_operacion": "2022-11-30",
+      "moneda": "CHF",
+      "compra": 11.63529453,
+      "venta": 11.66445567
+    },
+    {
+      "fecha_valor": "2022-11-30",
+      "fecha_operacion": "2022-11-29",
+      "moneda": "CHF",
+      "compra": 11.47167412,
+      "venta": 11.50042518
+    },
+    {
+      "fecha_valor": "2022-11-29",
+      "fecha_operacion": "2022-11-28",
+      "moneda": "CHF",
+      "compra": 11.41717631,
+      "venta": 11.44579078
+    },
+    {
+      "fecha_valor": "2022-11-28",
+      "fecha_operacion": "2022-11-25",
+      "moneda": "CHF",
+      "compra": 11.28504403,
+      "venta": 11.31332735
+    },
+    {
+      "fecha_valor": "2022-11-25",
+      "fecha_operacion": "2022-11-24",
+      "moneda": "CHF",
+      "compra": 11.02023593,
+      "venta": 11.04785557
+    },
+    {
+      "fecha_valor": "2022-11-24",
+      "fecha_operacion": "2022-11-23",
+      "moneda": "CHF",
+      "compra": 10.7962199,
+      "venta": 10.82327809
+    },
+    {
+      "fecha_valor": "2022-11-23",
+      "fecha_operacion": "2022-11-22",
+      "moneda": "CHF",
+      "compra": 10.46379291,
+      "venta": 10.49001795
+    },
+    {
+      "fecha_valor": "2022-11-22",
+      "fecha_operacion": "2022-11-18",
+      "moneda": "CHF",
+      "compra": 10.44541912,
+      "venta": 10.47159812
+    },
+    {
+      "fecha_valor": "2022-11-18",
+      "fecha_operacion": "2022-11-17",
+      "moneda": "CHF",
+      "compra": 10.25723228,
+      "venta": 10.28293963
+    },
+    {
+      "fecha_valor": "2022-11-17",
+      "fecha_operacion": "2022-11-16",
+      "moneda": "CHF",
+      "compra": 10.12225786,
+      "venta": 10.14762693
+    },
+    {
+      "fecha_valor": "2022-11-16",
+      "fecha_operacion": "2022-11-15",
+      "moneda": "CHF",
+      "compra": 9.96232166,
+      "venta": 9.98728988
+    },
+    {
+      "fecha_valor": "2022-11-15",
+      "fecha_operacion": "2022-11-14",
+      "moneda": "CHF",
+      "compra": 9.82280573,
+      "venta": 9.84742429
+    },
+    {
+      "fecha_valor": "2022-11-14",
+      "fecha_operacion": "2022-11-11",
+      "moneda": "CHF",
+      "compra": 9.75929367,
+      "venta": 9.78375305
+    },
+    {
+      "fecha_valor": "2022-11-11",
+      "fecha_operacion": "2022-11-10",
+      "moneda": "CHF",
+      "compra": 9.30159185,
+      "venta": 9.32490411
+    },
+    {
+      "fecha_valor": "2022-11-10",
+      "fecha_operacion": "2022-11-09",
+      "moneda": "CHF",
+      "compra": 9.06954817,
+      "venta": 9.09227887
+    },
+    {
+      "fecha_valor": "2022-11-09",
+      "fecha_operacion": "2022-11-08",
+      "moneda": "CHF",
+      "compra": 8.92611207,
+      "venta": 8.94848328
+    },
+    {
+      "fecha_valor": "2022-11-08",
+      "fecha_operacion": "2022-11-07",
+      "moneda": "CHF",
+      "compra": 8.79191626,
+      "venta": 8.81395114
+    },
+    {
+      "fecha_valor": "2022-11-07",
+      "fecha_operacion": "2022-11-04",
+      "moneda": "CHF",
+      "compra": 8.79238812,
+      "venta": 8.81442418
+    },
+    {
+      "fecha_valor": "2022-11-04",
+      "fecha_operacion": "2022-11-03",
+      "moneda": "CHF",
+      "compra": 8.54267511,
+      "venta": 8.56408532
+    },
+    {
+      "fecha_valor": "2022-11-03",
+      "fecha_operacion": "2022-11-02",
+      "moneda": "CHF",
+      "compra": 8.64064275,
+      "venta": 8.66229849
+    },
+    {
+      "fecha_valor": "2022-11-02",
+      "fecha_operacion": "2022-11-01",
+      "moneda": "CHF",
+      "compra": 8.55741385,
+      "venta": 8.578861
+    },
+    {
+      "fecha_valor": "2022-11-01",
+      "fecha_operacion": "2022-10-28",
+      "moneda": "CHF",
+      "compra": 8.59990417,
+      "venta": 8.62145781
+    },
+    {
+      "fecha_valor": "2022-10-28",
+      "fecha_operacion": "2022-10-27",
+      "moneda": "CHF",
+      "compra": 8.59554307,
+      "venta": 8.61708579
+    },
+    {
+      "fecha_valor": "2022-10-27",
+      "fecha_operacion": "2022-10-26",
+      "moneda": "CHF",
+      "compra": 8.53698287,
+      "venta": 8.55837882
+    },
+    {
+      "fecha_valor": "2022-10-26",
+      "fecha_operacion": "2022-10-25",
+      "moneda": "CHF",
+      "compra": 8.42539497,
+      "venta": 8.44651125
+    },
+    {
+      "fecha_valor": "2022-10-25",
+      "fecha_operacion": "2022-10-21",
+      "moneda": "CHF",
+      "compra": 8.38607783,
+      "venta": 8.40709557
+    },
+    {
+      "fecha_valor": "2022-10-21",
+      "fecha_operacion": "2022-10-20",
+      "moneda": "CHF",
+      "compra": 8.36791722,
+      "venta": 8.38888944
+    },
+    {
+      "fecha_valor": "2022-10-20",
+      "fecha_operacion": "2022-10-19",
+      "moneda": "CHF",
+      "compra": 8.32094816,
+      "venta": 8.34180267
+    },
+    {
+      "fecha_valor": "2022-10-19",
+      "fecha_operacion": "2022-10-18",
+      "moneda": "CHF",
+      "compra": 8.378632,
+      "venta": 8.39963108
+    },
+    {
+      "fecha_valor": "2022-10-18",
+      "fecha_operacion": "2022-10-17",
+      "moneda": "CHF",
+      "compra": 8.29519289,
+      "venta": 8.31598285
+    },
+    {
+      "fecha_valor": "2022-10-17",
+      "fecha_operacion": "2022-10-14",
+      "moneda": "CHF",
+      "compra": 8.25779789,
+      "venta": 8.27849413
+    },
+    {
+      "fecha_valor": "2022-10-14",
+      "fecha_operacion": "2022-10-13",
+      "moneda": "CHF",
+      "compra": 8.21429674,
+      "venta": 8.23488395
+    },
+    {
+      "fecha_valor": "2022-10-13",
+      "fecha_operacion": "2022-10-11",
+      "moneda": "CHF",
+      "compra": 8.27008979,
+      "venta": 8.29081683
+    },
+    {
+      "fecha_valor": "2022-10-11",
+      "fecha_operacion": "2022-10-10",
+      "moneda": "CHF",
+      "compra": 8.19126322,
+      "venta": 8.2117927
+    },
+    {
+      "fecha_valor": "2022-10-10",
+      "fecha_operacion": "2022-10-07",
+      "moneda": "CHF",
+      "compra": 8.28585183,
+      "venta": 8.30661838
+    },
+    {
+      "fecha_valor": "2022-10-07",
+      "fecha_operacion": "2022-10-06",
+      "moneda": "CHF",
+      "compra": 8.27699681,
+      "venta": 8.29774116
+    },
+    {
+      "fecha_valor": "2022-10-06",
+      "fecha_operacion": "2022-10-05",
+      "moneda": "CHF",
+      "compra": 8.30561971,
+      "venta": 8.3264358
+    },
+    {
+      "fecha_valor": "2022-10-05",
+      "fecha_operacion": "2022-10-04",
+      "moneda": "CHF",
+      "compra": 8.32958152,
+      "venta": 8.35045766
+    },
+    {
+      "fecha_valor": "2022-10-04",
+      "fecha_operacion": "2022-10-03",
+      "moneda": "CHF",
+      "compra": 8.22582652,
+      "venta": 8.24644262
+    },
+    {
+      "fecha_valor": "2022-10-03",
+      "fecha_operacion": "2022-09-30",
+      "moneda": "CHF",
+      "compra": 8.3453241,
+      "venta": 8.36623969
+    },
+    {
+      "fecha_valor": "2022-09-30",
+      "fecha_operacion": "2022-09-29",
+      "moneda": "CHF",
+      "compra": 8.32236435,
+      "venta": 8.34322241
+    },
+    {
+      "fecha_valor": "2022-09-29",
+      "fecha_operacion": "2022-09-28",
+      "moneda": "CHF",
+      "compra": 8.28023275,
+      "venta": 8.30098521
+    },
+    {
+      "fecha_valor": "2022-09-28",
+      "fecha_operacion": "2022-09-27",
+      "moneda": "CHF",
+      "compra": 8.2043269,
+      "venta": 8.22488913
+    },
+    {
+      "fecha_valor": "2022-09-27",
+      "fecha_operacion": "2022-09-26",
+      "moneda": "CHF",
+      "compra": 8.16350711,
+      "venta": 8.18396702
+    },
+    {
+      "fecha_valor": "2022-09-26",
+      "fecha_operacion": "2022-09-23",
+      "moneda": "CHF",
+      "compra": 8.25395231,
+      "venta": 8.27463891
+    },
+    {
+      "fecha_valor": "2022-09-23",
+      "fecha_operacion": "2022-09-22",
+      "moneda": "CHF",
+      "compra": 8.2429117,
+      "venta": 8.26357062
+    },
+    {
+      "fecha_valor": "2022-09-22",
+      "fecha_operacion": "2022-09-21",
+      "moneda": "CHF",
+      "compra": 8.36361967,
+      "venta": 8.38458112
+    },
+    {
+      "fecha_valor": "2022-09-21",
+      "fecha_operacion": "2022-09-20",
+      "moneda": "CHF",
+      "compra": 8.31708064,
+      "venta": 8.33792546
+    },
+    {
+      "fecha_valor": "2022-09-20",
+      "fecha_operacion": "2022-09-19",
+      "moneda": "CHF",
+      "compra": 8.29201314,
+      "venta": 8.31279512
+    },
+    {
+      "fecha_valor": "2022-09-19",
+      "fecha_operacion": "2022-09-16",
+      "moneda": "CHF",
+      "compra": 8.34546389,
+      "venta": 8.36637984
+    },
+    {
+      "fecha_valor": "2022-09-16",
+      "fecha_operacion": "2022-09-15",
+      "moneda": "CHF",
+      "compra": 8.34093449,
+      "venta": 8.36183909
+    },
+    {
+      "fecha_valor": "2022-09-15",
+      "fecha_operacion": "2022-09-14",
+      "moneda": "CHF",
+      "compra": 8.34522167,
+      "venta": 8.36613701
+    },
+    {
+      "fecha_valor": "2022-09-14",
+      "fecha_operacion": "2022-09-13",
+      "moneda": "CHF",
+      "compra": 8.30515015,
+      "venta": 8.32596506
+    },
+    {
+      "fecha_valor": "2022-09-13",
+      "fecha_operacion": "2022-09-12",
+      "moneda": "CHF",
+      "compra": 8.36366997,
+      "venta": 8.38463155
+    },
+    {
+      "fecha_valor": "2022-09-12",
+      "fecha_operacion": "2022-09-09",
+      "moneda": "CHF",
+      "compra": 8.286551,
+      "venta": 8.3073193
+    },
+    {
+      "fecha_valor": "2022-09-09",
+      "fecha_operacion": "2022-09-08",
+      "moneda": "CHF",
+      "compra": 8.20770169,
+      "venta": 8.22827238
+    },
+    {
+      "fecha_valor": "2022-09-08",
+      "fecha_operacion": "2022-09-07",
+      "moneda": "CHF",
+      "compra": 8.12084577,
+      "venta": 8.14119877
+    },
+    {
+      "fecha_valor": "2022-09-07",
+      "fecha_operacion": "2022-09-06",
+      "moneda": "CHF",
+      "compra": 8.10238441,
+      "venta": 8.12269114
+    },
+    {
+      "fecha_valor": "2022-09-06",
+      "fecha_operacion": "2022-09-05",
+      "moneda": "CHF",
+      "compra": 8.07478704,
+      "venta": 8.0950246
+    },
+    {
+      "fecha_valor": "2022-09-05",
+      "fecha_operacion": "2022-09-02",
+      "moneda": "CHF",
+      "compra": 8.1099316,
+      "venta": 8.13025724
+    },
+    {
+      "fecha_valor": "2022-09-02",
+      "fecha_operacion": "2022-09-01",
+      "moneda": "CHF",
+      "compra": 8.0218347,
+      "venta": 8.04193955
+    },
+    {
+      "fecha_valor": "2022-09-01",
+      "fecha_operacion": "2022-08-31",
+      "moneda": "CHF",
+      "compra": 8.07515591,
+      "venta": 8.09539439
+    },
+    {
+      "fecha_valor": "2022-08-31",
+      "fecha_operacion": "2022-08-30",
+      "moneda": "CHF",
+      "compra": 8.03328044,
+      "venta": 8.05341398
+    },
+    {
+      "fecha_valor": "2022-08-30",
+      "fecha_operacion": "2022-08-29",
+      "moneda": "CHF",
+      "compra": 8.04834461,
+      "venta": 8.0685159
+    },
+    {
+      "fecha_valor": "2022-08-29",
+      "fecha_operacion": "2022-08-26",
+      "moneda": "CHF",
+      "compra": 8.12916991,
+      "venta": 8.14954377
+    },
+    {
+      "fecha_valor": "2022-08-26",
+      "fecha_operacion": "2022-08-25",
+      "moneda": "CHF",
+      "compra": 8.10898207,
+      "venta": 8.12930533
+    },
+    {
+      "fecha_valor": "2022-08-25",
+      "fecha_operacion": "2022-08-24",
+      "moneda": "CHF",
+      "compra": 7.24974434,
+      "venta": 7.26791412
+    },
+    {
+      "fecha_valor": "2022-08-24",
+      "fecha_operacion": "2022-08-23",
+      "moneda": "CHF",
+      "compra": 6.51235826,
+      "venta": 6.52867996
+    },
+    {
+      "fecha_valor": "2022-08-23",
+      "fecha_operacion": "2022-08-22",
+      "moneda": "CHF",
+      "compra": 6.46111601,
+      "venta": 6.47730928
+    },
+    {
+      "fecha_valor": "2022-08-22",
+      "fecha_operacion": "2022-08-19",
+      "moneda": "CHF",
+      "compra": 6.42974827,
+      "venta": 6.44586292
+    },
+    {
+      "fecha_valor": "2022-08-19",
+      "fecha_operacion": "2022-08-18",
+      "moneda": "CHF",
+      "compra": 6.36947631,
+      "venta": 6.38543991
+    },
+    {
+      "fecha_valor": "2022-08-18",
+      "fecha_operacion": "2022-08-17",
+      "moneda": "CHF",
+      "compra": 6.24901459,
+      "venta": 6.26467628
+    },
+    {
+      "fecha_valor": "2022-08-17",
+      "fecha_operacion": "2022-08-16",
+      "moneda": "CHF",
+      "compra": 6.26671893,
+      "venta": 6.28242499
+    },
+    {
+      "fecha_valor": "2022-08-16",
+      "fecha_operacion": "2022-08-12",
+      "moneda": "CHF",
+      "compra": 6.31577446,
+      "venta": 6.33160347
+    },
+    {
+      "fecha_valor": "2022-08-12",
+      "fecha_operacion": "2022-08-11",
+      "moneda": "CHF",
+      "compra": 6.31651593,
+      "venta": 6.3323468
+    },
+    {
+      "fecha_valor": "2022-08-11",
+      "fecha_operacion": "2022-08-10",
+      "moneda": "CHF",
+      "compra": 6.28532143,
+      "venta": 6.30107412
+    },
+    {
+      "fecha_valor": "2022-08-10",
+      "fecha_operacion": "2022-08-09",
+      "moneda": "CHF",
+      "compra": 6.17780362,
+      "venta": 6.19328684
+    },
+    {
+      "fecha_valor": "2022-08-09",
+      "fecha_operacion": "2022-08-08",
+      "moneda": "CHF",
+      "compra": 6.1249192,
+      "venta": 6.14026987
+    },
+    {
+      "fecha_valor": "2022-08-08",
+      "fecha_operacion": "2022-08-05",
+      "moneda": "CHF",
+      "compra": 6.07144213,
+      "venta": 6.08665878
+    },
+    {
+      "fecha_valor": "2022-08-05",
+      "fecha_operacion": "2022-08-04",
+      "moneda": "CHF",
+      "compra": 6.08431664,
+      "venta": 6.09956556
+    },
+    {
+      "fecha_valor": "2022-08-04",
+      "fecha_operacion": "2022-08-03",
+      "moneda": "CHF",
+      "compra": 5.98861956,
+      "venta": 6.00362863
+    },
+    {
+      "fecha_valor": "2022-08-03",
+      "fecha_operacion": "2022-08-02",
+      "moneda": "CHF",
+      "compra": 6.06259553,
+      "venta": 6.07779
+    },
+    {
+      "fecha_valor": "2022-08-02",
+      "fecha_operacion": "2022-08-01",
+      "moneda": "CHF",
+      "compra": 6.06798057,
+      "venta": 6.08318854
+    },
+    {
+      "fecha_valor": "2022-08-01",
+      "fecha_operacion": "2022-07-29",
+      "moneda": "CHF",
+      "compra": 6.07296969,
+      "venta": 6.08819016
+    },
+    {
+      "fecha_valor": "2022-07-29",
+      "fecha_operacion": "2022-07-28",
+      "moneda": "CHF",
+      "compra": 6.03233162,
+      "venta": 6.04745025
+    },
+    {
+      "fecha_valor": "2022-07-28",
+      "fecha_operacion": "2022-07-27",
+      "moneda": "CHF",
+      "compra": 5.97206494,
+      "venta": 5.98703252
+    },
+    {
+      "fecha_valor": "2022-07-27",
+      "fecha_operacion": "2022-07-26",
+      "moneda": "CHF",
+      "compra": 5.95756385,
+      "venta": 5.97249508
+    },
+    {
+      "fecha_valor": "2022-07-26",
+      "fecha_operacion": "2022-07-25",
+      "moneda": "CHF",
+      "compra": 5.91471813,
+      "venta": 5.92954199
+    },
+    {
+      "fecha_valor": "2022-07-25",
+      "fecha_operacion": "2022-07-22",
+      "moneda": "CHF",
+      "compra": 5.94839259,
+      "venta": 5.96330084
+    },
+    {
+      "fecha_valor": "2022-07-22",
+      "fecha_operacion": "2022-07-21",
+      "moneda": "CHF",
+      "compra": 5.89911385,
+      "venta": 5.9138986
+    },
+    {
+      "fecha_valor": "2022-07-21",
+      "fecha_operacion": "2022-07-20",
+      "moneda": "CHF",
+      "compra": 5.8766082,
+      "venta": 5.89133654
+    },
+    {
+      "fecha_valor": "2022-07-20",
+      "fecha_operacion": "2022-07-19",
+      "moneda": "CHF",
+      "compra": 5.87421703,
+      "venta": 5.88893938
+    },
+    {
+      "fecha_valor": "2022-07-19",
+      "fecha_operacion": "2022-07-18",
+      "moneda": "CHF",
+      "compra": 5.81025159,
+      "venta": 5.82481362
+    },
+    {
+      "fecha_valor": "2022-07-18",
+      "fecha_operacion": "2022-07-15",
+      "moneda": "CHF",
+      "compra": 5.81417605,
+      "venta": 5.82874792
+    },
+    {
+      "fecha_valor": "2022-07-15",
+      "fecha_operacion": "2022-07-14",
+      "moneda": "CHF",
+      "compra": 5.74852645,
+      "venta": 5.76293379
+    },
+    {
+      "fecha_valor": "2022-07-14",
+      "fecha_operacion": "2022-07-13",
+      "moneda": "CHF",
+      "compra": 5.77422102,
+      "venta": 5.78869276
+    },
+    {
+      "fecha_valor": "2022-07-13",
+      "fecha_operacion": "2022-07-12",
+      "moneda": "CHF",
+      "compra": 5.71403239,
+      "venta": 5.72835327
+    },
+    {
+      "fecha_valor": "2022-07-12",
+      "fecha_operacion": "2022-07-11",
+      "moneda": "CHF",
+      "compra": 5.70339008,
+      "venta": 5.71768429
+    },
+    {
+      "fecha_valor": "2022-07-11",
+      "fecha_operacion": "2022-07-08",
+      "moneda": "CHF",
+      "compra": 5.73048643,
+      "venta": 5.74484855
+    },
+    {
+      "fecha_valor": "2022-07-08",
+      "fecha_operacion": "2022-07-07",
+      "moneda": "CHF",
+      "compra": 5.71543754,
+      "venta": 5.72976195
+    },
+    {
+      "fecha_valor": "2022-07-07",
+      "fecha_operacion": "2022-07-06",
+      "moneda": "CHF",
+      "compra": 5.71470967,
+      "venta": 5.72903225
+    },
+    {
+      "fecha_valor": "2022-07-06",
+      "fecha_operacion": "2022-07-01",
+      "moneda": "CHF",
+      "compra": 5.7553536,
+      "venta": 5.76977804
+    },
+    {
+      "fecha_valor": "2022-07-01",
+      "fecha_operacion": "2022-06-30",
+      "moneda": "CHF",
+      "compra": 5.76694171,
+      "venta": 5.7813952
+    },
+    {
+      "fecha_valor": "2022-06-30",
+      "fecha_operacion": "2022-06-29",
+      "moneda": "CHF",
+      "compra": 5.79054499,
+      "venta": 5.80505763
+    },
+    {
+      "fecha_valor": "2022-06-29",
+      "fecha_operacion": "2022-06-28",
+      "moneda": "CHF",
+      "compra": 5.7437122,
+      "venta": 5.75810747
+    },
+    {
+      "fecha_valor": "2022-06-28",
+      "fecha_operacion": "2022-06-27",
+      "moneda": "CHF",
+      "compra": 5.71394633,
+      "venta": 5.728267
+    },
+    {
+      "fecha_valor": "2022-06-27",
+      "fecha_operacion": "2022-06-23",
+      "moneda": "CHF",
+      "compra": 5.72433524,
+      "venta": 5.73868194
+    },
+    {
+      "fecha_valor": "2022-06-23",
+      "fecha_operacion": "2022-06-22",
+      "moneda": "CHF",
+      "compra": 5.68673762,
+      "venta": 5.70099009
+    },
+    {
+      "fecha_valor": "2022-06-22",
+      "fecha_operacion": "2022-06-21",
+      "moneda": "CHF",
+      "compra": 5.64801514,
+      "venta": 5.66217057
+    },
+    {
+      "fecha_valor": "2022-06-21",
+      "fecha_operacion": "2022-06-17",
+      "moneda": "CHF",
+      "compra": 5.61785537,
+      "venta": 5.63193521
+    },
+    {
+      "fecha_valor": "2022-06-17",
+      "fecha_operacion": "2022-06-16",
+      "moneda": "CHF",
+      "compra": 5.57889889,
+      "venta": 5.59288109
+    },
+    {
+      "fecha_valor": "2022-06-16",
+      "fecha_operacion": "2022-06-15",
+      "moneda": "CHF",
+      "compra": 5.34597811,
+      "venta": 5.35937656
+    },
+    {
+      "fecha_valor": "2022-06-15",
+      "fecha_operacion": "2022-06-14",
+      "moneda": "CHF",
+      "compra": 5.2993653,
+      "venta": 5.31264692
+    },
+    {
+      "fecha_valor": "2022-06-14",
+      "fecha_operacion": "2022-06-10",
+      "moneda": "CHF",
+      "compra": 5.3629662,
+      "venta": 5.37640722
+    },
+    {
+      "fecha_valor": "2022-06-10",
+      "fecha_operacion": "2022-06-09",
+      "moneda": "CHF",
+      "compra": 5.35147004,
+      "venta": 5.36488225
+    },
+    {
+      "fecha_valor": "2022-06-09",
+      "fecha_operacion": "2022-06-08",
+      "moneda": "CHF",
+      "compra": 5.32352307,
+      "venta": 5.33686523
+    },
+    {
+      "fecha_valor": "2022-06-08",
+      "fecha_operacion": "2022-06-07",
+      "moneda": "CHF",
+      "compra": 5.29432049,
+      "venta": 5.30758946
+    },
+    {
+      "fecha_valor": "2022-06-07",
+      "fecha_operacion": "2022-06-06",
+      "moneda": "CHF",
+      "compra": 5.32251294,
+      "venta": 5.33585257
+    },
+    {
+      "fecha_valor": "2022-06-06",
+      "fecha_operacion": "2022-06-03",
+      "moneda": "CHF",
+      "compra": 5.34006251,
+      "venta": 5.35344612
+    },
+    {
+      "fecha_valor": "2022-06-03",
+      "fecha_operacion": "2022-06-02",
+      "moneda": "CHF",
+      "compra": 5.32665728,
+      "venta": 5.34000729
+    },
+    {
+      "fecha_valor": "2022-06-02",
+      "fecha_operacion": "2022-06-01",
+      "moneda": "CHF",
+      "compra": 5.26646563,
+      "venta": 5.27966479
+    },
+    {
+      "fecha_valor": "2022-06-01",
+      "fecha_operacion": "2022-05-31",
+      "moneda": "CHF",
+      "compra": 5.2707636,
+      "venta": 5.28397354
+    },
+    {
+      "fecha_valor": "2022-05-31",
+      "fecha_operacion": "2022-05-27",
+      "moneda": "CHF",
+      "compra": 5.28409689,
+      "venta": 5.29734024
+    },
+    {
+      "fecha_valor": "2022-05-27",
+      "fecha_operacion": "2022-05-26",
+      "moneda": "CHF",
+      "compra": 5.22137506,
+      "venta": 5.23446121
+    },
+    {
+      "fecha_valor": "2022-05-26",
+      "fecha_operacion": "2022-05-25",
+      "moneda": "CHF",
+      "compra": 5.19513761,
+      "venta": 5.208158
+    },
+    {
+      "fecha_valor": "2022-05-25",
+      "fecha_operacion": "2022-05-24",
+      "moneda": "CHF",
+      "compra": 5.1514938,
+      "venta": 5.16440482
+    },
+    {
+      "fecha_valor": "2022-05-24",
+      "fecha_operacion": "2022-05-23",
+      "moneda": "CHF",
+      "compra": 5.10216645,
+      "venta": 5.11495384
+    },
+    {
+      "fecha_valor": "2022-05-23",
+      "fecha_operacion": "2022-05-20",
+      "moneda": "CHF",
+      "compra": 5.05947419,
+      "venta": 5.07215458
+    },
+    {
+      "fecha_valor": "2022-05-20",
+      "fecha_operacion": "2022-05-19",
+      "moneda": "CHF",
+      "compra": 5.02352009,
+      "venta": 5.03611036
+    },
+    {
+      "fecha_valor": "2022-05-19",
+      "fecha_operacion": "2022-05-18",
+      "moneda": "CHF",
+      "compra": 4.86938587,
+      "venta": 4.88158984
+    },
+    {
+      "fecha_valor": "2022-05-18",
+      "fecha_operacion": "2022-05-17",
+      "moneda": "CHF",
+      "compra": 4.82890823,
+      "venta": 4.84101076
+    },
+    {
+      "fecha_valor": "2022-05-17",
+      "fecha_operacion": "2022-05-16",
+      "moneda": "CHF",
+      "compra": 4.74956513,
+      "venta": 4.7614688
+    },
+    {
+      "fecha_valor": "2022-05-16",
+      "fecha_operacion": "2022-05-13",
+      "moneda": "CHF",
+      "compra": 4.74940739,
+      "venta": 4.76131067
+    },
+    {
+      "fecha_valor": "2022-05-13",
+      "fecha_operacion": "2022-05-12",
+      "moneda": "CHF",
+      "compra": 4.71336932,
+      "venta": 4.72518227
+    },
+    {
+      "fecha_valor": "2022-05-12",
+      "fecha_operacion": "2022-05-11",
+      "moneda": "CHF",
+      "compra": 4.67492858,
+      "venta": 4.6866452
+    },
+    {
+      "fecha_valor": "2022-05-11",
+      "fecha_operacion": "2022-05-10",
+      "moneda": "CHF",
+      "compra": 4.62464952,
+      "venta": 4.63624012
+    },
+    {
+      "fecha_valor": "2022-05-10",
+      "fecha_operacion": "2022-05-09",
+      "moneda": "CHF",
+      "compra": 4.59668824,
+      "venta": 4.60820876
+    },
+    {
+      "fecha_valor": "2022-05-09",
+      "fecha_operacion": "2022-05-06",
+      "moneda": "CHF",
+      "compra": 4.64408738,
+      "venta": 4.65572669
+    },
+    {
+      "fecha_valor": "2022-05-06",
+      "fecha_operacion": "2022-05-05",
+      "moneda": "CHF",
+      "compra": 4.61181949,
+      "venta": 4.62337793
+    },
+    {
+      "fecha_valor": "2022-05-05",
+      "fecha_operacion": "2022-05-04",
+      "moneda": "CHF",
+      "compra": 4.61554998,
+      "venta": 4.62711778
+    },
+    {
+      "fecha_valor": "2022-05-04",
+      "fecha_operacion": "2022-05-03",
+      "moneda": "CHF",
+      "compra": 4.61273503,
+      "venta": 4.62429577
+    },
+    {
+      "fecha_valor": "2022-05-03",
+      "fecha_operacion": "2022-05-02",
+      "moneda": "CHF",
+      "compra": 4.5984701,
+      "venta": 4.60999509
+    },
+    {
+      "fecha_valor": "2022-05-02",
+      "fecha_operacion": "2022-04-29",
+      "moneda": "CHF",
+      "compra": 4.6117593,
+      "venta": 4.6233176
+    },
+    {
+      "fecha_valor": "2022-04-29",
+      "fecha_operacion": "2022-04-28",
+      "moneda": "CHF",
+      "compra": 4.61138063,
+      "venta": 4.62293798
+    },
+    {
+      "fecha_valor": "2022-04-28",
+      "fecha_operacion": "2022-04-27",
+      "moneda": "CHF",
+      "compra": 4.59506172,
+      "venta": 4.60657817
+    },
+    {
+      "fecha_valor": "2022-04-27",
+      "fecha_operacion": "2022-04-26",
+      "moneda": "CHF",
+      "compra": 4.62153739,
+      "venta": 4.63312019
+    },
+    {
+      "fecha_valor": "2022-04-26",
+      "fecha_operacion": "2022-04-25",
+      "moneda": "CHF",
+      "compra": 4.6240956,
+      "venta": 4.63568482
+    },
+    {
+      "fecha_valor": "2022-04-25",
+      "fecha_operacion": "2022-04-22",
+      "moneda": "CHF",
+      "compra": 4.61887476,
+      "venta": 4.63045088
+    },
+    {
+      "fecha_valor": "2022-04-22",
+      "fecha_operacion": "2022-04-21",
+      "moneda": "CHF",
+      "compra": 4.65112214,
+      "venta": 4.66277909
+    },
+    {
+      "fecha_valor": "2022-04-21",
+      "fecha_operacion": "2022-04-20",
+      "moneda": "CHF",
+      "compra": 4.68489829,
+      "venta": 4.69663989
+    },
+    {
+      "fecha_valor": "2022-04-20",
+      "fecha_operacion": "2022-04-18",
+      "moneda": "CHF",
+      "compra": 4.69935495,
+      "venta": 4.71113278
+    },
+    {
+      "fecha_valor": "2022-04-18",
+      "fecha_operacion": "2022-04-13",
+      "moneda": "CHF",
+      "compra": 4.74411474,
+      "venta": 4.75600475
+    },
+    {
+      "fecha_valor": "2022-04-13",
+      "fecha_operacion": "2022-04-12",
+      "moneda": "CHF",
+      "compra": 4.76052465,
+      "venta": 4.77245579
+    },
+    {
+      "fecha_valor": "2022-04-12",
+      "fecha_operacion": "2022-04-11",
+      "moneda": "CHF",
+      "compra": 4.74157016,
+      "venta": 4.75345379
+    },
+    {
+      "fecha_valor": "2022-04-11",
+      "fecha_operacion": "2022-04-08",
+      "moneda": "CHF",
+      "compra": 4.72487628,
+      "venta": 4.73671808
+    },
+    {
+      "fecha_valor": "2022-04-08",
+      "fecha_operacion": "2022-04-07",
+      "moneda": "CHF",
+      "compra": 4.72494372,
+      "venta": 4.73678568
+    },
+    {
+      "fecha_valor": "2022-04-07",
+      "fecha_operacion": "2022-04-06",
+      "moneda": "CHF",
+      "compra": 4.71920763,
+      "venta": 4.73103522
+    },
+    {
+      "fecha_valor": "2022-04-06",
+      "fecha_operacion": "2022-04-05",
+      "moneda": "CHF",
+      "compra": 4.74441681,
+      "venta": 4.75630758
+    },
+    {
+      "fecha_valor": "2022-04-05",
+      "fecha_operacion": "2022-04-04",
+      "moneda": "CHF",
+      "compra": 4.75603084,
+      "venta": 4.76795072
+    },
+    {
+      "fecha_valor": "2022-04-04",
+      "fecha_operacion": "2022-04-01",
+      "moneda": "CHF",
+      "compra": 4.74713855,
+      "venta": 4.75903614
+    },
+    {
+      "fecha_valor": "2022-04-01",
+      "fecha_operacion": "2022-03-31",
+      "moneda": "CHF",
+      "compra": 4.74579541,
+      "venta": 4.75768963
+    },
+    {
+      "fecha_valor": "2022-03-31",
+      "fecha_operacion": "2022-03-30",
+      "moneda": "CHF",
+      "compra": 4.73147438,
+      "venta": 4.74333271
+    },
+    {
+      "fecha_valor": "2022-03-30",
+      "fecha_operacion": "2022-03-29",
+      "moneda": "CHF",
+      "compra": 4.68137545,
+      "venta": 4.69310822
+    },
+    {
+      "fecha_valor": "2022-03-29",
+      "fecha_operacion": "2022-03-28",
+      "moneda": "CHF",
+      "compra": 4.66301127,
+      "venta": 4.67469802
+    },
+    {
+      "fecha_valor": "2022-03-28",
+      "fecha_operacion": "2022-03-25",
+      "moneda": "CHF",
+      "compra": 4.67824005,
+      "venta": 4.68996496
+    },
+    {
+      "fecha_valor": "2022-03-25",
+      "fecha_operacion": "2022-03-24",
+      "moneda": "CHF",
+      "compra": 4.651636,
+      "venta": 4.66329423
+    },
+    {
+      "fecha_valor": "2022-03-24",
+      "fecha_operacion": "2022-03-23",
+      "moneda": "CHF",
+      "compra": 4.62706798,
+      "venta": 4.63866465
+    },
+    {
+      "fecha_valor": "2022-03-23",
+      "fecha_operacion": "2022-03-22",
+      "moneda": "CHF",
+      "compra": 4.61114749,
+      "venta": 4.62270425
+    },
+    {
+      "fecha_valor": "2022-03-22",
+      "fecha_operacion": "2022-03-21",
+      "moneda": "CHF",
+      "compra": 4.60955509,
+      "venta": 4.62110786
+    },
+    {
+      "fecha_valor": "2022-03-21",
+      "fecha_operacion": "2022-03-18",
+      "moneda": "CHF",
+      "compra": 4.59628065,
+      "venta": 4.60780015
+    },
+    {
+      "fecha_valor": "2022-03-18",
+      "fecha_operacion": "2022-03-17",
+      "moneda": "CHF",
+      "compra": 4.57534601,
+      "venta": 4.58681304
+    },
+    {
+      "fecha_valor": "2022-03-17",
+      "fecha_operacion": "2022-03-16",
+      "moneda": "CHF",
+      "compra": 4.54303366,
+      "venta": 4.55441971
+    },
+    {
+      "fecha_valor": "2022-03-16",
+      "fecha_operacion": "2022-03-15",
+      "moneda": "CHF",
+      "compra": 4.53020374,
+      "venta": 4.54155764
+    },
+    {
+      "fecha_valor": "2022-03-15",
+      "fecha_operacion": "2022-03-14",
+      "moneda": "CHF",
+      "compra": 4.52316714,
+      "venta": 4.53450339
+    },
+    {
+      "fecha_valor": "2022-03-14",
+      "fecha_operacion": "2022-03-11",
+      "moneda": "CHF",
+      "compra": 4.51429677,
+      "venta": 4.5256108
+    },
+    {
+      "fecha_valor": "2022-03-11",
+      "fecha_operacion": "2022-03-10",
+      "moneda": "CHF",
+      "compra": 4.64965285,
+      "venta": 4.66130612
+    },
+    {
+      "fecha_valor": "2022-03-10",
+      "fecha_operacion": "2022-03-09",
+      "moneda": "CHF",
+      "compra": 4.65241275,
+      "venta": 4.66407294
+    },
+    {
+      "fecha_valor": "2022-03-09",
+      "fecha_operacion": "2022-03-08",
+      "moneda": "CHF",
+      "compra": 4.6461196,
+      "venta": 4.65776401
+    },
+    {
+      "fecha_valor": "2022-03-08",
+      "fecha_operacion": "2022-03-07",
+      "moneda": "CHF",
+      "compra": 4.66591176,
+      "venta": 4.67760578
+    },
+    {
+      "fecha_valor": "2022-03-07",
+      "fecha_operacion": "2022-03-04",
+      "moneda": "CHF",
+      "compra": 4.69919044,
+      "venta": 4.71096786
+    },
+    {
+      "fecha_valor": "2022-03-04",
+      "fecha_operacion": "2022-03-03",
+      "moneda": "CHF",
+      "compra": 4.74211167,
+      "venta": 4.75399666
+    },
+    {
+      "fecha_valor": "2022-03-03",
+      "fecha_operacion": "2022-03-02",
+      "moneda": "CHF",
+      "compra": 4.72900036,
+      "venta": 4.7408525
+    },
+    {
+      "fecha_valor": "2022-03-02",
+      "fecha_operacion": "2022-02-25",
+      "moneda": "CHF",
+      "compra": 4.71482713,
+      "venta": 4.72664374
+    },
+    {
+      "fecha_valor": "2022-02-25",
+      "fecha_operacion": "2022-02-24",
+      "moneda": "CHF",
+      "compra": 4.73109936,
+      "venta": 4.74295675
+    },
+    {
+      "fecha_valor": "2022-02-24",
+      "fecha_operacion": "2022-02-23",
+      "moneda": "CHF",
+      "compra": 4.77075617,
+      "venta": 4.78271295
+    },
+    {
+      "fecha_valor": "2022-02-23",
+      "fecha_operacion": "2022-02-22",
+      "moneda": "CHF",
+      "compra": 4.69764919,
+      "venta": 4.70942274
+    },
+    {
+      "fecha_valor": "2022-02-22",
+      "fecha_operacion": "2022-02-21",
+      "moneda": "CHF",
+      "compra": 4.79777885,
+      "venta": 4.80980336
+    },
+    {
+      "fecha_valor": "2022-02-21",
+      "fecha_operacion": "2022-02-18",
+      "moneda": "CHF",
+      "compra": 4.78997632,
+      "venta": 4.80198127
+    },
+    {
+      "fecha_valor": "2022-02-18",
+      "fecha_operacion": "2022-02-17",
+      "moneda": "CHF",
+      "compra": 4.77666583,
+      "venta": 4.78863742
+    },
+    {
+      "fecha_valor": "2022-02-17",
+      "fecha_operacion": "2022-02-16",
+      "moneda": "CHF",
+      "compra": 4.79367431,
+      "venta": 4.80568853
+    },
+    {
+      "fecha_valor": "2022-02-16",
+      "fecha_operacion": "2022-02-15",
+      "moneda": "CHF",
+      "compra": 4.78293404,
+      "venta": 4.79492134
+    },
+    {
+      "fecha_valor": "2022-02-15",
+      "fecha_operacion": "2022-02-14",
+      "moneda": "CHF",
+      "compra": 4.78246048,
+      "venta": 4.7944466
+    },
+    {
+      "fecha_valor": "2022-02-14",
+      "fecha_operacion": "2022-02-11",
+      "moneda": "CHF",
+      "compra": 4.81017744,
+      "venta": 4.82223302
+    },
+    {
+      "fecha_valor": "2022-02-11",
+      "fecha_operacion": "2022-02-10",
+      "moneda": "CHF",
+      "compra": 4.79883316,
+      "venta": 4.81086031
+    },
+    {
+      "fecha_valor": "2022-02-10",
+      "fecha_operacion": "2022-02-09",
+      "moneda": "CHF",
+      "compra": 4.8529568,
+      "venta": 4.8651196
+    },
+    {
+      "fecha_valor": "2022-02-09",
+      "fecha_operacion": "2022-02-08",
+      "moneda": "CHF",
+      "compra": 4.84948886,
+      "venta": 4.86164297
+    },
+    {
+      "fecha_valor": "2022-02-08",
+      "fecha_operacion": "2022-02-07",
+      "moneda": "CHF",
+      "compra": 4.87510898,
+      "venta": 4.8873273
+    },
+    {
+      "fecha_valor": "2022-02-07",
+      "fecha_operacion": "2022-02-04",
+      "moneda": "CHF",
+      "compra": 4.87573937,
+      "venta": 4.88795926
+    },
+    {
+      "fecha_valor": "2022-02-04",
+      "fecha_operacion": "2022-02-03",
+      "moneda": "CHF",
+      "compra": 4.91560615,
+      "venta": 4.92792596
+    },
+    {
+      "fecha_valor": "2022-02-03",
+      "fecha_operacion": "2022-02-02",
+      "moneda": "CHF",
+      "compra": 4.91108983,
+      "venta": 4.92339832
+    },
+    {
+      "fecha_valor": "2022-02-02",
+      "fecha_operacion": "2022-02-01",
+      "moneda": "CHF",
+      "compra": 4.89474047,
+      "venta": 4.90700799
+    },
+    {
+      "fecha_valor": "2022-02-01",
+      "fecha_operacion": "2022-01-31",
+      "moneda": "CHF",
+      "compra": 4.86563396,
+      "venta": 4.87782854
+    },
+    {
+      "fecha_valor": "2022-01-31",
+      "fecha_operacion": "2022-01-28",
+      "moneda": "CHF",
+      "compra": 4.87466645,
+      "venta": 4.88688366
+    },
+    {
+      "fecha_valor": "2022-01-28",
+      "fecha_operacion": "2022-01-27",
+      "moneda": "CHF",
+      "compra": 4.89895562,
+      "venta": 4.91123371
+    },
+    {
+      "fecha_valor": "2022-01-27",
+      "fecha_operacion": "2022-01-26",
+      "moneda": "CHF",
+      "compra": 4.96761307,
+      "venta": 4.98006323
+    },
+    {
+      "fecha_valor": "2022-01-26",
+      "fecha_operacion": "2022-01-25",
+      "moneda": "CHF",
+      "compra": 4.98435159,
+      "venta": 4.9968437
+    },
+    {
+      "fecha_valor": "2022-01-25",
+      "fecha_operacion": "2022-01-24",
+      "moneda": "CHF",
+      "compra": 5.00178145,
+      "venta": 5.01431725
+    },
+    {
+      "fecha_valor": "2022-01-24",
+      "fecha_operacion": "2022-01-21",
+      "moneda": "CHF",
+      "compra": 5.04321952,
+      "venta": 5.05585917
+    },
+    {
+      "fecha_valor": "2022-01-21",
+      "fecha_operacion": "2022-01-20",
+      "moneda": "CHF",
+      "compra": 5.03275169,
+      "venta": 5.0453651
+    },
+    {
+      "fecha_valor": "2022-01-20",
+      "fecha_operacion": "2022-01-19",
+      "moneda": "CHF",
+      "compra": 5.04957828,
+      "venta": 5.06223386
+    },
+    {
+      "fecha_valor": "2022-01-19",
+      "fecha_operacion": "2022-01-18",
+      "moneda": "CHF",
+      "compra": 5.04002979,
+      "venta": 5.05266144
+    },
+    {
+      "fecha_valor": "2022-01-18",
+      "fecha_operacion": "2022-01-14",
+      "moneda": "CHF",
+      "compra": 5.06675696,
+      "venta": 5.0794556
+    },
+    {
+      "fecha_valor": "2022-01-14",
+      "fecha_operacion": "2022-01-13",
+      "moneda": "CHF",
+      "compra": 5.08339132,
+      "venta": 5.09613164
+    },
+    {
+      "fecha_valor": "2022-01-13",
+      "fecha_operacion": "2022-01-12",
+      "moneda": "CHF",
+      "compra": 5.04245822,
+      "venta": 5.05509596
+    },
+    {
+      "fecha_valor": "2022-01-12",
+      "fecha_operacion": "2022-01-11",
+      "moneda": "CHF",
+      "compra": 5.00025823,
+      "venta": 5.0127902
+    },
+    {
+      "fecha_valor": "2022-01-11",
+      "fecha_operacion": "2022-01-07",
+      "moneda": "CHF",
+      "compra": 5.02341637,
+      "venta": 5.03600638
+    },
+    {
+      "fecha_valor": "2022-01-07",
+      "fecha_operacion": "2022-01-06",
+      "moneda": "CHF",
+      "compra": 5.02199696,
+      "venta": 5.03458341
+    },
+    {
+      "fecha_valor": "2022-01-06",
+      "fecha_operacion": "2022-01-05",
+      "moneda": "CHF",
+      "compra": 5.01228849,
+      "venta": 5.02485062
+    },
+    {
+      "fecha_valor": "2022-01-05",
+      "fecha_operacion": "2022-01-04",
+      "moneda": "CHF",
+      "compra": 5.02499179,
+      "venta": 5.03758575
+    },
+    {
+      "fecha_valor": "2022-01-04",
+      "fecha_operacion": "2022-01-03",
+      "moneda": "CHF",
+      "compra": 4.97946807,
+      "venta": 4.99194794
+    },
+    {
+      "fecha_valor": "2022-01-03",
+      "fecha_operacion": "2021-12-30",
+      "moneda": "CHF",
+      "compra": 5.02053558,
+      "venta": 5.03311838
+    },
+    {
+      "fecha_valor": "2021-12-30",
+      "fecha_operacion": "2021-12-29",
+      "moneda": "CHF",
+      "compra": 5.01168651,
+      "venta": 5.02424713
+    },
+    {
+      "fecha_valor": "2021-12-29",
+      "fecha_operacion": "2021-12-28",
+      "moneda": "CHF",
+      "compra": 4.97424577,
+      "venta": 4.98671255
+    },
+    {
+      "fecha_valor": "2021-12-28",
+      "fecha_operacion": "2021-12-27",
+      "moneda": "CHF",
+      "compra": 4.9687457,
+      "venta": 4.9811987
+    },
+    {
+      "fecha_valor": "2021-12-27",
+      "fecha_operacion": "2021-12-23",
+      "moneda": "CHF",
+      "compra": 4.97994951,
+      "venta": 4.99243059
+    },
+    {
+      "fecha_valor": "2021-12-23",
+      "fecha_operacion": "2021-12-22",
+      "moneda": "CHF",
+      "compra": 4.95737434,
+      "venta": 4.96979883
+    },
+    {
+      "fecha_valor": "2021-12-22",
+      "fecha_operacion": "2021-12-21",
+      "moneda": "CHF",
+      "compra": 4.96628991,
+      "venta": 4.97873675
+    },
+    {
+      "fecha_valor": "2021-12-21",
+      "fecha_operacion": "2021-12-20",
+      "moneda": "CHF",
+      "compra": 4.98251759,
+      "venta": 4.9950051
+    },
+    {
+      "fecha_valor": "2021-12-20",
+      "fecha_operacion": "2021-12-17",
+      "moneda": "CHF",
+      "compra": 5.00093492,
+      "venta": 5.01346859
+    },
+    {
+      "fecha_valor": "2021-12-17",
+      "fecha_operacion": "2021-12-16",
+      "moneda": "CHF",
+      "compra": 4.99242413,
+      "venta": 5.00493647
+    },
+    {
+      "fecha_valor": "2021-12-16",
+      "fecha_operacion": "2021-12-15",
+      "moneda": "CHF",
+      "compra": 4.96245667,
+      "venta": 4.9748939
+    },
+    {
+      "fecha_valor": "2021-12-15",
+      "fecha_operacion": "2021-12-14",
+      "moneda": "CHF",
+      "compra": 5.00694835,
+      "venta": 5.01949709
+    },
+    {
+      "fecha_valor": "2021-12-14",
+      "fecha_operacion": "2021-12-10",
+      "moneda": "CHF",
+      "compra": 5.01926131,
+      "venta": 5.03184091
+    },
+    {
+      "fecha_valor": "2021-12-10",
+      "fecha_operacion": "2021-12-09",
+      "moneda": "CHF",
+      "compra": 4.99579884,
+      "venta": 5.00831964
+    },
+    {
+      "fecha_valor": "2021-12-09",
+      "fecha_operacion": "2021-12-08",
+      "moneda": "CHF",
+      "compra": 5.01029419,
+      "venta": 5.02285132
+    },
+    {
+      "fecha_valor": "2021-12-08",
+      "fecha_operacion": "2021-12-07",
+      "moneda": "CHF",
+      "compra": 4.9904113,
+      "venta": 5.0029186
+    },
+    {
+      "fecha_valor": "2021-12-07",
+      "fecha_operacion": "2021-12-06",
+      "moneda": "CHF",
+      "compra": 5.00402419,
+      "venta": 5.01656561
+    },
+    {
+      "fecha_valor": "2021-12-06",
+      "fecha_operacion": "2021-12-03",
+      "moneda": "CHF",
+      "compra": 5.02640642,
+      "venta": 5.03900393
+    },
+    {
+      "fecha_valor": "2021-12-03",
+      "fecha_operacion": "2021-12-02",
+      "moneda": "CHF",
+      "compra": 5.04360516,
+      "venta": 5.05624578
+    },
+    {
+      "fecha_valor": "2021-12-02",
+      "fecha_operacion": "2021-12-01",
+      "moneda": "CHF",
+      "compra": 5.03028599,
+      "venta": 5.04289322
+    },
+    {
+      "fecha_valor": "2021-12-01",
+      "fecha_operacion": "2021-11-30",
+      "moneda": "CHF",
+      "compra": 5.0323618,
+      "venta": 5.04497423
+    },
+    {
+      "fecha_valor": "2021-11-30",
+      "fecha_operacion": "2021-11-29",
+      "moneda": "CHF",
+      "compra": 4.97094026,
+      "venta": 4.98339876
+    },
+    {
+      "fecha_valor": "2021-11-29",
+      "fecha_operacion": "2021-11-26",
+      "moneda": "CHF",
+      "compra": 4.97822394,
+      "venta": 4.99070069
+    },
+    {
+      "fecha_valor": "2021-11-26",
+      "fecha_operacion": "2021-11-25",
+      "moneda": "CHF",
+      "compra": 4.88704618,
+      "venta": 4.89929441
+    },
+    {
+      "fecha_valor": "2021-11-25",
+      "fecha_operacion": "2021-11-24",
+      "moneda": "CHF",
+      "compra": 4.85858359,
+      "venta": 4.87076049
+    },
+    {
+      "fecha_valor": "2021-11-24",
+      "fecha_operacion": "2021-11-23",
+      "moneda": "CHF",
+      "compra": 4.85618952,
+      "venta": 4.86836042
+    },
+    {
+      "fecha_valor": "2021-11-23",
+      "fecha_operacion": "2021-11-19",
+      "moneda": "CHF",
+      "compra": 4.89025459,
+      "venta": 4.90251087
+    },
+    {
+      "fecha_valor": "2021-11-19",
+      "fecha_operacion": "2021-11-18",
+      "moneda": "CHF",
+      "compra": 4.93360375,
+      "venta": 4.94596868
+    },
+    {
+      "fecha_valor": "2021-11-18",
+      "fecha_operacion": "2021-11-17",
+      "moneda": "CHF",
+      "compra": 4.85969517,
+      "venta": 4.87187486
+    },
+    {
+      "fecha_valor": "2021-11-17",
+      "fecha_operacion": "2021-11-16",
+      "moneda": "CHF",
+      "compra": 4.85858004,
+      "venta": 4.87075694
+    },
+    {
+      "fecha_valor": "2021-11-16",
+      "fecha_operacion": "2021-11-15",
+      "moneda": "CHF",
+      "compra": 4.86438128,
+      "venta": 4.87657271
+    },
+    {
+      "fecha_valor": "2021-11-15",
+      "fecha_operacion": "2021-11-12",
+      "moneda": "CHF",
+      "compra": 4.84956111,
+      "venta": 4.8617154
+    },
+    {
+      "fecha_valor": "2021-11-12",
+      "fecha_operacion": "2021-11-11",
+      "moneda": "CHF",
+      "compra": 4.83968214,
+      "venta": 4.85181167
+    },
+    {
+      "fecha_valor": "2021-11-11",
+      "fecha_operacion": "2021-11-10",
+      "moneda": "CHF",
+      "compra": 4.88916661,
+      "venta": 4.90142016
+    },
+    {
+      "fecha_valor": "2021-11-10",
+      "fecha_operacion": "2021-11-09",
+      "moneda": "CHF",
+      "compra": 4.86628306,
+      "venta": 4.87847926
+    },
+    {
+      "fecha_valor": "2021-11-09",
+      "fecha_operacion": "2021-11-08",
+      "moneda": "CHF",
+      "compra": 4.83835253,
+      "venta": 4.85047873
+    },
+    {
+      "fecha_valor": "2021-11-08",
+      "fecha_operacion": "2021-11-05",
+      "moneda": "CHF",
+      "compra": 4.84509031,
+      "venta": 4.85723339
+    },
+    {
+      "fecha_valor": "2021-11-05",
+      "fecha_operacion": "2021-11-04",
+      "moneda": "CHF",
+      "compra": 4.82977932,
+      "venta": 4.84188403
+    },
+    {
+      "fecha_valor": "2021-11-04",
+      "fecha_operacion": "2021-11-03",
+      "moneda": "CHF",
+      "compra": 4.85429877,
+      "venta": 4.86646493
+    },
+    {
+      "fecha_valor": "2021-11-03",
+      "fecha_operacion": "2021-11-02",
+      "moneda": "CHF",
+      "compra": 4.81634958,
+      "venta": 4.82842063
+    },
+    {
+      "fecha_valor": "2021-11-02",
+      "fecha_operacion": "2021-10-29",
+      "moneda": "CHF",
+      "compra": 4.77649164,
+      "venta": 4.7884628
+    },
+    {
+      "fecha_valor": "2021-10-29",
+      "fecha_operacion": "2021-10-28",
+      "moneda": "CHF",
+      "compra": 4.79769576,
+      "venta": 4.80972006
+    },
+    {
+      "fecha_valor": "2021-10-28",
+      "fecha_operacion": "2021-10-27",
+      "moneda": "CHF",
+      "compra": 4.6972613,
+      "venta": 4.70903388
+    },
+    {
+      "fecha_valor": "2021-10-27",
+      "fecha_operacion": "2021-10-26",
+      "moneda": "CHF",
+      "compra": 4.65635897,
+      "venta": 4.66802904
+    },
+    {
+      "fecha_valor": "2021-10-26",
+      "fecha_operacion": "2021-10-25",
+      "moneda": "CHF",
+      "compra": 4.63666804,
+      "venta": 4.64828876
+    },
+    {
+      "fecha_valor": "2021-10-25",
+      "fecha_operacion": "2021-10-22",
+      "moneda": "CHF",
+      "compra": 4.61765611,
+      "venta": 4.62922918
+    },
+    {
+      "fecha_valor": "2021-10-22",
+      "fecha_operacion": "2021-10-21",
+      "moneda": "CHF",
+      "compra": 4.57623541,
+      "venta": 4.58770467
+    },
+    {
+      "fecha_valor": "2021-10-21",
+      "fecha_operacion": "2021-10-20",
+      "moneda": "CHF",
+      "compra": 4.52758342,
+      "venta": 4.53893074
+    },
+    {
+      "fecha_valor": "2021-10-20",
+      "fecha_operacion": "2021-10-19",
+      "moneda": "CHF",
+      "compra": 4.50110084,
+      "venta": 4.5123818
+    },
+    {
+      "fecha_valor": "2021-10-19",
+      "fecha_operacion": "2021-10-18",
+      "moneda": "CHF",
+      "compra": 4.48187225,
+      "venta": 4.49310501
+    },
+    {
+      "fecha_valor": "2021-10-18",
+      "fecha_operacion": "2021-10-15",
+      "moneda": "CHF",
+      "compra": 4.471697,
+      "venta": 4.48290427
+    },
+    {
+      "fecha_valor": "2021-10-15",
+      "fecha_operacion": "2021-10-14",
+      "moneda": "CHF",
+      "compra": 4.49466275,
+      "venta": 4.50592756
+    },
+    {
+      "fecha_valor": "2021-10-14",
+      "fecha_operacion": "2021-10-13",
+      "moneda": "CHF",
+      "compra": 4.50428275,
+      "venta": 4.51557168
+    },
+    {
+      "fecha_valor": "2021-10-13",
+      "fecha_operacion": "2021-10-11",
+      "moneda": "CHF",
+      "compra": 4.48262343,
+      "venta": 4.49385807
+    },
+    {
+      "fecha_valor": "2021-10-11",
+      "fecha_operacion": "2021-10-08",
+      "moneda": "CHF",
+      "compra": 4.48175415,
+      "venta": 4.49298662
+    },
+    {
+      "fecha_valor": "2021-10-08",
+      "fecha_operacion": "2021-10-07",
+      "moneda": "CHF",
+      "compra": 4.47037938,
+      "venta": 4.48158334
+    },
+    {
+      "fecha_valor": "2021-10-07",
+      "fecha_operacion": "2021-10-06",
+      "moneda": "CHF",
+      "compra": 4.47360707,
+      "venta": 4.48481912
+    },
+    {
+      "fecha_valor": "2021-10-06",
+      "fecha_operacion": "2021-10-05",
+      "moneda": "CHF",
+      "compra": 4.51549633,
+      "venta": 4.52681336
+    },
+    {
+      "fecha_valor": "2021-10-05",
+      "fecha_operacion": "2021-10-04",
+      "moneda": "CHF",
+      "compra": 4.50656905,
+      "venta": 4.51786371
+    },
+    {
+      "fecha_valor": "2021-10-04",
+      "fecha_operacion": "2021-09-29",
+      "moneda": "CHF",
+      "compra": 4.46824206,
+      "venta": 4.47944066
+    },
+    {
+      "fecha_valor": "2021-09-29",
+      "fecha_operacion": "2021-09-28",
+      "moneda": "CHF",
+      "compra": 4447561.45311863,
+      "venta": 4458708.22367783
+    },
+    {
+      "fecha_valor": "2021-09-28",
+      "fecha_operacion": "2021-09-27",
+      "moneda": "CHF",
+      "compra": 4465447.98640953,
+      "venta": 4476639.58537297
+    },
+    {
+      "fecha_valor": "2021-09-27",
+      "fecha_operacion": "2021-09-24",
+      "moneda": "CHF",
+      "compra": 4425565.03229647,
+      "venta": 4436656.67398142
+    },
+    {
+      "fecha_valor": "2021-09-24",
+      "fecha_operacion": "2021-09-23",
+      "moneda": "CHF",
+      "compra": 4364382.73653336,
+      "venta": 4375321.03913118
+    },
+    {
+      "fecha_valor": "2021-09-23",
+      "fecha_operacion": "2021-09-22",
+      "moneda": "CHF",
+      "compra": 4361456.81459503,
+      "venta": 4372387.78405517
+    },
+    {
+      "fecha_valor": "2021-09-22",
+      "fecha_operacion": "2021-09-21",
+      "moneda": "CHF",
+      "compra": 4350310.99250874,
+      "venta": 4361214.02757769
+    },
+    {
+      "fecha_valor": "2021-09-21",
+      "fecha_operacion": "2021-09-20",
+      "moneda": "CHF",
+      "compra": 4348239.85469406,
+      "venta": 4359137.69894142
+    },
+    {
+      "fecha_valor": "2021-09-20",
+      "fecha_operacion": "2021-09-17",
+      "moneda": "CHF",
+      "compra": 4331463.10980151,
+      "venta": 4342318.90706918
+    },
+    {
+      "fecha_valor": "2021-09-17",
+      "fecha_operacion": "2021-09-16",
+      "moneda": "CHF",
+      "compra": 4364851.83307123,
+      "venta": 4375791.31134961
+    },
+    {
+      "fecha_valor": "2021-09-16",
+      "fecha_operacion": "2021-09-15",
+      "moneda": "CHF",
+      "compra": 4366609.07081968,
+      "venta": 4377552.95320269
+    },
+    {
+      "fecha_valor": "2021-09-15",
+      "fecha_operacion": "2021-09-14",
+      "moneda": "CHF",
+      "compra": 4374367.9494477,
+      "venta": 4385331.27764181
+    },
+    {
+      "fecha_valor": "2021-09-14",
+      "fecha_operacion": "2021-09-13",
+      "moneda": "CHF",
+      "compra": 4326754.94538398,
+      "venta": 4337598.94274084
+    },
+    {
+      "fecha_valor": "2021-09-13",
+      "fecha_operacion": "2021-09-10",
+      "moneda": "CHF",
+      "compra": 4410165.00291095,
+      "venta": 4421218.04803103
+    },
+    {
+      "fecha_valor": "2021-09-10",
+      "fecha_operacion": "2021-09-09",
+      "moneda": "CHF",
+      "compra": 4437455.28851819,
+      "venta": 4448576.73034405
+    },
+    {
+      "fecha_valor": "2021-09-09",
+      "fecha_operacion": "2021-09-08",
+      "moneda": "CHF",
+      "compra": 4402836.3299743,
+      "venta": 4413871.00749303
+    },
+    {
+      "fecha_valor": "2021-09-08",
+      "fecha_operacion": "2021-09-07",
+      "moneda": "CHF",
+      "compra": 4422279.22858398,
+      "venta": 4433362.63517191
+    },
+    {
+      "fecha_valor": "2021-09-07",
+      "fecha_operacion": "2021-09-06",
+      "moneda": "CHF",
+      "compra": 4434663.53479129,
+      "venta": 4445777.97974064
+    },
+    {
+      "fecha_valor": "2021-09-06",
+      "fecha_operacion": "2021-09-03",
+      "moneda": "CHF",
+      "compra": 4434290.38138204,
+      "venta": 4445403.89110982
+    },
+    {
+      "fecha_valor": "2021-09-03",
+      "fecha_operacion": "2021-09-02",
+      "moneda": "CHF",
+      "compra": 4457694.8800966,
+      "venta": 4468867.04771589
+    },
+    {
+      "fecha_valor": "2021-09-02",
+      "fecha_operacion": "2021-09-01",
+      "moneda": "CHF",
+      "compra": 4469350.51177916,
+      "venta": 4480551.89150793
+    },
+    {
+      "fecha_valor": "2021-09-01",
+      "fecha_operacion": "2021-08-31",
+      "moneda": "CHF",
+      "compra": 4491622.3856674,
+      "venta": 4502879.58462898
+    },
+    {
+      "fecha_valor": "2021-08-31",
+      "fecha_operacion": "2021-08-30",
+      "moneda": "CHF",
+      "compra": 4515917.24101926,
+      "venta": 4527235.32934262
+    },
+    {
+      "fecha_valor": "2021-08-30",
+      "fecha_operacion": "2021-08-27",
+      "moneda": "CHF",
+      "compra": 4517183.09127471,
+      "venta": 4528504.3521551
+    },
+    {
+      "fecha_valor": "2021-08-27",
+      "fecha_operacion": "2021-08-26",
+      "moneda": "CHF",
+      "compra": 4503381.32484378,
+      "venta": 4514667.99483085
+    },
+    {
+      "fecha_valor": "2021-08-26",
+      "fecha_operacion": "2021-08-25",
+      "moneda": "CHF",
+      "compra": 4525292.90140918,
+      "venta": 4536634.48762825
+    },
+    {
+      "fecha_valor": "2021-08-25",
+      "fecha_operacion": "2021-08-24",
+      "moneda": "CHF",
+      "compra": 4507168.10603499,
+      "venta": 4518464.26670174
+    },
+    {
+      "fecha_valor": "2021-08-24",
+      "fecha_operacion": "2021-08-23",
+      "moneda": "CHF",
+      "compra": 4509153.04516255,
+      "venta": 4520454.18061408
+    },
+    {
+      "fecha_valor": "2021-08-23",
+      "fecha_operacion": "2021-08-20",
+      "moneda": "CHF",
+      "compra": 4481342.77924992,
+      "venta": 4492574.21478689
+    },
+    {
+      "fecha_valor": "2021-08-20",
+      "fecha_operacion": "2021-08-19",
+      "moneda": "CHF",
+      "compra": 4478237.66417528,
+      "venta": 4489461.31746896
+    },
+    {
+      "fecha_valor": "2021-08-19",
+      "fecha_operacion": "2021-08-18",
+      "moneda": "CHF",
+      "compra": 4435740.13505322,
+      "venta": 4446857.27824884
+    },
+    {
+      "fecha_valor": "2021-08-18",
+      "fecha_operacion": "2021-08-17",
+      "moneda": "CHF",
+      "compra": 4506841.96324374,
+      "venta": 4518137.30651001
+    },
+    {
+      "fecha_valor": "2021-08-17",
+      "fecha_operacion": "2021-08-16",
+      "moneda": "CHF",
+      "compra": 4497780.57941718,
+      "venta": 4509053.2124483
+    },
+    {
+      "fecha_valor": "2021-08-16",
+      "fecha_operacion": "2021-08-13",
+      "moneda": "CHF",
+      "compra": 4502455.10367223,
+      "venta": 4513739.45230299
+    },
+    {
+      "fecha_valor": "2021-08-13",
+      "fecha_operacion": "2021-08-12",
+      "moneda": "CHF",
+      "compra": 4445328.07023678,
+      "venta": 4456469.24334514
+    },
+    {
+      "fecha_valor": "2021-08-12",
+      "fecha_operacion": "2021-08-11",
+      "moneda": "CHF",
+      "compra": 4455396.80790805,
+      "venta": 4466563.21594792
+    },
+    {
+      "fecha_valor": "2021-08-11",
+      "fecha_operacion": "2021-08-10",
+      "moneda": "CHF",
+      "compra": 4428636.5470371,
+      "venta": 4439735.88675399
+    },
+    {
+      "fecha_valor": "2021-08-10",
+      "fecha_operacion": "2021-08-09",
+      "moneda": "CHF",
+      "compra": 4428245.02470461,
+      "venta": 4439343.38316252
+    },
+    {
+      "fecha_valor": "2021-08-09",
+      "fecha_operacion": "2021-08-06",
+      "moneda": "CHF",
+      "compra": 4439759.96524842,
+      "venta": 4450887.18320644
+    },
+    {
+      "fecha_valor": "2021-08-06",
+      "fecha_operacion": "2021-08-05",
+      "moneda": "CHF",
+      "compra": 4446472.40407671,
+      "venta": 4457616.44518968
+    },
+    {
+      "fecha_valor": "2021-08-05",
+      "fecha_operacion": "2021-08-04",
+      "moneda": "CHF",
+      "compra": 4441617.69516548,
+      "venta": 4452749.5690882
+    },
+    {
+      "fecha_valor": "2021-08-04",
+      "fecha_operacion": "2021-08-03",
+      "moneda": "CHF",
+      "compra": 4447686.92285189,
+      "venta": 4458834.00787157
+    },
+    {
+      "fecha_valor": "2021-08-03",
+      "fecha_operacion": "2021-08-02",
+      "moneda": "CHF",
+      "compra": 4428537.03107005,
+      "venta": 4439636.12137348
+    },
+    {
+      "fecha_valor": "2021-08-02",
+      "fecha_operacion": "2021-07-30",
+      "moneda": "CHF",
+      "compra": 4421541.00626372,
+      "venta": 4432622.5626704
+    },
+    {
+      "fecha_valor": "2021-07-30",
+      "fecha_operacion": "2021-07-29",
+      "moneda": "CHF",
+      "compra": 4387094.07164167,
+      "venta": 4398089.29487887
+    },
+    {
+      "fecha_valor": "2021-07-29",
+      "fecha_operacion": "2021-07-28",
+      "moneda": "CHF",
+      "compra": 4408446.04828273,
+      "venta": 4419494.78524584
+    },
+    {
+      "fecha_valor": "2021-07-28",
+      "fecha_operacion": "2021-07-27",
+      "moneda": "CHF",
+      "compra": 4353727.01393451,
+      "venta": 4364638.61046066
+    },
+    {
+      "fecha_valor": "2021-07-27",
+      "fecha_operacion": "2021-07-26",
+      "moneda": "CHF",
+      "compra": 4231871.98552209,
+      "venta": 4242478.18097452
+    },
+    {
+      "fecha_valor": "2021-07-26",
+      "fecha_operacion": "2021-07-23",
+      "moneda": "CHF",
+      "compra": 4101151.74109389,
+      "venta": 4111430.3168861
+    },
+    {
+      "fecha_valor": "2021-07-23",
+      "fecha_operacion": "2021-07-22",
+      "moneda": "CHF",
+      "compra": 4097643.23561188,
+      "venta": 4107913.01815727
+    },
+    {
+      "fecha_valor": "2021-07-22",
+      "fecha_operacion": "2021-07-21",
+      "moneda": "CHF",
+      "compra": 4032072.00642875,
+      "venta": 4042177.45005389
+    },
+    {
+      "fecha_valor": "2021-07-21",
+      "fecha_operacion": "2021-07-20",
+      "moneda": "CHF",
+      "compra": 3945140.08004744,
+      "venta": 3955027.64917037
+    },
+    {
+      "fecha_valor": "2021-07-20",
+      "fecha_operacion": "2021-07-19",
+      "moneda": "CHF",
+      "compra": 3930852.42417423,
+      "venta": 3940704.18463582
+    },
+    {
+      "fecha_valor": "2021-07-19",
+      "fecha_operacion": "2021-07-16",
+      "moneda": "CHF",
+      "compra": 3851206.84581411,
+      "venta": 3860858.99329735
+    },
+    {
+      "fecha_valor": "2021-07-16",
+      "fecha_operacion": "2021-07-15",
+      "moneda": "CHF",
+      "compra": 3741271.17384623,
+      "venta": 3750647.79332955
+    },
+    {
+      "fecha_valor": "2021-07-15",
+      "fecha_operacion": "2021-07-14",
+      "moneda": "CHF",
+      "compra": 3696285.09228796,
+      "venta": 3705548.96469971
+    },
+    {
+      "fecha_valor": "2021-07-14",
+      "fecha_operacion": "2021-07-13",
+      "moneda": "CHF",
+      "compra": 3614317.60681034,
+      "venta": 3623376.04692766
+    },
+    {
+      "fecha_valor": "2021-07-13",
+      "fecha_operacion": "2021-07-12",
+      "moneda": "CHF",
+      "compra": 3586527.43386073,
+      "venta": 3595516.22442179
+    },
+    {
+      "fecha_valor": "2021-07-12",
+      "fecha_operacion": "2021-07-09",
+      "moneda": "CHF",
+      "compra": 3571334.74215783,
+      "venta": 3580285.45579733
+    },
+    {
+      "fecha_valor": "2021-07-09",
+      "fecha_operacion": "2021-07-08",
+      "moneda": "CHF",
+      "compra": 3559536.14869904,
+      "venta": 3568457.29192886
+    },
+    {
+      "fecha_valor": "2021-07-08",
+      "fecha_operacion": "2021-07-07",
+      "moneda": "CHF",
+      "compra": 3500819.93470581,
+      "venta": 3509593.91950457
+    },
+    {
+      "fecha_valor": "2021-07-07",
+      "fecha_operacion": "2021-07-06",
+      "moneda": "CHF",
+      "compra": 3501352.05555053,
+      "venta": 3510127.37398549
+    },
+    {
+      "fecha_valor": "2021-07-06",
+      "fecha_operacion": "2021-07-02",
+      "moneda": "CHF",
+      "compra": 3501700.04787136,
+      "venta": 3510476.23846753
+    },
+    {
+      "fecha_valor": "2021-07-02",
+      "fecha_operacion": "2021-07-01",
+      "moneda": "CHF",
+      "compra": 3500686.57667023,
+      "venta": 3509460.22723833
+    },
+    {
+      "fecha_valor": "2021-07-01",
+      "fecha_operacion": "2021-06-30",
+      "moneda": "CHF",
+      "compra": 3474864.36849466,
+      "venta": 3483573.30174903
+    },
+    {
+      "fecha_valor": "2021-06-30",
+      "fecha_operacion": "2021-06-29",
+      "moneda": "CHF",
+      "compra": 3473761.83956236,
+      "venta": 3482468.00958633
+    },
+    {
+      "fecha_valor": "2021-06-29",
+      "fecha_operacion": "2021-06-25",
+      "moneda": "CHF",
+      "compra": 3475424.77327776,
+      "venta": 3484135.1110554
+    },
+    {
+      "fecha_valor": "2021-06-25",
+      "fecha_operacion": "2021-06-23",
+      "moneda": "CHF",
+      "compra": 3462344.87202144,
+      "venta": 3471022.42809167
+    },
+    {
+      "fecha_valor": "2021-06-23",
+      "fecha_operacion": "2021-06-22",
+      "moneda": "CHF",
+      "compra": 3445036.87362522,
+      "venta": 3453671.05125335
+    },
+    {
+      "fecha_valor": "2021-06-22",
+      "fecha_operacion": "2021-06-21",
+      "moneda": "CHF",
+      "compra": 3418926.09135257,
+      "venta": 3427494.82842363
+    },
+    {
+      "fecha_valor": "2021-06-21",
+      "fecha_operacion": "2021-06-18",
+      "moneda": "CHF",
+      "compra": 3392629.3739513,
+      "venta": 3401132.20446245
+    },
+    {
+      "fecha_valor": "2021-06-18",
+      "fecha_operacion": "2021-06-17",
+      "moneda": "CHF",
+      "compra": 3389633.27312458,
+      "venta": 3398128.59461111
+    },
+    {
+      "fecha_valor": "2021-06-17",
+      "fecha_operacion": "2021-06-16",
+      "moneda": "CHF",
+      "compra": 3445892.99448533,
+      "venta": 3454529.31777978
+    },
+    {
+      "fecha_valor": "2021-06-16",
+      "fecha_operacion": "2021-06-15",
+      "moneda": "CHF",
+      "compra": 3455164.47926824,
+      "venta": 3463824.03936666
+    },
+    {
+      "fecha_valor": "2021-06-15",
+      "fecha_operacion": "2021-06-11",
+      "moneda": "CHF",
+      "compra": 3459623.59772174,
+      "venta": 3468294.33355563
+    },
+    {
+      "fecha_valor": "2021-06-11",
+      "fecha_operacion": "2021-06-10",
+      "moneda": "CHF",
+      "compra": 3490221.84602385,
+      "venta": 3498969.26919684
+    },
+    {
+      "fecha_valor": "2021-06-10",
+      "fecha_operacion": "2021-06-09",
+      "moneda": "CHF",
+      "compra": 3479108.94599283,
+      "venta": 3487828.51728604
+    },
+    {
+      "fecha_valor": "2021-06-09",
+      "fecha_operacion": "2021-06-08",
+      "moneda": "CHF",
+      "compra": 3480340.1902873,
+      "venta": 3489062.84740582
+    },
+    {
+      "fecha_valor": "2021-06-08",
+      "fecha_operacion": "2021-06-07",
+      "moneda": "CHF",
+      "compra": 3459756.78255914,
+      "venta": 3468427.85218961
+    },
+    {
+      "fecha_valor": "2021-06-07",
+      "fecha_operacion": "2021-06-04",
+      "moneda": "CHF",
+      "compra": 3454328.91083741,
+      "venta": 3462986.37677935
+    },
+    {
+      "fecha_valor": "2021-06-04",
+      "fecha_operacion": "2021-06-03",
+      "moneda": "CHF",
+      "compra": 3419413.73537035,
+      "venta": 3427983.69460687
+    },
+    {
+      "fecha_valor": "2021-06-03",
+      "fecha_operacion": "2021-06-02",
+      "moneda": "CHF",
+      "compra": 3440132.98821512,
+      "venta": 3448754.87540363
+    },
+    {
+      "fecha_valor": "2021-06-02",
+      "fecha_operacion": "2021-06-01",
+      "moneda": "CHF",
+      "compra": 3473474.95196146,
+      "venta": 3482180.40296889
+    },
+    {
+      "fecha_valor": "2021-06-01",
+      "fecha_operacion": "2021-05-31",
+      "moneda": "CHF",
+      "compra": 3457918.4584813,
+      "venta": 3466584.92078326
+    },
+    {
+      "fecha_valor": "2021-05-31",
+      "fecha_operacion": "2021-05-28",
+      "moneda": "CHF",
+      "compra": 3437555.09758446,
+      "venta": 3446170.52389419
+    },
+    {
+      "fecha_valor": "2021-05-28",
+      "fecha_operacion": "2021-05-27",
+      "moneda": "CHF",
+      "compra": 3404000.69473048,
+      "venta": 3412532.02479246
+    },
+    {
+      "fecha_valor": "2021-05-27",
+      "fecha_operacion": "2021-05-26",
+      "moneda": "CHF",
+      "compra": 3411387.37125317,
+      "venta": 3419937.21428889
+    },
+    {
+      "fecha_valor": "2021-05-26",
+      "fecha_operacion": "2021-05-25",
+      "moneda": "CHF",
+      "compra": 3399751.39285618,
+      "venta": 3408272.07303878
+    },
+    {
+      "fecha_valor": "2021-05-25",
+      "fecha_operacion": "2021-05-21",
+      "moneda": "CHF",
+      "compra": 3382648.73528737,
+      "venta": 3391126.55166653
+    },
+    {
+      "fecha_valor": "2021-05-21",
+      "fecha_operacion": "2021-05-20",
+      "moneda": "CHF",
+      "compra": 3385523.58961108,
+      "venta": 3394008.61113893
+    },
+    {
+      "fecha_valor": "2021-05-20",
+      "fecha_operacion": "2021-05-19",
+      "moneda": "CHF",
+      "compra": 3352723.21089643,
+      "venta": 3361126.02596133
+    },
+    {
+      "fecha_valor": "2021-05-19",
+      "fecha_operacion": "2021-05-18",
+      "moneda": "CHF",
+      "compra": 3282648.48689483,
+      "venta": 3290875.67608504
+    },
+    {
+      "fecha_valor": "2021-05-18",
+      "fecha_operacion": "2021-05-17",
+      "moneda": "CHF",
+      "compra": 3245358.29032258,
+      "venta": 3253492.02037351
+    },
+    {
+      "fecha_valor": "2021-05-17",
+      "fecha_operacion": "2021-05-14",
+      "moneda": "CHF",
+      "compra": 3277145.35815116,
+      "venta": 3285358.75503876
+    },
+    {
+      "fecha_valor": "2021-05-14",
+      "fecha_operacion": "2021-05-13",
+      "moneda": "CHF",
+      "compra": 3200822.38194101,
+      "venta": 3208844.49317394
+    },
+    {
+      "fecha_valor": "2021-05-13",
+      "fecha_operacion": "2021-05-12",
+      "moneda": "CHF",
+      "compra": 3111840.70494982,
+      "venta": 3119639.80446097
+    },
+    {
+      "fecha_valor": "2021-05-12",
+      "fecha_operacion": "2021-05-11",
+      "moneda": "CHF",
+      "compra": 3122062.63345687,
+      "venta": 3129887.35183646
+    },
+    {
+      "fecha_valor": "2021-05-11",
+      "fecha_operacion": "2021-05-10",
+      "moneda": "CHF",
+      "compra": 3144179.0993616,
+      "venta": 3152059.2474803
+    },
+    {
+      "fecha_valor": "2021-05-10",
+      "fecha_operacion": "2021-05-07",
+      "moneda": "CHF",
+      "compra": 3144848.88478637,
+      "venta": 3152730.71156528
+    },
+    {
+      "fecha_valor": "2021-05-07",
+      "fecha_operacion": "2021-05-06",
+      "moneda": "CHF",
+      "compra": 3141322.02161009,
+      "venta": 3149195.00913292
+    },
+    {
+      "fecha_valor": "2021-05-06",
+      "fecha_operacion": "2021-05-05",
+      "moneda": "CHF",
+      "compra": 3130819.95510742,
+      "venta": 3138666.62166157
+    },
+    {
+      "fecha_valor": "2021-05-05",
+      "fecha_operacion": "2021-05-04",
+      "moneda": "CHF",
+      "compra": 3100734.28216947,
+      "venta": 3108505.54603456
+    },
+    {
+      "fecha_valor": "2021-05-04",
+      "fecha_operacion": "2021-05-03",
+      "moneda": "CHF",
+      "compra": 3063240.1879595,
+      "venta": 3070917.48166366
+    },
+    {
+      "fecha_valor": "2021-05-03",
+      "fecha_operacion": "2021-04-30",
+      "moneda": "CHF",
+      "compra": 3084812.98860046,
+      "venta": 3092544.34947414
+    },
+    {
+      "fecha_valor": "2021-04-30",
+      "fecha_operacion": "2021-04-29",
+      "moneda": "CHF",
+      "compra": 3008485.73526336,
+      "venta": 3016025.79976277
+    },
+    {
+      "fecha_valor": "2021-04-29",
+      "fecha_operacion": "2021-04-28",
+      "moneda": "CHF",
+      "compra": 2979114.48515625,
+      "venta": 2986580.9375
+    },
+    {
+      "fecha_valor": "2021-04-28",
+      "fecha_operacion": "2021-04-27",
+      "moneda": "CHF",
+      "compra": 2936593.50453445,
+      "venta": 2943953.38800446
+    },
+    {
+      "fecha_valor": "2021-04-27",
+      "fecha_operacion": "2021-04-26",
+      "moneda": "CHF",
+      "compra": 2968151.33977611,
+      "venta": 2975590.31556503
+    },
+    {
+      "fecha_valor": "2021-04-26",
+      "fecha_operacion": "2021-04-23",
+      "moneda": "CHF",
+      "compra": 2886592.38736721,
+      "venta": 2893826.95475409
+    },
+    {
+      "fecha_valor": "2021-04-23",
+      "fecha_operacion": "2021-04-22",
+      "moneda": "CHF",
+      "compra": 2724657.61676438,
+      "venta": 2731486.33259587
+    },
+    {
+      "fecha_valor": "2021-04-22",
+      "fecha_operacion": "2021-04-21",
+      "moneda": "CHF",
+      "compra": 2739854.56049926,
+      "venta": 2746721.36390903
+    },
+    {
+      "fecha_valor": "2021-04-21",
+      "fecha_operacion": "2021-04-20",
+      "moneda": "CHF",
+      "compra": 2689907.26522524,
+      "venta": 2696648.88744385
+    },
+    {
+      "fecha_valor": "2021-04-20",
+      "fecha_operacion": "2021-04-16",
+      "moneda": "CHF",
+      "compra": 2566876.69687234,
+      "venta": 2573309.97180185
+    },
+    {
+      "fecha_valor": "2021-04-16",
+      "fecha_operacion": "2021-04-15",
+      "moneda": "CHF",
+      "compra": 2578370.13748087,
+      "venta": 2584832.21802593
+    },
+    {
+      "fecha_valor": "2021-04-15",
+      "fecha_operacion": "2021-04-14",
+      "moneda": "CHF",
+      "compra": 2503170.57897336,
+      "venta": 2509444.18944698
+    },
+    {
+      "fecha_valor": "2021-04-14",
+      "fecha_operacion": "2021-04-13",
+      "moneda": "CHF",
+      "compra": 2524874.34950134,
+      "venta": 2531202.35538981
+    },
+    {
+      "fecha_valor": "2021-04-13",
+      "fecha_operacion": "2021-04-12",
+      "moneda": "CHF",
+      "compra": 2477485.67807793,
+      "venta": 2483694.91536634
+    },
+    {
+      "fecha_valor": "2021-04-12",
+      "fecha_operacion": "2021-04-09",
+      "moneda": "CHF",
+      "compra": 2408564.35178976,
+      "venta": 2414600.85392457
+    },
+    {
+      "fecha_valor": "2021-04-09",
+      "fecha_operacion": "2021-04-08",
+      "moneda": "CHF",
+      "compra": 2308868.68832578,
+      "venta": 2314655.32664239
+    },
+    {
+      "fecha_valor": "2021-04-08",
+      "fecha_operacion": "2021-04-07",
+      "moneda": "CHF",
+      "compra": 2268956.18084,
+      "venta": 2274642.78780953
+    },
+    {
+      "fecha_valor": "2021-04-07",
+      "fecha_operacion": "2021-04-06",
+      "moneda": "CHF",
+      "compra": 2223427.23366628,
+      "venta": 2228999.73299877
+    },
+    {
+      "fecha_valor": "2021-04-06",
+      "fecha_operacion": "2021-04-05",
+      "moneda": "CHF",
+      "compra": 2207581.14583636,
+      "venta": 2213113.93066301
+    },
+    {
+      "fecha_valor": "2021-04-05",
+      "fecha_operacion": "2021-03-31",
+      "moneda": "CHF",
+      "compra": 2103170.09828274,
+      "venta": 2108441.20128595
+    },
+    {
+      "fecha_valor": "2021-03-31",
+      "fecha_operacion": "2021-03-30",
+      "moneda": "CHF",
+      "compra": 2081056.73939115,
+      "venta": 2086272.42044225
+    },
+    {
+      "fecha_valor": "2021-03-30",
+      "fecha_operacion": "2021-03-29",
+      "moneda": "CHF",
+      "compra": 2053829.44816031,
+      "venta": 2058976.89038627
+    },
+    {
+      "fecha_valor": "2021-03-29",
+      "fecha_operacion": "2021-03-26",
+      "moneda": "CHF",
+      "compra": 2004626.85033333,
+      "venta": 2009650.97777777
+    },
+    {
+      "fecha_valor": "2021-03-26",
+      "fecha_operacion": "2021-03-25",
+      "moneda": "CHF",
+      "compra": 1970301.34728653,
+      "venta": 1975239.44590129
+    },
+    {
+      "fecha_valor": "2021-03-25",
+      "fecha_operacion": "2021-03-24",
+      "moneda": "CHF",
+      "compra": 1966879.4204519,
+      "venta": 1971808.94280892
+    },
+    {
+      "fecha_valor": "2021-03-24",
+      "fecha_operacion": "2021-03-23",
+      "moneda": "CHF",
+      "compra": 1955178.4814735,
+      "venta": 1960078.67816893
+    },
+    {
+      "fecha_valor": "2021-03-23",
+      "fecha_operacion": "2021-03-22",
+      "moneda": "CHF",
+      "compra": 1964707.58525325,
+      "venta": 1969631.66441429
+    },
+    {
+      "fecha_valor": "2021-03-22",
+      "fecha_operacion": "2021-03-18",
+      "moneda": "CHF",
+      "compra": 1939067.09536525,
+      "venta": 1943926.91264687
+    },
+    {
+      "fecha_valor": "2021-03-18",
+      "fecha_operacion": "2021-03-17",
+      "moneda": "CHF",
+      "compra": 1938096.60670835,
+      "venta": 1942953.99168757
+    },
+    {
+      "fecha_valor": "2021-03-17",
+      "fecha_operacion": "2021-03-16",
+      "moneda": "CHF",
+      "compra": 1961799.81988117,
+      "venta": 1966716.6114097
+    },
+    {
+      "fecha_valor": "2021-03-16",
+      "fecha_operacion": "2021-03-15",
+      "moneda": "CHF",
+      "compra": 1963499.49393461,
+      "venta": 1968420.54529785
+    },
+    {
+      "fecha_valor": "2021-03-15",
+      "fecha_operacion": "2021-03-12",
+      "moneda": "CHF",
+      "compra": 1980055.14139472,
+      "venta": 1985017.68560874
+    },
+    {
+      "fecha_valor": "2021-03-12",
+      "fecha_operacion": "2021-03-11",
+      "moneda": "CHF",
+      "compra": 1999080.53623528,
+      "venta": 2004090.76314314
+    },
+    {
+      "fecha_valor": "2021-03-11",
+      "fecha_operacion": "2021-03-10",
+      "moneda": "CHF",
+      "compra": 2009243.54634667,
+      "venta": 2014279.24445781
+    },
+    {
+      "fecha_valor": "2021-03-10",
+      "fecha_operacion": "2021-03-09",
+      "moneda": "CHF",
+      "compra": 2018716.46669489,
+      "venta": 2023775.90646104
+    },
+    {
+      "fecha_valor": "2021-03-09",
+      "fecha_operacion": "2021-03-08",
+      "moneda": "CHF",
+      "compra": 2016419.61667844,
+      "venta": 2021473.29992826
+    },
+    {
+      "fecha_valor": "2021-03-08",
+      "fecha_operacion": "2021-03-05",
+      "moneda": "CHF",
+      "compra": 2026651.83895024,
+      "venta": 2031731.16686741
+    },
+    {
+      "fecha_valor": "2021-03-05",
+      "fecha_operacion": "2021-03-04",
+      "moneda": "CHF",
+      "compra": 2020638.25256183,
+      "venta": 2025702.50883392
+    },
+    {
+      "fecha_valor": "2021-03-04",
+      "fecha_operacion": "2021-03-03",
+      "moneda": "CHF",
+      "compra": 2026164.44671143,
+      "venta": 2031242.55309416
+    },
+    {
+      "fecha_valor": "2021-03-03",
+      "fecha_operacion": "2021-03-02",
+      "moneda": "CHF",
+      "compra": 2028192.23996267,
+      "venta": 2033275.42853401
+    },
+    {
+      "fecha_valor": "2021-03-02",
+      "fecha_operacion": "2021-03-01",
+      "moneda": "CHF",
+      "compra": 2034046.63538146,
+      "venta": 2039144.49662302
+    },
+    {
+      "fecha_valor": "2021-03-01",
+      "fecha_operacion": "2021-02-26",
+      "moneda": "CHF",
+      "compra": 2055980.12670249,
+      "venta": 2061132.95910025
+    },
+    {
+      "fecha_valor": "2021-02-26",
+      "fecha_operacion": "2021-02-25",
+      "moneda": "CHF",
+      "compra": 2064366.46439385,
+      "venta": 2069540.31518181
+    },
+    {
+      "fecha_valor": "2021-02-25",
+      "fecha_operacion": "2021-02-24",
+      "moneda": "CHF",
+      "compra": 2055809.01979326,
+      "venta": 2060961.42335163
+    },
+    {
+      "fecha_valor": "2021-02-24",
+      "fecha_operacion": "2021-02-23",
+      "moneda": "CHF",
+      "compra": 2026962.84460856,
+      "venta": 2032042.95198853
+    },
+    {
+      "fecha_valor": "2021-02-23",
+      "fecha_operacion": "2021-02-22",
+      "moneda": "CHF",
+      "compra": 2008607.92898721,
+      "venta": 2013642.03407239
+    },
+    {
+      "fecha_valor": "2021-02-22",
+      "fecha_operacion": "2021-02-19",
+      "moneda": "CHF",
+      "compra": 1959775.04444249,
+      "venta": 1964686.76134585
+    },
+    {
+      "fecha_valor": "2021-02-19",
+      "fecha_operacion": "2021-02-18",
+      "moneda": "CHF",
+      "compra": 1912287.42660209,
+      "venta": 1917080.12691939
+    },
+    {
+      "fecha_valor": "2021-02-18",
+      "fecha_operacion": "2021-02-17",
+      "moneda": "CHF",
+      "compra": 1911561.75409731,
+      "venta": 1916352.63568653
+    },
+    {
+      "fecha_valor": "2021-02-17",
+      "fecha_operacion": "2021-02-12",
+      "moneda": "CHF",
+      "compra": 1929074.43017439,
+      "venta": 1933909.20318234
+    },
+    {
+      "fecha_valor": "2021-02-12",
+      "fecha_operacion": "2021-02-11",
+      "moneda": "CHF",
+      "compra": 1982617.11158414,
+      "venta": 1987586.07677607
+    },
+    {
+      "fecha_valor": "2021-02-11",
+      "fecha_operacion": "2021-02-10",
+      "moneda": "CHF",
+      "compra": 2003905.4786286,
+      "venta": 2008927.79812391
+    },
+    {
+      "fecha_valor": "2021-02-10",
+      "fecha_operacion": "2021-02-09",
+      "moneda": "CHF",
+      "compra": 2012377.62408066,
+      "venta": 2017421.17702321
+    },
+    {
+      "fecha_valor": "2021-02-09",
+      "fecha_operacion": "2021-02-08",
+      "moneda": "CHF",
+      "compra": 2012189.08033449,
+      "venta": 2017232.16073634
+    },
+    {
+      "fecha_valor": "2021-02-08",
+      "fecha_operacion": "2021-02-05",
+      "moneda": "CHF",
+      "compra": 2032232.56059453,
+      "venta": 2037325.87528274
+    },
+    {
+      "fecha_valor": "2021-02-05",
+      "fecha_operacion": "2021-02-04",
+      "moneda": "CHF",
+      "compra": 2018520.81971003,
+      "venta": 2023579.76913286
+    },
+    {
+      "fecha_valor": "2021-02-04",
+      "fecha_operacion": "2021-02-03",
+      "moneda": "CHF",
+      "compra": 1985687.08646487,
+      "venta": 1990663.74582944
+    },
+    {
+      "fecha_valor": "2021-02-03",
+      "fecha_operacion": "2021-02-02",
+      "moneda": "CHF",
+      "compra": 1987237.73684425,
+      "venta": 1992218.28255063
+    },
+    {
+      "fecha_valor": "2021-02-02",
+      "fecha_operacion": "2021-02-01",
+      "moneda": "CHF",
+      "compra": 2012233.21116242,
+      "venta": 2017276.40216784
+    },
+    {
+      "fecha_valor": "2021-02-01",
+      "fecha_operacion": "2021-01-29",
+      "moneda": "CHF",
+      "compra": 2042400.59104768,
+      "venta": 2047519.38952148
+    },
+    {
+      "fecha_valor": "2021-01-29",
+      "fecha_operacion": "2021-01-28",
+      "moneda": "CHF",
+      "compra": 2050671.03826262,
+      "venta": 2055810.56467431
+    },
+    {
+      "fecha_valor": "2021-01-28",
+      "fecha_operacion": "2021-01-27",
+      "moneda": "CHF",
+      "compra": 2043852.98153383,
+      "venta": 2048975.42008403
+    },
+    {
+      "fecha_valor": "2021-01-27",
+      "fecha_operacion": "2021-01-26",
+      "moneda": "CHF",
+      "compra": 2009271.1755964,
+      "venta": 2014306.94295377
+    },
+    {
+      "fecha_valor": "2021-01-26",
+      "fecha_operacion": "2021-01-25",
+      "moneda": "CHF",
+      "compra": 1944301.62959256,
+      "venta": 1949174.56600758
+    },
+    {
+      "fecha_valor": "2021-01-25",
+      "fecha_operacion": "2021-01-22",
+      "moneda": "CHF",
+      "compra": 1957047.85837781,
+      "venta": 1961952.74022838
+    },
+    {
+      "fecha_valor": "2021-01-22",
+      "fecha_operacion": "2021-01-21",
+      "moneda": "CHF",
+      "compra": 1858197.2449475,
+      "venta": 1862854.38089975
+    },
+    {
+      "fecha_valor": "2021-01-21",
+      "fecha_operacion": "2021-01-20",
+      "moneda": "CHF",
+      "compra": 1750212.02025021,
+      "venta": 1754598.51654155
+    },
+    {
+      "fecha_valor": "2021-01-20",
+      "fecha_operacion": "2021-01-19",
+      "moneda": "CHF",
+      "compra": 1746990.34404686,
+      "venta": 1751368.76596175
+    },
+    {
+      "fecha_valor": "2021-01-19",
+      "fecha_operacion": "2021-01-15",
+      "moneda": "CHF",
+      "compra": 1738484.8007429,
+      "venta": 1742841.90550667
+    },
+    {
+      "fecha_valor": "2021-01-15",
+      "fecha_operacion": "2021-01-14",
+      "moneda": "CHF",
+      "compra": 1678478.70725505,
+      "venta": 1682685.42080707
+    },
+    {
+      "fecha_valor": "2021-01-14",
+      "fecha_operacion": "2021-01-13",
+      "moneda": "CHF",
+      "compra": 1680157.50692385,
+      "venta": 1684368.42799382
+    },
+    {
+      "fecha_valor": "2021-01-13",
+      "fecha_operacion": "2021-01-12",
+      "moneda": "CHF",
+      "compra": 1686352.17884095,
+      "venta": 1690578.62540445
+    },
+    {
+      "fecha_valor": "2021-01-12",
+      "fecha_operacion": "2021-01-08",
+      "moneda": "CHF",
+      "compra": 1652491.92842781,
+      "venta": 1656633.51220833
+    },
+    {
+      "fecha_valor": "2021-01-08",
+      "fecha_operacion": "2021-01-07",
+      "moneda": "CHF",
+      "compra": 1483901.13277645,
+      "venta": 1487620.18323454
+    },
+    {
+      "fecha_valor": "2021-01-07",
+      "fecha_operacion": "2021-01-06",
+      "moneda": "CHF",
+      "compra": 1395964.96608915,
+      "venta": 1399463.62515202
+    },
+    {
+      "fecha_valor": "2021-01-06",
+      "fecha_operacion": "2021-01-05",
+      "moneda": "CHF",
+      "compra": 1331668.9765986,
+      "venta": 1335006.49283068
+    },
+    {
+      "fecha_valor": "2021-01-05",
+      "fecha_operacion": "2021-01-04",
+      "moneda": "CHF",
+      "compra": 1261752.15053614,
+      "venta": 1264914.4366277
+    },
+    {
+      "fecha_valor": "2021-01-04",
+      "fecha_operacion": "2020-12-30",
+      "moneda": "CHF",
+      "compra": 1250530.00785947,
+      "venta": 1253664.16828017
+    },
+    {
+      "fecha_valor": "2020-12-30",
+      "fecha_operacion": "2020-12-29",
+      "moneda": "CHF",
+      "compra": 1226915.39418157,
+      "venta": 1229990.37010684
+    },
+    {
+      "fecha_valor": "2020-12-29",
+      "fecha_operacion": "2020-12-28",
+      "moneda": "CHF",
+      "compra": 1162782.74554274,
+      "venta": 1165696.98801277
+    },
+    {
+      "fecha_valor": "2020-12-28",
+      "fecha_operacion": "2020-12-23",
+      "moneda": "CHF",
+      "compra": 1162909.16164615,
+      "venta": 1165823.72094851
+    },
+    {
+      "fecha_valor": "2020-12-23",
+      "fecha_operacion": "2020-12-22",
+      "moneda": "CHF",
+      "compra": 1198800.12469177,
+      "venta": 1201804.63628247
+    },
+    {
+      "fecha_valor": "2020-12-22",
+      "fecha_operacion": "2020-12-21",
+      "moneda": "CHF",
+      "compra": 1201562.29735202,
+      "venta": 1204573.73168121
+    },
+    {
+      "fecha_valor": "2020-12-21",
+      "fecha_operacion": "2020-12-18",
+      "moneda": "CHF",
+      "compra": 1199733.41538266,
+      "venta": 1202740.26604777
+    },
+    {
+      "fecha_valor": "2020-12-18",
+      "fecha_operacion": "2020-12-17",
+      "moneda": "CHF",
+      "compra": 1185412.90549547,
+      "venta": 1188383.86515837
+    },
+    {
+      "fecha_valor": "2020-12-17",
+      "fecha_operacion": "2020-12-16",
+      "moneda": "CHF",
+      "compra": 1212287.89568228,
+      "venta": 1215326.2112103
+    },
+    {
+      "fecha_valor": "2020-12-16",
+      "fecha_operacion": "2020-12-15",
+      "moneda": "CHF",
+      "compra": 1223309.8558611,
+      "venta": 1226375.79534946
+    },
+    {
+      "fecha_valor": "2020-12-15",
+      "fecha_operacion": "2020-12-11",
+      "moneda": "CHF",
+      "compra": 1237058.39303576,
+      "venta": 1240158.79001079
+    },
+    {
+      "fecha_valor": "2020-12-11",
+      "fecha_operacion": "2020-12-10",
+      "moneda": "CHF",
+      "compra": 1220261.77843609,
+      "venta": 1223320.07863267
+    },
+    {
+      "fecha_valor": "2020-12-10",
+      "fecha_operacion": "2020-12-09",
+      "moneda": "CHF",
+      "compra": 1211861.17592727,
+      "venta": 1214898.42198222
+    },
+    {
+      "fecha_valor": "2020-12-09",
+      "fecha_operacion": "2020-12-08",
+      "moneda": "CHF",
+      "compra": 1213123.5547272,
+      "venta": 1216163.96463879
+    },
+    {
+      "fecha_valor": "2020-12-08",
+      "fecha_operacion": "2020-12-07",
+      "moneda": "CHF",
+      "compra": 1217863.47390665,
+      "venta": 1220915.76331494
+    },
+    {
+      "fecha_valor": "2020-12-07",
+      "fecha_operacion": "2020-12-04",
+      "moneda": "CHF",
+      "compra": 1217058.37273871,
+      "venta": 1220108.64434958
+    },
+    {
+      "fecha_valor": "2020-12-04",
+      "fecha_operacion": "2020-12-03",
+      "moneda": "CHF",
+      "compra": 1151432.77538363,
+      "venta": 1154318.57181316
+    },
+    {
+      "fecha_valor": "2020-12-03",
+      "fecha_operacion": "2020-12-02",
+      "moneda": "CHF",
+      "compra": 1126070.49810903,
+      "venta": 1128892.72993385
+    },
+    {
+      "fecha_valor": "2020-12-02",
+      "fecha_operacion": "2020-12-01",
+      "moneda": "CHF",
+      "compra": 1147735.9977766,
+      "venta": 1150612.52909935
+    },
+    {
+      "fecha_valor": "2020-12-01",
+      "fecha_operacion": "2020-11-30",
+      "moneda": "CHF",
+      "compra": 1160253.86663973,
+      "venta": 1163161.7710674
+    },
+    {
+      "fecha_valor": "2020-11-30",
+      "fecha_operacion": "2020-11-27",
+      "moneda": "CHF",
+      "compra": 1139297.55406192,
+      "venta": 1142152.93640292
+    },
+    {
+      "fecha_valor": "2020-11-27",
+      "fecha_operacion": "2020-11-26",
+      "moneda": "CHF",
+      "compra": 1070054.73020713,
+      "venta": 1072736.57163621
+    },
+    {
+      "fecha_valor": "2020-11-26",
+      "fecha_operacion": "2020-11-25",
+      "moneda": "CHF",
+      "compra": 1013794.97961026,
+      "venta": 1016335.81915816
+    },
+    {
+      "fecha_valor": "2020-11-25",
+      "fecha_operacion": "2020-11-24",
+      "moneda": "CHF",
+      "compra": 1003557.52214289,
+      "venta": 1006072.70390265
+    },
+    {
+      "fecha_valor": "2020-11-24",
+      "fecha_operacion": "2020-11-20",
+      "moneda": "CHF",
+      "compra": 856655.06368356,
+      "venta": 858802.06885569
+    },
+    {
+      "fecha_valor": "2020-11-20",
+      "fecha_operacion": "2020-11-19",
+      "moneda": "CHF",
+      "compra": 776708.08157641,
+      "venta": 778654.71837235
+    },
+    {
+      "fecha_valor": "2020-11-19",
+      "fecha_operacion": "2020-11-18",
+      "moneda": "CHF",
+      "compra": 746225.28890111,
+      "venta": 748095.52772042
+    },
+    {
+      "fecha_valor": "2020-11-18",
+      "fecha_operacion": "2020-11-17",
+      "moneda": "CHF",
+      "compra": 735298.3733139,
+      "venta": 737141.22637985
+    },
+    {
+      "fecha_valor": "2020-11-17",
+      "fecha_operacion": "2020-11-16",
+      "moneda": "CHF",
+      "compra": 726890.24459624,
+      "venta": 728712.02465789
+    },
+    {
+      "fecha_valor": "2020-11-16",
+      "fecha_operacion": "2020-11-13",
+      "moneda": "CHF",
+      "compra": 705708.51875738,
+      "venta": 707477.21178685
+    },
+    {
+      "fecha_valor": "2020-11-13",
+      "fecha_operacion": "2020-11-12",
+      "moneda": "CHF",
+      "compra": 662682.77990075,
+      "venta": 664343.63899825
+    },
+    {
+      "fecha_valor": "2020-11-12",
+      "fecha_operacion": "2020-11-11",
+      "moneda": "CHF",
+      "compra": 620895.42381116,
+      "venta": 622451.5526929
+    },
+    {
+      "fecha_valor": "2020-11-11",
+      "fecha_operacion": "2020-11-10",
+      "moneda": "CHF",
+      "compra": 597716.22789176,
+      "venta": 599214.26355064
+    },
+    {
+      "fecha_valor": "2020-11-10",
+      "fecha_operacion": "2020-11-09",
+      "moneda": "CHF",
+      "compra": 589315.99006484,
+      "venta": 590792.97249608
+    },
+    {
+      "fecha_valor": "2020-11-09",
+      "fecha_operacion": "2020-11-06",
+      "moneda": "CHF",
+      "compra": 594286.0458918,
+      "venta": 595775.48460331
+    },
+    {
+      "fecha_valor": "2020-11-06",
+      "fecha_operacion": "2020-11-05",
+      "moneda": "CHF",
+      "compra": 579575.25406623,
+      "venta": 581027.8236253
+    },
+    {
+      "fecha_valor": "2020-11-05",
+      "fecha_operacion": "2020-11-04",
+      "moneda": "CHF",
+      "compra": 565871.15365058,
+      "venta": 567289.37709332
+    },
+    {
+      "fecha_valor": "2020-11-04",
+      "fecha_operacion": "2020-11-03",
+      "moneda": "CHF",
+      "compra": 563941.16798186,
+      "venta": 565354.55436778
+    },
+    {
+      "fecha_valor": "2020-11-03",
+      "fecha_operacion": "2020-11-02",
+      "moneda": "CHF",
+      "compra": 560268.9732053,
+      "venta": 561673.15609554
+    },
+    {
+      "fecha_valor": "2020-11-02",
+      "fecha_operacion": "2020-10-30",
+      "moneda": "CHF",
+      "compra": 565483.21669468,
+      "venta": 566900.46786435
+    },
+    {
+      "fecha_valor": "2020-10-30",
+      "fecha_operacion": "2020-10-29",
+      "moneda": "CHF",
+      "compra": 551845.68423946,
+      "venta": 553228.75612979
+    },
+    {
+      "fecha_valor": "2020-10-29",
+      "fecha_operacion": "2020-10-28",
+      "moneda": "CHF",
+      "compra": 534896.43319209,
+      "venta": 536237.02575649
+    },
+    {
+      "fecha_valor": "2020-10-28",
+      "fecha_operacion": "2020-10-27",
+      "moneda": "CHF",
+      "compra": 518346.65860297,
+      "venta": 519645.77303556
+    },
+    {
+      "fecha_valor": "2020-10-27",
+      "fecha_operacion": "2020-10-26",
+      "moneda": "CHF",
+      "compra": 510393.16078135,
+      "venta": 511672.34163544
+    },
+    {
+      "fecha_valor": "2020-10-26",
+      "fecha_operacion": "2020-10-23",
+      "moneda": "CHF",
+      "compra": 509173.12205761,
+      "venta": 510449.24517054
+    },
+    {
+      "fecha_valor": "2020-10-23",
+      "fecha_operacion": "2020-10-22",
+      "moneda": "CHF",
+      "compra": 505591.98678095,
+      "venta": 506859.1346175
+    },
+    {
+      "fecha_valor": "2020-10-22",
+      "fecha_operacion": "2020-10-21",
+      "moneda": "CHF",
+      "compra": 504645.95452809,
+      "venta": 505910.73135649
+    },
+    {
+      "fecha_valor": "2020-10-21",
+      "fecha_operacion": "2020-10-20",
+      "moneda": "CHF",
+      "compra": 502362.06066661,
+      "venta": 503621.11345024
+    },
+    {
+      "fecha_valor": "2020-10-20",
+      "fecha_operacion": "2020-10-19",
+      "moneda": "CHF",
+      "compra": 499338.42783165,
+      "venta": 500589.90258812
+    },
+    {
+      "fecha_valor": "2020-10-19",
+      "fecha_operacion": "2020-10-16",
+      "moneda": "CHF",
+      "compra": 494642.02124757,
+      "venta": 495881.72556148
+    },
+    {
+      "fecha_valor": "2020-10-16",
+      "fecha_operacion": "2020-10-15",
+      "moneda": "CHF",
+      "compra": 491709.1324755,
+      "venta": 492941.48619098
+    },
+    {
+      "fecha_valor": "2020-10-15",
+      "fecha_operacion": "2020-10-14",
+      "moneda": "CHF",
+      "compra": 493066.42478038,
+      "venta": 494302.18023096
+    },
+    {
+      "fecha_valor": "2020-10-14",
+      "fecha_operacion": "2020-10-13",
+      "moneda": "CHF",
+      "compra": 494456.98315875,
+      "venta": 495696.22371805
+    },
+    {
+      "fecha_valor": "2020-10-13",
+      "fecha_operacion": "2020-10-09",
+      "moneda": "CHF",
+      "compra": 494818.32082089,
+      "venta": 496058.46698837
+    },
+    {
+      "fecha_valor": "2020-10-09",
+      "fecha_operacion": "2020-10-08",
+      "moneda": "CHF",
+      "compra": 489062.80728289,
+      "venta": 490288.52860441
+    },
+    {
+      "fecha_valor": "2020-10-08",
+      "fecha_operacion": "2020-10-07",
+      "moneda": "CHF",
+      "compra": 480588.35550798,
+      "venta": 481792.83760199
+    },
+    {
+      "fecha_valor": "2020-10-07",
+      "fecha_operacion": "2020-10-06",
+      "moneda": "CHF",
+      "compra": 480880.58565274,
+      "venta": 482085.80015313
+    },
+    {
+      "fecha_valor": "2020-10-06",
+      "fecha_operacion": "2020-10-05",
+      "moneda": "CHF",
+      "compra": 477481.34718874,
+      "venta": 478678.04229448
+    },
+    {
+      "fecha_valor": "2020-10-05",
+      "fecha_operacion": "2020-10-02",
+      "moneda": "CHF",
+      "compra": 475499.29091197,
+      "venta": 476691.01845812
+    },
+    {
+      "fecha_valor": "2020-10-02",
+      "fecha_operacion": "2020-10-01",
+      "moneda": "CHF",
+      "compra": 474324.47301766,
+      "venta": 475513.25615806
+    },
+    {
+      "fecha_valor": "2020-10-01",
+      "fecha_operacion": "2020-09-30",
+      "moneda": "CHF",
+      "compra": 474861.55488095,
+      "venta": 476051.68409118
+    },
+    {
+      "fecha_valor": "2020-09-30",
+      "fecha_operacion": "2020-09-29",
+      "moneda": "CHF",
+      "compra": 466498.15861638,
+      "venta": 467667.32693372
+    },
+    {
+      "fecha_valor": "2020-09-29",
+      "fecha_operacion": "2020-09-28",
+      "moneda": "CHF",
+      "compra": 453603.19340093,
+      "venta": 454740.04350971
+    },
+    {
+      "fecha_valor": "2020-09-28",
+      "fecha_operacion": "2020-09-25",
+      "moneda": "CHF",
+      "compra": 445125.03109115,
+      "venta": 446240.63267284
+    },
+    {
+      "fecha_valor": "2020-09-25",
+      "fecha_operacion": "2020-09-24",
+      "moneda": "CHF",
+      "compra": 430175.07990751,
+      "venta": 431253.21293986
+    },
+    {
+      "fecha_valor": "2020-09-24",
+      "fecha_operacion": "2020-09-23",
+      "moneda": "CHF",
+      "compra": 423944.53247013,
+      "venta": 425007.05009537
+    },
+    {
+      "fecha_valor": "2020-09-23",
+      "fecha_operacion": "2020-09-22",
+      "moneda": "CHF",
+      "compra": 420871.15360339,
+      "venta": 421925.96852471
+    },
+    {
+      "fecha_valor": "2020-09-22",
+      "fecha_operacion": "2020-09-21",
+      "moneda": "CHF",
+      "compra": 409796.75368119,
+      "venta": 410823.81321423
+    },
+    {
+      "fecha_valor": "2020-09-21",
+      "fecha_operacion": "2020-09-18",
+      "moneda": "CHF",
+      "compra": 410640.17146286,
+      "venta": 411669.34482493
+    },
+    {
+      "fecha_valor": "2020-09-18",
+      "fecha_operacion": "2020-09-17",
+      "moneda": "CHF",
+      "compra": 404883.12859956,
+      "venta": 405897.87328277
+    },
+    {
+      "fecha_valor": "2020-09-17",
+      "fecha_operacion": "2020-09-16",
+      "moneda": "CHF",
+      "compra": 401953.24623915,
+      "venta": 402960.6478588
+    },
+    {
+      "fecha_valor": "2020-09-16",
+      "fecha_operacion": "2020-09-15",
+      "moneda": "CHF",
+      "compra": 402204.05863441,
+      "venta": 403212.08885656
+    },
+    {
+      "fecha_valor": "2020-09-15",
+      "fecha_operacion": "2020-09-11",
+      "moneda": "CHF",
+      "compra": 398522.62228794,
+      "venta": 399521.42585258
+    },
+    {
+      "fecha_valor": "2020-09-11",
+      "fecha_operacion": "2020-09-10",
+      "moneda": "CHF",
+      "compra": 396642.54180495,
+      "venta": 397636.63338842
+    },
+    {
+      "fecha_valor": "2020-09-10",
+      "fecha_operacion": "2020-09-09",
+      "moneda": "CHF",
+      "compra": 394053.32306459,
+      "venta": 395040.92537804
+    },
+    {
+      "fecha_valor": "2020-09-09",
+      "fecha_operacion": "2020-09-08",
+      "moneda": "CHF",
+      "compra": 390221.77621167,
+      "venta": 391199.7756508
+    },
+    {
+      "fecha_valor": "2020-09-08",
+      "fecha_operacion": "2020-09-07",
+      "moneda": "CHF",
+      "compra": 387657.53383402,
+      "venta": 388629.10660053
+    },
+    {
+      "fecha_valor": "2020-09-07",
+      "fecha_operacion": "2020-09-04",
+      "moneda": "CHF",
+      "compra": 380667.1225105,
+      "venta": 381621.17544913
+    },
+    {
+      "fecha_valor": "2020-09-04",
+      "fecha_operacion": "2020-09-03",
+      "moneda": "CHF",
+      "compra": 371271.26968028,
+      "venta": 372201.77411557
+    },
+    {
+      "fecha_valor": "2020-09-03",
+      "fecha_operacion": "2020-09-02",
+      "moneda": "CHF",
+      "compra": 366964.43975589,
+      "venta": 367884.15013122
+    },
+    {
+      "fecha_valor": "2020-09-02",
+      "fecha_operacion": "2020-09-01",
+      "moneda": "CHF",
+      "compra": 362300.1466421,
+      "venta": 363208.16705975
+    },
+    {
+      "fecha_valor": "2020-09-01",
+      "fecha_operacion": "2020-08-31",
+      "moneda": "CHF",
+      "compra": 363065.41925244,
+      "venta": 363975.35764656
+    },
+    {
+      "fecha_valor": "2020-08-31",
+      "fecha_operacion": "2020-08-28",
+      "moneda": "CHF",
+      "compra": 358059.2780885,
+      "venta": 358956.66976291
+    },
+    {
+      "fecha_valor": "2020-08-28",
+      "fecha_operacion": "2020-08-27",
+      "moneda": "CHF",
+      "compra": 346848.44563334,
+      "venta": 347717.7399833
+    },
+    {
+      "fecha_valor": "2020-08-27",
+      "fecha_operacion": "2020-08-26",
+      "moneda": "CHF",
+      "compra": 343564.52580865,
+      "venta": 344425.58978311
+    },
+    {
+      "fecha_valor": "2020-08-26",
+      "fecha_operacion": "2020-08-25",
+      "moneda": "CHF",
+      "compra": 338003.10645098,
+      "venta": 338850.23203106
+    },
+    {
+      "fecha_valor": "2020-08-25",
+      "fecha_operacion": "2020-08-24",
+      "moneda": "CHF",
+      "compra": 335351.29057586,
+      "venta": 336191.77000087
+    },
+    {
+      "fecha_valor": "2020-08-24",
+      "fecha_operacion": "2020-08-21",
+      "moneda": "CHF",
+      "compra": 334026.36214219,
+      "venta": 334863.52094456
+    },
+    {
+      "fecha_valor": "2020-08-21",
+      "fecha_operacion": "2020-08-20",
+      "moneda": "CHF",
+      "compra": 332275.22546804,
+      "venta": 333107.99545669
+    },
+    {
+      "fecha_valor": "2020-08-20",
+      "fecha_operacion": "2020-08-19",
+      "moneda": "CHF",
+      "compra": 325133.19459515,
+      "venta": 325948.06475705
+    },
+    {
+      "fecha_valor": "2020-08-19",
+      "fecha_operacion": "2020-08-18",
+      "moneda": "CHF",
+      "compra": 322951.99093361,
+      "venta": 323761.39441966
+    },
+    {
+      "fecha_valor": "2020-08-18",
+      "fecha_operacion": "2020-08-17",
+      "moneda": "CHF",
+      "compra": 319380.92940188,
+      "venta": 320181.38285903
+    },
+    {
+      "fecha_valor": "2020-08-17",
+      "fecha_operacion": "2020-08-14",
+      "moneda": "CHF",
+      "compra": 323188.71561345,
+      "venta": 323998.71239444
+    },
+    {
+      "fecha_valor": "2020-08-14",
+      "fecha_operacion": "2020-08-13",
+      "moneda": "CHF",
+      "compra": 315020.01831219,
+      "venta": 315809.54216761
+    },
+    {
+      "fecha_valor": "2020-08-13",
+      "fecha_operacion": "2020-08-12",
+      "moneda": "CHF",
+      "compra": 310894.19444425,
+      "venta": 311673.37788898
+    },
+    {
+      "fecha_valor": "2020-08-12",
+      "fecha_operacion": "2020-08-11",
+      "moneda": "CHF",
+      "compra": 309381.37862607,
+      "venta": 310156.77055246
+    },
+    {
+      "fecha_valor": "2020-08-11",
+      "fecha_operacion": "2020-08-10",
+      "moneda": "CHF",
+      "compra": 310177.29071701,
+      "venta": 310954.67741054
+    },
+    {
+      "fecha_valor": "2020-08-10",
+      "fecha_operacion": "2020-08-07",
+      "moneda": "CHF",
+      "compra": 303801.635518,
+      "venta": 304563.04312582
+    },
+    {
+      "fecha_valor": "2020-08-07",
+      "fecha_operacion": "2020-08-06",
+      "moneda": "CHF",
+      "compra": 296607.35417337,
+      "venta": 297350.73100088
+    },
+    {
+      "fecha_valor": "2020-08-06",
+      "fecha_operacion": "2020-08-05",
+      "moneda": "CHF",
+      "compra": 292553.92764357,
+      "venta": 293287.14550734
+    },
+    {
+      "fecha_valor": "2020-08-05",
+      "fecha_operacion": "2020-08-04",
+      "moneda": "CHF",
+      "compra": 286560.98912888,
+      "venta": 287279.18709663
+    },
+    {
+      "fecha_valor": "2020-08-04",
+      "fecha_operacion": "2020-08-03",
+      "moneda": "CHF",
+      "compra": 284431.84262651,
+      "venta": 285144.70438748
+    },
+    {
+      "fecha_valor": "2020-08-03",
+      "fecha_operacion": "2020-07-31",
+      "moneda": "CHF",
+      "compra": 283585.3558141,
+      "venta": 284296.09605424
+    },
+    {
+      "fecha_valor": "2020-07-31",
+      "fecha_operacion": "2020-07-30",
+      "moneda": "CHF",
+      "compra": 282397.62874612,
+      "venta": 283105.39222669
+    },
+    {
+      "fecha_valor": "2020-07-30",
+      "fecha_operacion": "2020-07-29",
+      "moneda": "CHF",
+      "compra": 272411.15144513,
+      "venta": 273093.88616054
+    },
+    {
+      "fecha_valor": "2020-07-29",
+      "fecha_operacion": "2020-07-28",
+      "moneda": "CHF",
+      "compra": 271120.64393547,
+      "venta": 271800.14429621
+    },
+    {
+      "fecha_valor": "2020-07-28",
+      "fecha_operacion": "2020-07-27",
+      "moneda": "CHF",
+      "compra": 265647.36922041,
+      "venta": 266313.15210067
+    },
+    {
+      "fecha_valor": "2020-07-27",
+      "fecha_operacion": "2020-07-23",
+      "moneda": "CHF",
+      "compra": 260775.36431361,
+      "venta": 261428.93665525
+    },
+    {
+      "fecha_valor": "2020-07-23",
+      "fecha_operacion": "2020-07-22",
+      "moneda": "CHF",
+      "compra": 254170.1504251,
+      "venta": 254807.16834597
+    },
+    {
+      "fecha_valor": "2020-07-22",
+      "fecha_operacion": "2020-07-21",
+      "moneda": "CHF",
+      "compra": 247251.56963452,
+      "venta": 247871.24775391
+    },
+    {
+      "fecha_valor": "2020-07-21",
+      "fecha_operacion": "2020-07-20",
+      "moneda": "CHF",
+      "compra": 243022.43627031,
+      "venta": 243631.51505796
+    },
+    {
+      "fecha_valor": "2020-07-20",
+      "fecha_operacion": "2020-07-17",
+      "moneda": "CHF",
+      "compra": 240740.23571488,
+      "venta": 241343.59470164
+    },
+    {
+      "fecha_valor": "2020-07-17",
+      "fecha_operacion": "2020-07-16",
+      "moneda": "CHF",
+      "compra": 236516.26941957,
+      "venta": 237109.04202464
+    },
+    {
+      "fecha_valor": "2020-07-16",
+      "fecha_operacion": "2020-07-15",
+      "moneda": "CHF",
+      "compra": 233604.31558641,
+      "venta": 234189.79006157
+    },
+    {
+      "fecha_valor": "2020-07-15",
+      "fecha_operacion": "2020-07-14",
+      "moneda": "CHF",
+      "compra": 233505.4593703,
+      "venta": 234090.68608552
+    },
+    {
+      "fecha_valor": "2020-07-14",
+      "fecha_operacion": "2020-07-13",
+      "moneda": "CHF",
+      "compra": 229974.0252426,
+      "venta": 230550.40124572
+    },
+    {
+      "fecha_valor": "2020-07-13",
+      "fecha_operacion": "2020-07-10",
+      "moneda": "CHF",
+      "compra": 229568.93330544,
+      "venta": 230144.29404055
+    },
+    {
+      "fecha_valor": "2020-07-10",
+      "fecha_operacion": "2020-07-09",
+      "moneda": "CHF",
+      "compra": 227426.37478506,
+      "venta": 227996.3656993
+    },
+    {
+      "fecha_valor": "2020-07-09",
+      "fecha_operacion": "2020-07-08",
+      "moneda": "CHF",
+      "compra": 225003.80556286,
+      "venta": 225567.72487505
+    },
+    {
+      "fecha_valor": "2020-07-08",
+      "fecha_operacion": "2020-07-07",
+      "moneda": "CHF",
+      "compra": 220615.44965477,
+      "venta": 221168.37058123
+    },
+    {
+      "fecha_valor": "2020-07-07",
+      "fecha_operacion": "2020-07-06",
+      "moneda": "CHF",
+      "compra": 220482.61019132,
+      "venta": 221035.19818679
+    },
+    {
+      "fecha_valor": "2020-07-06",
+      "fecha_operacion": "2020-07-03",
+      "moneda": "CHF",
+      "compra": 218413.45467738,
+      "venta": 218960.85681943
+    },
+    {
+      "fecha_valor": "2020-07-03",
+      "fecha_operacion": "2020-07-02",
+      "moneda": "CHF",
+      "compra": 217105.77221607,
+      "venta": 217649.89695847
+    },
+    {
+      "fecha_valor": "2020-07-02",
+      "fecha_operacion": "2020-07-01",
+      "moneda": "CHF",
+      "compra": 216530.90381679,
+      "venta": 217073.58778625
+    },
+    {
+      "fecha_valor": "2020-07-01",
+      "fecha_operacion": "2020-06-30",
+      "moneda": "CHF",
+      "compra": 215232.16383182,
+      "venta": 215771.59281386
+    },
+    {
+      "fecha_valor": "2020-06-30",
+      "fecha_operacion": "2020-06-26",
+      "moneda": "CHF",
+      "compra": 212802.00894619,
+      "venta": 213335.34731448
+    },
+    {
+      "fecha_valor": "2020-06-26",
+      "fecha_operacion": "2020-06-25",
+      "moneda": "CHF",
+      "compra": 212634.17984657,
+      "venta": 213167.09759055
+    },
+    {
+      "fecha_valor": "2020-06-25",
+      "fecha_operacion": "2020-06-23",
+      "moneda": "CHF",
+      "compra": 213726.53561277,
+      "venta": 214262.1910905
+    },
+    {
+      "fecha_valor": "2020-06-23",
+      "fecha_operacion": "2020-06-22",
+      "moneda": "CHF",
+      "compra": 212263.43473613,
+      "venta": 212795.42329437
+    },
+    {
+      "fecha_valor": "2020-06-22",
+      "fecha_operacion": "2020-06-19",
+      "moneda": "CHF",
+      "compra": 212709.91050556,
+      "venta": 213243.01805069
+    },
+    {
+      "fecha_valor": "2020-06-19",
+      "fecha_operacion": "2020-06-18",
+      "moneda": "CHF",
+      "compra": 212951.13929303,
+      "venta": 213484.85142159
+    },
+    {
+      "fecha_valor": "2020-06-18",
+      "fecha_operacion": "2020-06-17",
+      "moneda": "CHF",
+      "compra": 213296.21336351,
+      "venta": 213830.79033936
+    },
+    {
+      "fecha_valor": "2020-06-17",
+      "fecha_operacion": "2020-06-16",
+      "moneda": "CHF",
+      "compra": 213504.73979776,
+      "venta": 214039.83939626
+    },
+    {
+      "fecha_valor": "2020-06-16",
+      "fecha_operacion": "2020-06-15",
+      "moneda": "CHF",
+      "compra": 213523.13419927,
+      "venta": 214058.27989902
+    },
+    {
+      "fecha_valor": "2020-06-15",
+      "fecha_operacion": "2020-06-12",
+      "moneda": "CHF",
+      "compra": 213041.39533539,
+      "venta": 213575.33366957
+    },
+    {
+      "fecha_valor": "2020-06-12",
+      "fecha_operacion": "2020-06-11",
+      "moneda": "CHF",
+      "compra": 215354.43263275,
+      "venta": 215894.16805288
+    },
+    {
+      "fecha_valor": "2020-06-11",
+      "fecha_operacion": "2020-06-10",
+      "moneda": "CHF",
+      "compra": 212207.47329076,
+      "venta": 212739.32159475
+    },
+    {
+      "fecha_valor": "2020-06-10",
+      "fecha_operacion": "2020-06-09",
+      "moneda": "CHF",
+      "compra": 208059.96514713,
+      "venta": 208581.41869387
+    },
+    {
+      "fecha_valor": "2020-06-09",
+      "fecha_operacion": "2020-06-08",
+      "moneda": "CHF",
+      "compra": 206749.39869375,
+      "venta": 207267.56761279
+    },
+    {
+      "fecha_valor": "2020-06-08",
+      "fecha_operacion": "2020-06-05",
+      "moneda": "CHF",
+      "compra": 206217.00144042,
+      "venta": 206793.97928225
+    },
+    {
+      "fecha_valor": "2020-06-05",
+      "fecha_operacion": "2020-06-04",
+      "moneda": "CHF",
+      "compra": 207192.82684444,
+      "venta": 207712.10711223
+    },
+    {
+      "fecha_valor": "2020-06-04",
+      "fecha_operacion": "2020-06-03",
+      "moneda": "CHF",
+      "compra": 204767.5801311,
+      "venta": 205280.78208632
+    },
+    {
+      "fecha_valor": "2020-06-03",
+      "fecha_operacion": "2020-06-02",
+      "moneda": "CHF",
+      "compra": 204676.39983038,
+      "venta": 205189.37326354
+    },
+    {
+      "fecha_valor": "2020-06-02",
+      "fecha_operacion": "2020-06-01",
+      "moneda": "CHF",
+      "compra": 205187.66935447,
+      "venta": 205701.92416489
+    },
+    {
+      "fecha_valor": "2020-06-01",
+      "fecha_operacion": "2020-05-29",
+      "moneda": "CHF",
+      "compra": 205551.66396909,
+      "venta": 206066.83104671
+    },
+    {
+      "fecha_valor": "2020-05-29",
+      "fecha_operacion": "2020-05-28",
+      "moneda": "CHF",
+      "compra": 203810.44457558,
+      "venta": 204321.24769482
+    },
+    {
+      "fecha_valor": "2020-05-28",
+      "fecha_operacion": "2020-05-27",
+      "moneda": "CHF",
+      "compra": 201674.400017,
+      "venta": 202179.84964111
+    },
+    {
+      "fecha_valor": "2020-05-27",
+      "fecha_operacion": "2020-05-26",
+      "moneda": "CHF",
+      "compra": 199597.3141542,
+      "venta": 200097.55804933
+    },
+    {
+      "fecha_valor": "2020-05-26",
+      "fecha_operacion": "2020-05-22",
+      "moneda": "CHF",
+      "compra": 198415.19353831,
+      "venta": 198912.47472513
+    },
+    {
+      "fecha_valor": "2020-05-22",
+      "fecha_operacion": "2020-05-21",
+      "moneda": "CHF",
+      "compra": 193511.36634991,
+      "venta": 193996.35724302
+    },
+    {
+      "fecha_valor": "2020-05-21",
+      "fecha_operacion": "2020-05-20",
+      "moneda": "CHF",
+      "compra": 189888.18768902,
+      "venta": 190364.09793386
+    },
+    {
+      "fecha_valor": "2020-05-20",
+      "fecha_operacion": "2020-05-19",
+      "moneda": "CHF",
+      "compra": 187650.1070465,
+      "venta": 188120.40806667
+    },
+    {
+      "fecha_valor": "2020-05-19",
+      "fecha_operacion": "2020-05-18",
+      "moneda": "CHF",
+      "compra": 188725.98831499,
+      "venta": 189198.98577944
+    },
+    {
+      "fecha_valor": "2020-05-18",
+      "fecha_operacion": "2020-05-15",
+      "moneda": "CHF",
+      "compra": 187667.07236034,
+      "venta": 188137.41590009
+    },
+    {
+      "fecha_valor": "2020-05-15",
+      "fecha_operacion": "2020-05-14",
+      "moneda": "CHF",
+      "compra": 186282.9959073,
+      "venta": 186749.87058376
+    },
+    {
+      "fecha_valor": "2020-05-14",
+      "fecha_operacion": "2020-05-13",
+      "moneda": "CHF",
+      "compra": 184102.07461265,
+      "venta": 184563.48332096
+    },
+    {
+      "fecha_valor": "2020-05-13",
+      "fecha_operacion": "2020-05-12",
+      "moneda": "CHF",
+      "compra": 184119.71309512,
+      "venta": 184581.16601015
+    },
+    {
+      "fecha_valor": "2020-05-12",
+      "fecha_operacion": "2020-05-11",
+      "moneda": "CHF",
+      "compra": 183676.69801859,
+      "venta": 184137.04062014
+    },
+    {
+      "fecha_valor": "2020-05-11",
+      "fecha_operacion": "2020-05-08",
+      "moneda": "CHF",
+      "compra": 184126.81753605,
+      "venta": 184588.2882567
+    },
+    {
+      "fecha_valor": "2020-05-08",
+      "fecha_operacion": "2020-05-07",
+      "moneda": "CHF",
+      "compra": 176822.53593504,
+      "venta": 177265.70018551
+    },
+    {
+      "fecha_valor": "2020-05-07",
+      "fecha_operacion": "2020-05-06",
+      "moneda": "CHF",
+      "compra": 173323.8375327,
+      "venta": 173758.23311549
+    },
+    {
+      "fecha_valor": "2020-05-06",
+      "fecha_operacion": "2020-05-05",
+      "moneda": "CHF",
+      "compra": 176392.67455527,
+      "venta": 176834.76145892
+    },
+    {
+      "fecha_valor": "2020-05-05",
+      "fecha_operacion": "2020-05-04",
+      "moneda": "CHF",
+      "compra": 181423.3316011,
+      "venta": 181878.02666777
+    },
+    {
+      "fecha_valor": "2020-05-04",
+      "fecha_operacion": "2020-04-30",
+      "moneda": "CHF",
+      "compra": 182221.14798295,
+      "venta": 182677.84258943
+    },
+    {
+      "fecha_valor": "2020-04-30",
+      "fecha_operacion": "2020-04-29",
+      "moneda": "CHF",
+      "compra": 180862.05878088,
+      "venta": 181315.34714876
+    },
+    {
+      "fecha_valor": "2020-04-29",
+      "fecha_operacion": "2020-04-28",
+      "moneda": "CHF",
+      "compra": 179874.0342598,
+      "venta": 180324.84637574
+    },
+    {
+      "fecha_valor": "2020-04-28",
+      "fecha_operacion": "2020-04-27",
+      "moneda": "CHF",
+      "compra": 174105.80732857,
+      "venta": 174542.16273541
+    },
+    {
+      "fecha_valor": "2020-04-27",
+      "fecha_operacion": "2020-04-24",
+      "moneda": "CHF",
+      "compra": 175065.5736086,
+      "venta": 175504.33444472
+    },
+    {
+      "fecha_valor": "2020-04-24",
+      "fecha_operacion": "2020-04-23",
+      "moneda": "CHF",
+      "compra": 175695.3221171,
+      "venta": 176135.66127028
+    },
+    {
+      "fecha_valor": "2020-04-23",
+      "fecha_operacion": "2020-04-22",
+      "moneda": "CHF",
+      "compra": 148890.28175332,
+      "venta": 149263.44035421
+    },
+    {
+      "fecha_valor": "2020-04-22",
+      "fecha_operacion": "2020-04-21",
+      "moneda": "CHF",
+      "compra": 133024.45789239,
+      "venta": 133357.8525237
+    },
+    {
+      "fecha_valor": "2020-04-21",
+      "fecha_operacion": "2020-04-20",
+      "moneda": "CHF",
+      "compra": 132123.89562273,
+      "venta": 132455.03320575
+    },
+    {
+      "fecha_valor": "2020-04-20",
+      "fecha_operacion": "2020-04-17",
+      "moneda": "CHF",
+      "compra": 129572.26261792,
+      "venta": 129897.00513075
+    },
+    {
+      "fecha_valor": "2020-04-17",
+      "fecha_operacion": "2020-04-16",
+      "moneda": "CHF",
+      "compra": 129632.07835787,
+      "venta": 129956.97078484
+    },
+    {
+      "fecha_valor": "2020-04-16",
+      "fecha_operacion": "2020-04-15",
+      "moneda": "CHF",
+      "compra": 124986.53107265,
+      "venta": 125299.78052396
+    },
+    {
+      "fecha_valor": "2020-04-15",
+      "fecha_operacion": "2020-04-14",
+      "moneda": "CHF",
+      "compra": 118058.0200632,
+      "venta": 118353.90482527
+    },
+    {
+      "fecha_valor": "2020-04-14",
+      "fecha_operacion": "2020-04-13",
+      "moneda": "CHF",
+      "compra": 109189.49412873,
+      "venta": 109463.15200876
+    },
+    {
+      "fecha_valor": "2020-04-13",
+      "fecha_operacion": "2020-04-08",
+      "moneda": "CHF",
+      "compra": 103839.7567869,
+      "venta": 104100.00680391
+    },
+    {
+      "fecha_valor": "2020-04-08",
+      "fecha_operacion": "2020-04-07",
+      "moneda": "CHF",
+      "compra": 99321.83878143,
+      "venta": 99570.76569567
+    },
+    {
+      "fecha_valor": "2020-04-07",
+      "fecha_operacion": "2020-04-06",
+      "moneda": "CHF",
+      "compra": 93742.62507776,
+      "venta": 93977.56900027
+    },
+    {
+      "fecha_valor": "2020-04-06",
+      "fecha_operacion": "2020-04-03",
+      "moneda": "CHF",
+      "compra": 88348.68225257,
+      "venta": 88570.10752138
+    },
+    {
+      "fecha_valor": "2020-04-03",
+      "fecha_operacion": "2020-04-02",
+      "moneda": "CHF",
+      "compra": 86918.79068813,
+      "venta": 87136.63226881
+    },
+    {
+      "fecha_valor": "2020-04-02",
+      "fecha_operacion": "2020-04-01",
+      "moneda": "CHF",
+      "compra": 86030.37043041,
+      "venta": 86245.9853939
+    },
+    {
+      "fecha_valor": "2020-04-01",
+      "fecha_operacion": "2020-03-31",
+      "moneda": "CHF",
+      "compra": 83869.16392835,
+      "venta": 84079.36233419
+    },
+    {
+      "fecha_valor": "2020-03-31",
+      "fecha_operacion": "2020-03-30",
+      "moneda": "CHF",
+      "compra": 83361.36266748,
+      "venta": 83570.28838846
+    },
+    {
+      "fecha_valor": "2020-03-30",
+      "fecha_operacion": "2020-03-27",
+      "moneda": "CHF",
+      "compra": 81294.37715008,
+      "venta": 81498.12245623
+    }
+  ]
+}

@@ -1,0 +1,6209 @@
+{
+  "moneda": "GBP",
+  "updated_at": "2026-10-23T19:22:19+00:00",
+  "count": 886,
+  "data": [
+    {
+      "fecha_valor": "2024-09-13",
+      "fecha_operacion": "2024-09-12",
+      "moneda": "GBP",
+      "compra": 47.93342001,
+      "venta": 48.0535539
+    },
+    {
+      "fecha_valor": "2023-11-29",
+      "fecha_operacion": "2023-11-28",
+      "moneda": "GBP",
+      "compra": 44.78567041,
+      "venta": 44.8979152
+    },
+    {
+      "fecha_valor": "2023-11-28",
+      "fecha_operacion": "2023-11-27",
+      "moneda": "GBP",
+      "compra": 44.62747173,
+      "venta": 44.73932004
+    },
+    {
+      "fecha_valor": "2023-11-27",
+      "fecha_operacion": "2023-11-24",
+      "moneda": "GBP",
+      "compra": 44.62435571,
+      "venta": 44.73619621
+    },
+    {
+      "fecha_valor": "2023-11-24",
+      "fecha_operacion": "2023-11-23",
+      "moneda": "GBP",
+      "compra": 44.38036553,
+      "venta": 44.49159452
+    },
+    {
+      "fecha_valor": "2023-11-23",
+      "fecha_operacion": "2023-11-22",
+      "moneda": "GBP",
+      "compra": 43.98415845,
+      "venta": 44.09439444
+    },
+    {
+      "fecha_valor": "2023-11-22",
+      "fecha_operacion": "2023-11-21",
+      "moneda": "GBP",
+      "compra": 44.27915605,
+      "venta": 44.39013138
+    },
+    {
+      "fecha_valor": "2023-11-21",
+      "fecha_operacion": "2023-11-20",
+      "moneda": "GBP",
+      "compra": 44.16065534,
+      "venta": 44.27133368
+    },
+    {
+      "fecha_valor": "2023-11-20",
+      "fecha_operacion": "2023-11-17",
+      "moneda": "GBP",
+      "compra": 43.99598397,
+      "venta": 44.1062496
+    },
+    {
+      "fecha_valor": "2023-11-17",
+      "fecha_operacion": "2023-11-16",
+      "moneda": "GBP",
+      "compra": 43.98568925,
+      "venta": 44.09592908
+    },
+    {
+      "fecha_valor": "2023-11-16",
+      "fecha_operacion": "2023-11-15",
+      "moneda": "GBP",
+      "compra": 43.98682656,
+      "venta": 44.09706924
+    },
+    {
+      "fecha_valor": "2023-11-15",
+      "fecha_operacion": "2023-11-14",
+      "moneda": "GBP",
+      "compra": 44.01445557,
+      "venta": 44.12476749
+    },
+    {
+      "fecha_valor": "2023-11-14",
+      "fecha_operacion": "2023-11-13",
+      "moneda": "GBP",
+      "compra": 43.16304637,
+      "venta": 43.27122444
+    },
+    {
+      "fecha_valor": "2023-11-13",
+      "fecha_operacion": "2023-11-10",
+      "moneda": "GBP",
+      "compra": 43.05483632,
+      "venta": 43.16274318
+    },
+    {
+      "fecha_valor": "2023-11-10",
+      "fecha_operacion": "2023-11-09",
+      "moneda": "GBP",
+      "compra": 43.32421664,
+      "venta": 43.43279864
+    },
+    {
+      "fecha_valor": "2023-11-09",
+      "fecha_operacion": "2023-11-08",
+      "moneda": "GBP",
+      "compra": 43.21231124,
+      "venta": 43.32061278
+    },
+    {
+      "fecha_valor": "2023-11-08",
+      "fecha_operacion": "2023-11-07",
+      "moneda": "GBP",
+      "compra": 43.16300373,
+      "venta": 43.27118169
+    },
+    {
+      "fecha_valor": "2023-11-07",
+      "fecha_operacion": "2023-11-03",
+      "moneda": "GBP",
+      "compra": 43.41469843,
+      "venta": 43.5235072
+    },
+    {
+      "fecha_valor": "2023-11-03",
+      "fecha_operacion": "2023-11-02",
+      "moneda": "GBP",
+      "compra": 42.76095081,
+      "venta": 42.86812112
+    },
+    {
+      "fecha_valor": "2023-11-02",
+      "fecha_operacion": "2023-11-01",
+      "moneda": "GBP",
+      "compra": 42.58017781,
+      "venta": 42.68689505
+    },
+    {
+      "fecha_valor": "2023-11-01",
+      "fecha_operacion": "2023-10-31",
+      "moneda": "GBP",
+      "compra": 42.51531746,
+      "venta": 42.62187215
+    },
+    {
+      "fecha_valor": "2023-10-31",
+      "fecha_operacion": "2023-10-27",
+      "moneda": "GBP",
+      "compra": 42.56282198,
+      "venta": 42.66949572
+    },
+    {
+      "fecha_valor": "2023-10-27",
+      "fecha_operacion": "2023-10-26",
+      "moneda": "GBP",
+      "compra": 42.44955726,
+      "venta": 42.55594713
+    },
+    {
+      "fecha_valor": "2023-10-26",
+      "fecha_operacion": "2023-10-25",
+      "moneda": "GBP",
+      "compra": 42.44559306,
+      "venta": 42.551973
+    },
+    {
+      "fecha_valor": "2023-10-25",
+      "fecha_operacion": "2023-10-24",
+      "moneda": "GBP",
+      "compra": 42.51527247,
+      "venta": 42.62182704
+    },
+    {
+      "fecha_valor": "2023-10-24",
+      "fecha_operacion": "2023-10-23",
+      "moneda": "GBP",
+      "compra": 28.53884208,
+      "venta": 28.610368
+    },
+    {
+      "fecha_valor": "2023-10-23",
+      "fecha_operacion": "2023-10-20",
+      "moneda": "GBP",
+      "compra": 42.41981549,
+      "venta": 42.52613082
+    },
+    {
+      "fecha_valor": "2023-10-20",
+      "fecha_operacion": "2023-10-19",
+      "moneda": "GBP",
+      "compra": 42.23664223,
+      "venta": 42.34249848
+    },
+    {
+      "fecha_valor": "2023-10-19",
+      "fecha_operacion": "2023-10-18",
+      "moneda": "GBP",
+      "compra": 42.24925514,
+      "venta": 42.355143
+    },
+    {
+      "fecha_valor": "2023-10-18",
+      "fecha_operacion": "2023-10-17",
+      "moneda": "GBP",
+      "compra": 42.29226987,
+      "venta": 42.39826554
+    },
+    {
+      "fecha_valor": "2023-10-17",
+      "fecha_operacion": "2023-10-16",
+      "moneda": "GBP",
+      "compra": 42.39082285,
+      "venta": 42.49706552
+    },
+    {
+      "fecha_valor": "2023-10-16",
+      "fecha_operacion": "2023-10-13",
+      "moneda": "GBP",
+      "compra": 42.2285948,
+      "venta": 42.33443088
+    },
+    {
+      "fecha_valor": "2023-10-13",
+      "fecha_operacion": "2023-10-11",
+      "moneda": "GBP",
+      "compra": 42.80588005,
+      "venta": 42.91316296
+    },
+    {
+      "fecha_valor": "2023-10-11",
+      "fecha_operacion": "2023-10-10",
+      "moneda": "GBP",
+      "compra": 42.61943844,
+      "venta": 42.72625408
+    },
+    {
+      "fecha_valor": "2023-10-10",
+      "fecha_operacion": "2023-10-09",
+      "moneda": "GBP",
+      "compra": 28.4566242,
+      "venta": 28.52794407
+    },
+    {
+      "fecha_valor": "2023-10-09",
+      "fecha_operacion": "2023-10-06",
+      "moneda": "GBP",
+      "compra": 42.42209461,
+      "venta": 42.52841565
+    },
+    {
+      "fecha_valor": "2023-10-06",
+      "fecha_operacion": "2023-10-05",
+      "moneda": "GBP",
+      "compra": 42.17796912,
+      "venta": 42.28367832
+    },
+    {
+      "fecha_valor": "2023-10-05",
+      "fecha_operacion": "2023-10-04",
+      "moneda": "GBP",
+      "compra": 42.01927807,
+      "venta": 42.12458955
+    },
+    {
+      "fecha_valor": "2023-10-04",
+      "fecha_operacion": "2023-10-03",
+      "moneda": "GBP",
+      "compra": 41.75755821,
+      "venta": 41.86221375
+    },
+    {
+      "fecha_valor": "2023-10-03",
+      "fecha_operacion": "2023-10-02",
+      "moneda": "GBP",
+      "compra": 41.6984044,
+      "venta": 41.80291168
+    },
+    {
+      "fecha_valor": "2023-10-02",
+      "fecha_operacion": "2023-09-29",
+      "moneda": "GBP",
+      "compra": 41.84591545,
+      "venta": 41.95079244
+    },
+    {
+      "fecha_valor": "2023-09-29",
+      "fecha_operacion": "2023-09-28",
+      "moneda": "GBP",
+      "compra": 41.73563722,
+      "venta": 41.84023782
+    },
+    {
+      "fecha_valor": "2023-09-28",
+      "fecha_operacion": "2023-09-27",
+      "moneda": "GBP",
+      "compra": 41.46956591,
+      "venta": 41.57349966
+    },
+    {
+      "fecha_valor": "2023-09-27",
+      "fecha_operacion": "2023-09-26",
+      "moneda": "GBP",
+      "compra": 41.37761481,
+      "venta": 41.48131811
+    },
+    {
+      "fecha_valor": "2023-09-26",
+      "fecha_operacion": "2023-09-25",
+      "moneda": "GBP",
+      "compra": 41.43180552,
+      "venta": 41.53564464
+    },
+    {
+      "fecha_valor": "2023-09-25",
+      "fecha_operacion": "2023-09-22",
+      "moneda": "GBP",
+      "compra": 41.56902817,
+      "venta": 41.6732112
+    },
+    {
+      "fecha_valor": "2023-09-22",
+      "fecha_operacion": "2023-09-21",
+      "moneda": "GBP",
+      "compra": 41.614678,
+      "venta": 41.71897544
+    },
+    {
+      "fecha_valor": "2023-09-21",
+      "fecha_operacion": "2023-09-20",
+      "moneda": "GBP",
+      "compra": 41.84165902,
+      "venta": 41.94652534
+    },
+    {
+      "fecha_valor": "2023-09-20",
+      "fecha_operacion": "2023-09-19",
+      "moneda": "GBP",
+      "compra": 41.78665621,
+      "venta": 41.89138468
+    },
+    {
+      "fecha_valor": "2023-09-19",
+      "fecha_operacion": "2023-09-18",
+      "moneda": "GBP",
+      "compra": 41.59705538,
+      "venta": 41.70130866
+    },
+    {
+      "fecha_valor": "2023-09-18",
+      "fecha_operacion": "2023-09-15",
+      "moneda": "GBP",
+      "compra": 41.63827748,
+      "venta": 41.74263407
+    },
+    {
+      "fecha_valor": "2023-09-15",
+      "fecha_operacion": "2023-09-14",
+      "moneda": "GBP",
+      "compra": 41.52935789,
+      "venta": 41.6334415
+    },
+    {
+      "fecha_valor": "2023-09-14",
+      "fecha_operacion": "2023-09-13",
+      "moneda": "GBP",
+      "compra": 41.67907107,
+      "venta": 41.7835299
+    },
+    {
+      "fecha_valor": "2023-09-13",
+      "fecha_operacion": "2023-09-12",
+      "moneda": "GBP",
+      "compra": 41.46743529,
+      "venta": 41.5713637
+    },
+    {
+      "fecha_valor": "2023-09-12",
+      "fecha_operacion": "2023-09-08",
+      "moneda": "GBP",
+      "compra": 41.49444666,
+      "venta": 41.59844277
+    },
+    {
+      "fecha_valor": "2023-09-08",
+      "fecha_operacion": "2023-09-07",
+      "moneda": "GBP",
+      "compra": 41.31642795,
+      "venta": 41.4199779
+    },
+    {
+      "fecha_valor": "2023-09-07",
+      "fecha_operacion": "2023-09-06",
+      "moneda": "GBP",
+      "compra": 41.25287284,
+      "venta": 41.3562635
+    },
+    {
+      "fecha_valor": "2023-09-06",
+      "fecha_operacion": "2023-09-05",
+      "moneda": "GBP",
+      "compra": 41.24874245,
+      "venta": 41.35212276
+    },
+    {
+      "fecha_valor": "2023-09-05",
+      "fecha_operacion": "2023-09-04",
+      "moneda": "GBP",
+      "compra": 41.28998416,
+      "venta": 41.39346783
+    },
+    {
+      "fecha_valor": "2023-09-04",
+      "fecha_operacion": "2023-09-01",
+      "moneda": "GBP",
+      "compra": 41.26329827,
+      "venta": 41.36671506
+    },
+    {
+      "fecha_valor": "2023-09-01",
+      "fecha_operacion": "2023-08-31",
+      "moneda": "GBP",
+      "compra": 41.19241398,
+      "venta": 41.29565312
+    },
+    {
+      "fecha_valor": "2023-08-31",
+      "fecha_operacion": "2023-08-30",
+      "moneda": "GBP",
+      "compra": 41.29855628,
+      "venta": 41.40206144
+    },
+    {
+      "fecha_valor": "2023-08-30",
+      "fecha_operacion": "2023-08-29",
+      "moneda": "GBP",
+      "compra": 40.77057347,
+      "venta": 40.87275536
+    },
+    {
+      "fecha_valor": "2023-08-29",
+      "fecha_operacion": "2023-08-28",
+      "moneda": "GBP",
+      "compra": 40.70709272,
+      "venta": 40.80911551
+    },
+    {
+      "fecha_valor": "2023-08-28",
+      "fecha_operacion": "2023-08-25",
+      "moneda": "GBP",
+      "compra": 40.54248845,
+      "venta": 40.6440987
+    },
+    {
+      "fecha_valor": "2023-08-25",
+      "fecha_operacion": "2023-08-24",
+      "moneda": "GBP",
+      "compra": 40.74535619,
+      "venta": 40.84747488
+    },
+    {
+      "fecha_valor": "2023-08-24",
+      "fecha_operacion": "2023-08-23",
+      "moneda": "GBP",
+      "compra": 40.76131845,
+      "venta": 40.86347715
+    },
+    {
+      "fecha_valor": "2023-08-23",
+      "fecha_operacion": "2023-08-22",
+      "moneda": "GBP",
+      "compra": 40.65376992,
+      "venta": 40.75565907
+    },
+    {
+      "fecha_valor": "2023-08-22",
+      "fecha_operacion": "2023-08-21",
+      "moneda": "GBP",
+      "compra": 40.4388664,
+      "venta": 40.54021695
+    },
+    {
+      "fecha_valor": "2023-08-21",
+      "fecha_operacion": "2023-08-18",
+      "moneda": "GBP",
+      "compra": 40.45931947,
+      "venta": 40.56072128
+    },
+    {
+      "fecha_valor": "2023-08-18",
+      "fecha_operacion": "2023-08-17",
+      "moneda": "GBP",
+      "compra": 40.36549374,
+      "venta": 40.4666604
+    },
+    {
+      "fecha_valor": "2023-08-17",
+      "fecha_operacion": "2023-08-16",
+      "moneda": "GBP",
+      "compra": 40.2041552,
+      "venta": 40.3049175
+    },
+    {
+      "fecha_valor": "2023-08-16",
+      "fecha_operacion": "2023-08-15",
+      "moneda": "GBP",
+      "compra": 40.07455751,
+      "venta": 40.174995
+    },
+    {
+      "fecha_valor": "2023-08-15",
+      "fecha_operacion": "2023-08-11",
+      "moneda": "GBP",
+      "compra": 39.95565257,
+      "venta": 40.05579206
+    },
+    {
+      "fecha_valor": "2023-08-11",
+      "fecha_operacion": "2023-08-10",
+      "moneda": "GBP",
+      "compra": 39.83752954,
+      "venta": 39.93737298
+    },
+    {
+      "fecha_valor": "2023-08-10",
+      "fecha_operacion": "2023-08-09",
+      "moneda": "GBP",
+      "compra": 39.66916708,
+      "venta": 39.76858856
+    },
+    {
+      "fecha_valor": "2023-08-09",
+      "fecha_operacion": "2023-08-08",
+      "moneda": "GBP",
+      "compra": 39.4806211,
+      "venta": 39.57957003
+    },
+    {
+      "fecha_valor": "2023-08-08",
+      "fecha_operacion": "2023-08-07",
+      "moneda": "GBP",
+      "compra": 39.46026399,
+      "venta": 39.5591619
+    },
+    {
+      "fecha_valor": "2023-08-07",
+      "fecha_operacion": "2023-08-04",
+      "moneda": "GBP",
+      "compra": 39.45041567,
+      "venta": 39.5492889
+    },
+    {
+      "fecha_valor": "2023-08-04",
+      "fecha_operacion": "2023-08-03",
+      "moneda": "GBP",
+      "compra": 38.14576184,
+      "venta": 38.24136526
+    },
+    {
+      "fecha_valor": "2023-08-03",
+      "fecha_operacion": "2023-08-02",
+      "moneda": "GBP",
+      "compra": 37.68067726,
+      "venta": 37.77511505
+    },
+    {
+      "fecha_valor": "2023-08-02",
+      "fecha_operacion": "2023-08-01",
+      "moneda": "GBP",
+      "compra": 37.75964076,
+      "venta": 37.85427646
+    },
+    {
+      "fecha_valor": "2023-08-01",
+      "fecha_operacion": "2023-07-31",
+      "moneda": "GBP",
+      "compra": 37.84984679,
+      "venta": 37.94470857
+    },
+    {
+      "fecha_valor": "2023-07-31",
+      "fecha_operacion": "2023-07-28",
+      "moneda": "GBP",
+      "compra": 37.86638238,
+      "venta": 37.9612856
+    },
+    {
+      "fecha_valor": "2023-07-28",
+      "fecha_operacion": "2023-07-27",
+      "moneda": "GBP",
+      "compra": 37.58934778,
+      "venta": 37.68355668
+    },
+    {
+      "fecha_valor": "2023-07-27",
+      "fecha_operacion": "2023-07-26",
+      "moneda": "GBP",
+      "compra": 37.80239635,
+      "venta": 37.8971392
+    },
+    {
+      "fecha_valor": "2023-07-26",
+      "fecha_operacion": "2023-07-25",
+      "moneda": "GBP",
+      "compra": 37.32281862,
+      "venta": 37.41635952
+    },
+    {
+      "fecha_valor": "2023-07-25",
+      "fecha_operacion": "2023-07-21",
+      "moneda": "GBP",
+      "compra": 37.3039195,
+      "venta": 37.39741304
+    },
+    {
+      "fecha_valor": "2023-07-21",
+      "fecha_operacion": "2023-07-20",
+      "moneda": "GBP",
+      "compra": 37.1626805,
+      "venta": 37.25582006
+    },
+    {
+      "fecha_valor": "2023-07-20",
+      "fecha_operacion": "2023-07-19",
+      "moneda": "GBP",
+      "compra": 37.14912386,
+      "venta": 37.24222944
+    },
+    {
+      "fecha_valor": "2023-07-19",
+      "fecha_operacion": "2023-07-18",
+      "moneda": "GBP",
+      "compra": 37.61813842,
+      "venta": 37.71241947
+    },
+    {
+      "fecha_valor": "2023-07-18",
+      "fecha_operacion": "2023-07-17",
+      "moneda": "GBP",
+      "compra": 37.40309695,
+      "venta": 37.49683905
+    },
+    {
+      "fecha_valor": "2023-07-17",
+      "fecha_operacion": "2023-07-14",
+      "moneda": "GBP",
+      "compra": 37.43949449,
+      "venta": 37.53332781
+    },
+    {
+      "fecha_valor": "2023-07-14",
+      "fecha_operacion": "2023-07-13",
+      "moneda": "GBP",
+      "compra": 37.19783614,
+      "venta": 37.2910638
+    },
+    {
+      "fecha_valor": "2023-07-13",
+      "fecha_operacion": "2023-07-12",
+      "moneda": "GBP",
+      "compra": 36.73834105,
+      "venta": 36.8304171
+    },
+    {
+      "fecha_valor": "2023-07-12",
+      "fecha_operacion": "2023-07-11",
+      "moneda": "GBP",
+      "compra": 36.47750695,
+      "venta": 36.56892928
+    },
+    {
+      "fecha_valor": "2023-07-11",
+      "fecha_operacion": "2023-07-10",
+      "moneda": "GBP",
+      "compra": 36.07889987,
+      "venta": 36.16932318
+    },
+    {
+      "fecha_valor": "2023-07-10",
+      "fecha_operacion": "2023-07-07",
+      "moneda": "GBP",
+      "compra": 36.19886011,
+      "venta": 36.28958408
+    },
+    {
+      "fecha_valor": "2023-07-07",
+      "fecha_operacion": "2023-07-06",
+      "moneda": "GBP",
+      "compra": 35.81893654,
+      "venta": 35.90870832
+    },
+    {
+      "fecha_valor": "2023-07-06",
+      "fecha_operacion": "2023-07-04",
+      "moneda": "GBP",
+      "compra": 35.75853704,
+      "venta": 35.84815744
+    },
+    {
+      "fecha_valor": "2023-07-04",
+      "fecha_operacion": "2023-06-30",
+      "moneda": "GBP",
+      "compra": 35.53913103,
+      "venta": 35.62820154
+    },
+    {
+      "fecha_valor": "2023-06-30",
+      "fecha_operacion": "2023-06-29",
+      "moneda": "GBP",
+      "compra": 35.05073145,
+      "venta": 35.1385779
+    },
+    {
+      "fecha_valor": "2023-06-29",
+      "fecha_operacion": "2023-06-28",
+      "moneda": "GBP",
+      "compra": 35.08462351,
+      "venta": 35.1725549
+    },
+    {
+      "fecha_valor": "2023-06-28",
+      "fecha_operacion": "2023-06-27",
+      "moneda": "GBP",
+      "compra": 35.237988,
+      "venta": 35.32630376
+    },
+    {
+      "fecha_valor": "2023-06-27",
+      "fecha_operacion": "2023-06-26",
+      "moneda": "GBP",
+      "compra": 35.04638462,
+      "venta": 35.13422018
+    },
+    {
+      "fecha_valor": "2023-06-26",
+      "fecha_operacion": "2023-06-23",
+      "moneda": "GBP",
+      "compra": 34.99856398,
+      "venta": 35.08627968
+    },
+    {
+      "fecha_valor": "2023-06-23",
+      "fecha_operacion": "2023-06-22",
+      "moneda": "GBP",
+      "compra": 35.00353404,
+      "venta": 35.0912622
+    },
+    {
+      "fecha_valor": "2023-06-22",
+      "fecha_operacion": "2023-06-21",
+      "moneda": "GBP",
+      "compra": 34.66329457,
+      "venta": 34.75017
+    },
+    {
+      "fecha_valor": "2023-06-21",
+      "fecha_operacion": "2023-06-20",
+      "moneda": "GBP",
+      "compra": 34.63789187,
+      "venta": 34.72470363
+    },
+    {
+      "fecha_valor": "2023-06-20",
+      "fecha_operacion": "2023-06-16",
+      "moneda": "GBP",
+      "compra": 34.86120216,
+      "venta": 34.9485736
+    },
+    {
+      "fecha_valor": "2023-06-16",
+      "fecha_operacion": "2023-06-15",
+      "moneda": "GBP",
+      "compra": 34.57611479,
+      "venta": 34.66277172
+    },
+    {
+      "fecha_valor": "2023-06-15",
+      "fecha_operacion": "2023-06-14",
+      "moneda": "GBP",
+      "compra": 34.31063413,
+      "venta": 34.3966257
+    },
+    {
+      "fecha_valor": "2023-06-14",
+      "fecha_operacion": "2023-06-13",
+      "moneda": "GBP",
+      "compra": 33.9872188,
+      "venta": 34.0723998
+    },
+    {
+      "fecha_valor": "2023-06-13",
+      "fecha_operacion": "2023-06-09",
+      "moneda": "GBP",
+      "compra": 33.90743695,
+      "venta": 33.992418
+    },
+    {
+      "fecha_valor": "2023-06-09",
+      "fecha_operacion": "2023-06-08",
+      "moneda": "GBP",
+      "compra": 33.59460639,
+      "venta": 33.6788034
+    },
+    {
+      "fecha_valor": "2023-06-08",
+      "fecha_operacion": "2023-06-07",
+      "moneda": "GBP",
+      "compra": 33.18975246,
+      "venta": 33.2729348
+    },
+    {
+      "fecha_valor": "2023-06-07",
+      "fecha_operacion": "2023-06-06",
+      "moneda": "GBP",
+      "compra": 32.96880032,
+      "venta": 33.0514289
+    },
+    {
+      "fecha_valor": "2023-06-06",
+      "fecha_operacion": "2023-06-05",
+      "moneda": "GBP",
+      "compra": 32.75522295,
+      "venta": 32.83731625
+    },
+    {
+      "fecha_valor": "2023-06-05",
+      "fecha_operacion": "2023-06-02",
+      "moneda": "GBP",
+      "compra": 33.11716088,
+      "venta": 33.20016129
+    },
+    {
+      "fecha_valor": "2023-06-02",
+      "fecha_operacion": "2023-06-01",
+      "moneda": "GBP",
+      "compra": 33.05937227,
+      "venta": 33.14222784
+    },
+    {
+      "fecha_valor": "2023-06-01",
+      "fecha_operacion": "2023-05-31",
+      "moneda": "GBP",
+      "compra": 32.4739315,
+      "venta": 32.5553198
+    },
+    {
+      "fecha_valor": "2023-05-31",
+      "fecha_operacion": "2023-05-30",
+      "moneda": "GBP",
+      "compra": 32.39083624,
+      "venta": 32.47201629
+    },
+    {
+      "fecha_valor": "2023-05-30",
+      "fecha_operacion": "2023-05-29",
+      "moneda": "GBP",
+      "compra": 32.35147305,
+      "venta": 32.43255444
+    },
+    {
+      "fecha_valor": "2023-05-29",
+      "fecha_operacion": "2023-05-26",
+      "moneda": "GBP",
+      "compra": 32.31951632,
+      "venta": 32.40051762
+    },
+    {
+      "fecha_valor": "2023-05-26",
+      "fecha_operacion": "2023-05-25",
+      "moneda": "GBP",
+      "compra": 32.16579991,
+      "venta": 32.24641595
+    },
+    {
+      "fecha_valor": "2023-05-25",
+      "fecha_operacion": "2023-05-24",
+      "moneda": "GBP",
+      "compra": 32.11166643,
+      "venta": 32.1921468
+    },
+    {
+      "fecha_valor": "2023-05-24",
+      "fecha_operacion": "2023-05-23",
+      "moneda": "GBP",
+      "compra": 32.22350294,
+      "venta": 32.3042636
+    },
+    {
+      "fecha_valor": "2023-05-23",
+      "fecha_operacion": "2023-05-19",
+      "moneda": "GBP",
+      "compra": 32.26218274,
+      "venta": 32.34304035
+    },
+    {
+      "fecha_valor": "2023-05-19",
+      "fecha_operacion": "2023-05-18",
+      "moneda": "GBP",
+      "compra": 32.06255133,
+      "venta": 32.14290861
+    },
+    {
+      "fecha_valor": "2023-05-18",
+      "fecha_operacion": "2023-05-17",
+      "moneda": "GBP",
+      "compra": 32.10219433,
+      "venta": 32.18265096
+    },
+    {
+      "fecha_valor": "2023-05-17",
+      "fecha_operacion": "2023-05-16",
+      "moneda": "GBP",
+      "compra": 31.97460855,
+      "venta": 32.05474542
+    },
+    {
+      "fecha_valor": "2023-05-16",
+      "fecha_operacion": "2023-05-15",
+      "moneda": "GBP",
+      "compra": 31.80968947,
+      "venta": 31.88941301
+    },
+    {
+      "fecha_valor": "2023-05-15",
+      "fecha_operacion": "2023-05-12",
+      "moneda": "GBP",
+      "compra": 31.64068852,
+      "venta": 31.7199885
+    },
+    {
+      "fecha_valor": "2023-05-12",
+      "fecha_operacion": "2023-05-11",
+      "moneda": "GBP",
+      "compra": 31.66444181,
+      "venta": 31.74380132
+    },
+    {
+      "fecha_valor": "2023-05-11",
+      "fecha_operacion": "2023-05-10",
+      "moneda": "GBP",
+      "compra": 31.6915609,
+      "venta": 31.77098838
+    },
+    {
+      "fecha_valor": "2023-05-10",
+      "fecha_operacion": "2023-05-09",
+      "moneda": "GBP",
+      "compra": 31.62170608,
+      "venta": 31.70095848
+    },
+    {
+      "fecha_valor": "2023-05-09",
+      "fecha_operacion": "2023-05-08",
+      "moneda": "GBP",
+      "compra": 31.54332858,
+      "venta": 31.62238455
+    },
+    {
+      "fecha_valor": "2023-05-08",
+      "fecha_operacion": "2023-05-05",
+      "moneda": "GBP",
+      "compra": 31.54126085,
+      "venta": 31.62031163
+    },
+    {
+      "fecha_valor": "2023-05-05",
+      "fecha_operacion": "2023-05-04",
+      "moneda": "GBP",
+      "compra": 31.36894744,
+      "venta": 31.44756636
+    },
+    {
+      "fecha_valor": "2023-05-04",
+      "fecha_operacion": "2023-05-03",
+      "moneda": "GBP",
+      "compra": 31.12454487,
+      "venta": 31.20255125
+    },
+    {
+      "fecha_valor": "2023-05-03",
+      "fecha_operacion": "2023-05-02",
+      "moneda": "GBP",
+      "compra": 30.85283843,
+      "venta": 30.93016384
+    },
+    {
+      "fecha_valor": "2023-05-02",
+      "fecha_operacion": "2023-04-28",
+      "moneda": "GBP",
+      "compra": 31.02594275,
+      "venta": 31.10370201
+    },
+    {
+      "fecha_valor": "2023-04-28",
+      "fecha_operacion": "2023-04-27",
+      "moneda": "GBP",
+      "compra": 30.76417863,
+      "venta": 30.84128184
+    },
+    {
+      "fecha_valor": "2023-04-27",
+      "fecha_operacion": "2023-04-26",
+      "moneda": "GBP",
+      "compra": 30.63931374,
+      "venta": 30.716104
+    },
+    {
+      "fecha_valor": "2023-04-26",
+      "fecha_operacion": "2023-04-25",
+      "moneda": "GBP",
+      "compra": 30.49612593,
+      "venta": 30.57255733
+    },
+    {
+      "fecha_valor": "2023-04-25",
+      "fecha_operacion": "2023-04-24",
+      "moneda": "GBP",
+      "compra": 30.60060735,
+      "venta": 30.67730061
+    },
+    {
+      "fecha_valor": "2023-04-24",
+      "fecha_operacion": "2023-04-21",
+      "moneda": "GBP",
+      "compra": 30.48760596,
+      "venta": 30.564016
+    },
+    {
+      "fecha_valor": "2023-04-21",
+      "fecha_operacion": "2023-04-20",
+      "moneda": "GBP",
+      "compra": 30.52382384,
+      "venta": 30.60032466
+    },
+    {
+      "fecha_valor": "2023-04-20",
+      "fecha_operacion": "2023-04-18",
+      "moneda": "GBP",
+      "compra": 30.45095106,
+      "venta": 30.52726924
+    },
+    {
+      "fecha_valor": "2023-04-18",
+      "fecha_operacion": "2023-04-17",
+      "moneda": "GBP",
+      "compra": 30.29644897,
+      "venta": 30.37237992
+    },
+    {
+      "fecha_valor": "2023-04-17",
+      "fecha_operacion": "2023-04-14",
+      "moneda": "GBP",
+      "compra": 30.50821425,
+      "venta": 30.58467594
+    },
+    {
+      "fecha_valor": "2023-04-14",
+      "fecha_operacion": "2023-04-13",
+      "moneda": "GBP",
+      "compra": 30.62026599,
+      "venta": 30.69700852
+    },
+    {
+      "fecha_valor": "2023-04-13",
+      "fecha_operacion": "2023-04-12",
+      "moneda": "GBP",
+      "compra": 30.42343025,
+      "venta": 30.49967945
+    },
+    {
+      "fecha_valor": "2023-04-12",
+      "fecha_operacion": "2023-04-11",
+      "moneda": "GBP",
+      "compra": 30.35414999,
+      "venta": 30.43022556
+    },
+    {
+      "fecha_valor": "2023-04-11",
+      "fecha_operacion": "2023-04-10",
+      "moneda": "GBP",
+      "compra": 30.09516201,
+      "venta": 30.17058849
+    },
+    {
+      "fecha_valor": "2023-04-10",
+      "fecha_operacion": "2023-04-05",
+      "moneda": "GBP",
+      "compra": 30.38923289,
+      "venta": 30.46539639
+    },
+    {
+      "fecha_valor": "2023-04-05",
+      "fecha_operacion": "2023-04-04",
+      "moneda": "GBP",
+      "compra": 30.50706501,
+      "venta": 30.58352382
+    },
+    {
+      "fecha_valor": "2023-04-04",
+      "fecha_operacion": "2023-04-03",
+      "moneda": "GBP",
+      "compra": 30.28886708,
+      "venta": 30.36477903
+    },
+    {
+      "fecha_valor": "2023-04-03",
+      "fecha_operacion": "2023-03-31",
+      "moneda": "GBP",
+      "compra": 30.21828606,
+      "venta": 30.29402112
+    },
+    {
+      "fecha_valor": "2023-03-31",
+      "fecha_operacion": "2023-03-30",
+      "moneda": "GBP",
+      "compra": 30.24144658,
+      "venta": 30.31723968
+    },
+    {
+      "fecha_valor": "2023-03-30",
+      "fecha_operacion": "2023-03-29",
+      "moneda": "GBP",
+      "compra": 30.13702273,
+      "venta": 30.21255412
+    },
+    {
+      "fecha_valor": "2023-03-29",
+      "fecha_operacion": "2023-03-28",
+      "moneda": "GBP",
+      "compra": 30.02368794,
+      "venta": 30.09893528
+    },
+    {
+      "fecha_valor": "2023-03-28",
+      "fecha_operacion": "2023-03-27",
+      "moneda": "GBP",
+      "compra": 29.87082586,
+      "venta": 29.94569009
+    },
+    {
+      "fecha_valor": "2023-03-27",
+      "fecha_operacion": "2023-03-24",
+      "moneda": "GBP",
+      "compra": 29.73203801,
+      "venta": 29.8065544
+    },
+    {
+      "fecha_valor": "2023-03-24",
+      "fecha_operacion": "2023-03-23",
+      "moneda": "GBP",
+      "compra": 29.86691039,
+      "venta": 29.94176481
+    },
+    {
+      "fecha_valor": "2023-03-23",
+      "fecha_operacion": "2023-03-22",
+      "moneda": "GBP",
+      "compra": 29.56358136,
+      "venta": 29.63767555
+    },
+    {
+      "fecha_valor": "2023-03-22",
+      "fecha_operacion": "2023-03-21",
+      "moneda": "GBP",
+      "compra": 29.5514733,
+      "venta": 29.62553715
+    },
+    {
+      "fecha_valor": "2023-03-21",
+      "fecha_operacion": "2023-03-20",
+      "moneda": "GBP",
+      "compra": 29.60462332,
+      "venta": 29.67882038
+    },
+    {
+      "fecha_valor": "2023-03-20",
+      "fecha_operacion": "2023-03-17",
+      "moneda": "GBP",
+      "compra": 29.33119888,
+      "venta": 29.40471066
+    },
+    {
+      "fecha_valor": "2023-03-17",
+      "fecha_operacion": "2023-03-16",
+      "moneda": "GBP",
+      "compra": 29.11442435,
+      "venta": 29.18739284
+    },
+    {
+      "fecha_valor": "2023-03-16",
+      "fecha_operacion": "2023-03-15",
+      "moneda": "GBP",
+      "compra": 28.97949036,
+      "venta": 29.05212067
+    },
+    {
+      "fecha_valor": "2023-03-15",
+      "fecha_operacion": "2023-03-14",
+      "moneda": "GBP",
+      "compra": 29.11379791,
+      "venta": 29.18676483
+    },
+    {
+      "fecha_valor": "2023-03-14",
+      "fecha_operacion": "2023-03-13",
+      "moneda": "GBP",
+      "compra": 29.26884661,
+      "venta": 29.34220212
+    },
+    {
+      "fecha_valor": "2023-03-13",
+      "fecha_operacion": "2023-03-10",
+      "moneda": "GBP",
+      "compra": 28.95563047,
+      "venta": 29.02820098
+    },
+    {
+      "fecha_valor": "2023-03-10",
+      "fecha_operacion": "2023-03-09",
+      "moneda": "GBP",
+      "compra": 28.70662756,
+      "venta": 28.778574
+    },
+    {
+      "fecha_valor": "2023-03-09",
+      "fecha_operacion": "2023-03-08",
+      "moneda": "GBP",
+      "compra": 28.58601343,
+      "venta": 28.65765758
+    },
+    {
+      "fecha_valor": "2023-03-08",
+      "fecha_operacion": "2023-03-07",
+      "moneda": "GBP",
+      "compra": 28.87341087,
+      "venta": 28.94577531
+    },
+    {
+      "fecha_valor": "2023-03-07",
+      "fecha_operacion": "2023-03-06",
+      "moneda": "GBP",
+      "compra": 29.11893261,
+      "venta": 29.1919124
+    },
+    {
+      "fecha_valor": "2023-03-06",
+      "fecha_operacion": "2023-03-03",
+      "moneda": "GBP",
+      "compra": 29.06354878,
+      "venta": 29.13638976
+    },
+    {
+      "fecha_valor": "2023-03-03",
+      "fecha_operacion": "2023-03-02",
+      "moneda": "GBP",
+      "compra": 29.02898924,
+      "venta": 29.1017436
+    },
+    {
+      "fecha_valor": "2023-03-02",
+      "fecha_operacion": "2023-03-01",
+      "moneda": "GBP",
+      "compra": 29.08013045,
+      "venta": 29.15301299
+    },
+    {
+      "fecha_valor": "2023-03-01",
+      "fecha_operacion": "2023-02-28",
+      "moneda": "GBP",
+      "compra": 29.44916727,
+      "venta": 29.52297471
+    },
+    {
+      "fecha_valor": "2023-02-28",
+      "fecha_operacion": "2023-02-27",
+      "moneda": "GBP",
+      "compra": 29.22629623,
+      "venta": 29.2995451
+    },
+    {
+      "fecha_valor": "2023-02-27",
+      "fecha_operacion": "2023-02-24",
+      "moneda": "GBP",
+      "compra": 29.07774401,
+      "venta": 29.15062057
+    },
+    {
+      "fecha_valor": "2023-02-24",
+      "fecha_operacion": "2023-02-23",
+      "moneda": "GBP",
+      "compra": 29.32256881,
+      "venta": 29.39605896
+    },
+    {
+      "fecha_valor": "2023-02-23",
+      "fecha_operacion": "2023-02-22",
+      "moneda": "GBP",
+      "compra": 29.42277871,
+      "venta": 29.49652002
+    },
+    {
+      "fecha_valor": "2023-02-22",
+      "fecha_operacion": "2023-02-17",
+      "moneda": "GBP",
+      "compra": 29.20117368,
+      "venta": 29.27435958
+    },
+    {
+      "fecha_valor": "2023-02-17",
+      "fecha_operacion": "2023-02-16",
+      "moneda": "GBP",
+      "compra": 29.12360379,
+      "venta": 29.19659528
+    },
+    {
+      "fecha_valor": "2023-02-16",
+      "fecha_operacion": "2023-02-15",
+      "moneda": "GBP",
+      "compra": 29.17243568,
+      "venta": 29.24554956
+    },
+    {
+      "fecha_valor": "2023-02-15",
+      "fecha_operacion": "2023-02-14",
+      "moneda": "GBP",
+      "compra": 29.6607589,
+      "venta": 29.73509665
+    },
+    {
+      "fecha_valor": "2023-02-14",
+      "fecha_operacion": "2023-02-13",
+      "moneda": "GBP",
+      "compra": 29.23901591,
+      "venta": 29.31229666
+    },
+    {
+      "fecha_valor": "2023-02-13",
+      "fecha_operacion": "2023-02-10",
+      "moneda": "GBP",
+      "compra": 29.26431585,
+      "venta": 29.33766
+    },
+    {
+      "fecha_valor": "2023-02-10",
+      "fecha_operacion": "2023-02-09",
+      "moneda": "GBP",
+      "compra": 29.37112296,
+      "venta": 29.4447348
+    },
+    {
+      "fecha_valor": "2023-02-09",
+      "fecha_operacion": "2023-02-08",
+      "moneda": "GBP",
+      "compra": 28.68284631,
+      "venta": 28.75473315
+    },
+    {
+      "fecha_valor": "2023-02-08",
+      "fecha_operacion": "2023-02-07",
+      "moneda": "GBP",
+      "compra": 28.20316236,
+      "venta": 28.27384698
+    },
+    {
+      "fecha_valor": "2023-02-07",
+      "fecha_operacion": "2023-02-06",
+      "moneda": "GBP",
+      "compra": 27.84061162,
+      "venta": 27.91038759
+    },
+    {
+      "fecha_valor": "2023-02-06",
+      "fecha_operacion": "2023-02-03",
+      "moneda": "GBP",
+      "compra": 27.58094883,
+      "venta": 27.65007402
+    },
+    {
+      "fecha_valor": "2023-02-03",
+      "fecha_operacion": "2023-02-02",
+      "moneda": "GBP",
+      "compra": 27.82537813,
+      "venta": 27.89511592
+    },
+    {
+      "fecha_valor": "2023-02-02",
+      "fecha_operacion": "2023-02-01",
+      "moneda": "GBP",
+      "compra": 27.59701185,
+      "venta": 27.6661773
+    },
+    {
+      "fecha_valor": "2023-02-01",
+      "fecha_operacion": "2023-01-31",
+      "moneda": "GBP",
+      "compra": 27.44862009,
+      "venta": 27.51741363
+    },
+    {
+      "fecha_valor": "2023-01-31",
+      "fecha_operacion": "2023-01-30",
+      "moneda": "GBP",
+      "compra": 27.09669847,
+      "venta": 27.16461
+    },
+    {
+      "fecha_valor": "2023-01-30",
+      "fecha_operacion": "2023-01-27",
+      "moneda": "GBP",
+      "compra": 27.14484423,
+      "venta": 27.21287643
+    },
+    {
+      "fecha_valor": "2023-01-27",
+      "fecha_operacion": "2023-01-26",
+      "moneda": "GBP",
+      "compra": 26.88508638,
+      "venta": 26.95246755
+    },
+    {
+      "fecha_valor": "2023-01-26",
+      "fecha_operacion": "2023-01-25",
+      "moneda": "GBP",
+      "compra": 26.29279124,
+      "venta": 26.35868796
+    },
+    {
+      "fecha_valor": "2023-01-25",
+      "fecha_operacion": "2023-01-24",
+      "moneda": "GBP",
+      "compra": 25.96250354,
+      "venta": 26.02757248
+    },
+    {
+      "fecha_valor": "2023-01-24",
+      "fecha_operacion": "2023-01-23",
+      "moneda": "GBP",
+      "compra": 25.51765517,
+      "venta": 25.5816092
+    },
+    {
+      "fecha_valor": "2023-01-23",
+      "fecha_operacion": "2023-01-20",
+      "moneda": "GBP",
+      "compra": 25.37371297,
+      "venta": 25.43730624
+    },
+    {
+      "fecha_valor": "2023-01-20",
+      "fecha_operacion": "2023-01-19",
+      "moneda": "GBP",
+      "compra": 24.99534458,
+      "venta": 25.05798956
+    },
+    {
+      "fecha_valor": "2023-01-19",
+      "fecha_operacion": "2023-01-18",
+      "moneda": "GBP",
+      "compra": 24.74474295,
+      "venta": 24.80675985
+    },
+    {
+      "fecha_valor": "2023-01-18",
+      "fecha_operacion": "2023-01-17",
+      "moneda": "GBP",
+      "compra": 24.4748757,
+      "venta": 24.53621625
+    },
+    {
+      "fecha_valor": "2023-01-17",
+      "fecha_operacion": "2023-01-16",
+      "moneda": "GBP",
+      "compra": 23.93770726,
+      "venta": 23.99770152
+    },
+    {
+      "fecha_valor": "2023-01-16",
+      "fecha_operacion": "2023-01-13",
+      "moneda": "GBP",
+      "compra": 23.70509712,
+      "venta": 23.7645084
+    },
+    {
+      "fecha_valor": "2023-01-13",
+      "fecha_operacion": "2023-01-12",
+      "moneda": "GBP",
+      "compra": 23.33392953,
+      "venta": 23.39241056
+    },
+    {
+      "fecha_valor": "2023-01-12",
+      "fecha_operacion": "2023-01-11",
+      "moneda": "GBP",
+      "compra": 23.01562083,
+      "venta": 23.0733041
+    },
+    {
+      "fecha_valor": "2023-01-11",
+      "fecha_operacion": "2023-01-10",
+      "moneda": "GBP",
+      "compra": 22.80354992,
+      "venta": 22.86070168
+    },
+    {
+      "fecha_valor": "2023-01-10",
+      "fecha_operacion": "2023-01-06",
+      "moneda": "GBP",
+      "compra": 22.06905177,
+      "venta": 22.12436268
+    },
+    {
+      "fecha_valor": "2023-01-06",
+      "fecha_operacion": "2023-01-05",
+      "moneda": "GBP",
+      "compra": 21.85503353,
+      "venta": 21.90980806
+    },
+    {
+      "fecha_valor": "2023-01-05",
+      "fecha_operacion": "2023-01-04",
+      "moneda": "GBP",
+      "compra": 21.55975442,
+      "venta": 21.6137889
+    },
+    {
+      "fecha_valor": "2023-01-04",
+      "fecha_operacion": "2023-01-03",
+      "moneda": "GBP",
+      "compra": 21.45662762,
+      "venta": 21.51040363
+    },
+    {
+      "fecha_valor": "2023-01-03",
+      "fecha_operacion": "2023-01-02",
+      "moneda": "GBP",
+      "compra": 21.10757023,
+      "venta": 21.16047141
+    },
+    {
+      "fecha_valor": "2023-01-02",
+      "fecha_operacion": "2022-12-30",
+      "moneda": "GBP",
+      "compra": 21.0669171,
+      "venta": 21.1197164
+    },
+    {
+      "fecha_valor": "2022-12-30",
+      "fecha_operacion": "2022-12-29",
+      "moneda": "GBP",
+      "compra": 20.79291112,
+      "venta": 20.84502368
+    },
+    {
+      "fecha_valor": "2022-12-29",
+      "fecha_operacion": "2022-12-28",
+      "moneda": "GBP",
+      "compra": 20.67881431,
+      "venta": 20.73064092
+    },
+    {
+      "fecha_valor": "2022-12-28",
+      "fecha_operacion": "2022-12-27",
+      "moneda": "GBP",
+      "compra": 20.15820574,
+      "venta": 20.20872756
+    },
+    {
+      "fecha_valor": "2022-12-27",
+      "fecha_operacion": "2022-12-26",
+      "moneda": "GBP",
+      "compra": 19.95415907,
+      "venta": 20.0041695
+    },
+    {
+      "fecha_valor": "2022-12-26",
+      "fecha_operacion": "2022-12-23",
+      "moneda": "GBP",
+      "compra": 19.91083303,
+      "venta": 19.96073487
+    },
+    {
+      "fecha_valor": "2022-12-23",
+      "fecha_operacion": "2022-12-22",
+      "moneda": "GBP",
+      "compra": 19.70981426,
+      "venta": 19.7592123
+    },
+    {
+      "fecha_valor": "2022-12-22",
+      "fecha_operacion": "2022-12-21",
+      "moneda": "GBP",
+      "compra": 19.53253435,
+      "venta": 19.58148808
+    },
+    {
+      "fecha_valor": "2022-12-21",
+      "fecha_operacion": "2022-12-20",
+      "moneda": "GBP",
+      "compra": 19.4068563,
+      "venta": 19.45549504
+    },
+    {
+      "fecha_valor": "2022-12-20",
+      "fecha_operacion": "2022-12-19",
+      "moneda": "GBP",
+      "compra": 19.44479715,
+      "venta": 19.49353098
+    },
+    {
+      "fecha_valor": "2022-12-19",
+      "fecha_operacion": "2022-12-16",
+      "moneda": "GBP",
+      "compra": 19.15123427,
+      "venta": 19.19923236
+    },
+    {
+      "fecha_valor": "2022-12-16",
+      "fecha_operacion": "2022-12-15",
+      "moneda": "GBP",
+      "compra": 19.10829186,
+      "venta": 19.15618232
+    },
+    {
+      "fecha_valor": "2022-12-15",
+      "fecha_operacion": "2022-12-14",
+      "moneda": "GBP",
+      "compra": 18.82339002,
+      "venta": 18.87056644
+    },
+    {
+      "fecha_valor": "2022-12-14",
+      "fecha_operacion": "2022-12-13",
+      "moneda": "GBP",
+      "compra": 18.28884357,
+      "venta": 18.33468028
+    },
+    {
+      "fecha_valor": "2022-12-13",
+      "fecha_operacion": "2022-12-09",
+      "moneda": "GBP",
+      "compra": 17.29239589,
+      "venta": 17.33573523
+    },
+    {
+      "fecha_valor": "2022-12-09",
+      "fecha_operacion": "2022-12-08",
+      "moneda": "GBP",
+      "compra": 16.5694388,
+      "venta": 16.61096622
+    },
+    {
+      "fecha_valor": "2022-12-08",
+      "fecha_operacion": "2022-12-07",
+      "moneda": "GBP",
+      "compra": 15.42104227,
+      "venta": 15.4596915
+    },
+    {
+      "fecha_valor": "2022-12-07",
+      "fecha_operacion": "2022-12-06",
+      "moneda": "GBP",
+      "compra": 14.42216941,
+      "venta": 14.4583152
+    },
+    {
+      "fecha_valor": "2022-12-06",
+      "fecha_operacion": "2022-12-05",
+      "moneda": "GBP",
+      "compra": 14.09878579,
+      "venta": 14.1341211
+    },
+    {
+      "fecha_valor": "2022-12-05",
+      "fecha_operacion": "2022-12-02",
+      "moneda": "GBP",
+      "compra": 14.2446636,
+      "venta": 14.28036452
+    },
+    {
+      "fecha_valor": "2022-12-02",
+      "fecha_operacion": "2022-12-01",
+      "moneda": "GBP",
+      "compra": 13.79869149,
+      "venta": 13.83327468
+    },
+    {
+      "fecha_valor": "2022-12-01",
+      "fecha_operacion": "2022-11-30",
+      "moneda": "GBP",
+      "compra": 13.26033817,
+      "venta": 13.29357211
+    },
+    {
+      "fecha_valor": "2022-11-30",
+      "fecha_operacion": "2022-11-29",
+      "moneda": "GBP",
+      "compra": 13.09177498,
+      "venta": 13.12458645
+    },
+    {
+      "fecha_valor": "2022-11-29",
+      "fecha_operacion": "2022-11-28",
+      "moneda": "GBP",
+      "compra": 12.98891732,
+      "venta": 13.021471
+    },
+    {
+      "fecha_valor": "2022-11-28",
+      "fecha_operacion": "2022-11-25",
+      "moneda": "GBP",
+      "compra": 12.92092385,
+      "venta": 12.95330712
+    },
+    {
+      "fecha_valor": "2022-11-25",
+      "fecha_operacion": "2022-11-24",
+      "moneda": "GBP",
+      "compra": 12.60749574,
+      "venta": 12.63909348
+    },
+    {
+      "fecha_valor": "2022-11-24",
+      "fecha_operacion": "2022-11-23",
+      "moneda": "GBP",
+      "compra": 12.26612972,
+      "venta": 12.2968719
+    },
+    {
+      "fecha_valor": "2022-11-23",
+      "fecha_operacion": "2022-11-22",
+      "moneda": "GBP",
+      "compra": 11.83192729,
+      "venta": 11.86158125
+    },
+    {
+      "fecha_valor": "2022-11-22",
+      "fecha_operacion": "2022-11-18",
+      "moneda": "GBP",
+      "compra": 11.84994324,
+      "venta": 11.87964235
+    },
+    {
+      "fecha_valor": "2022-11-18",
+      "fecha_operacion": "2022-11-17",
+      "moneda": "GBP",
+      "compra": 11.52373121,
+      "venta": 11.55261275
+    },
+    {
+      "fecha_valor": "2022-11-17",
+      "fecha_operacion": "2022-11-16",
+      "moneda": "GBP",
+      "compra": 11.29823651,
+      "venta": 11.3265529
+    },
+    {
+      "fecha_valor": "2022-11-16",
+      "fecha_operacion": "2022-11-15",
+      "moneda": "GBP",
+      "compra": 11.21068571,
+      "venta": 11.23878267
+    },
+    {
+      "fecha_valor": "2022-11-15",
+      "fecha_operacion": "2022-11-14",
+      "moneda": "GBP",
+      "compra": 10.91205367,
+      "venta": 10.93940218
+    },
+    {
+      "fecha_valor": "2022-11-14",
+      "fecha_operacion": "2022-11-11",
+      "moneda": "GBP",
+      "compra": 10.89753867,
+      "venta": 10.9248508
+    },
+    {
+      "fecha_valor": "2022-11-11",
+      "fecha_operacion": "2022-11-10",
+      "moneda": "GBP",
+      "compra": 10.49337691,
+      "venta": 10.51967611
+    },
+    {
+      "fecha_valor": "2022-11-10",
+      "fecha_operacion": "2022-11-09",
+      "moneda": "GBP",
+      "compra": 10.17882124,
+      "venta": 10.20433208
+    },
+    {
+      "fecha_valor": "2022-11-09",
+      "fecha_operacion": "2022-11-08",
+      "moneda": "GBP",
+      "compra": 10.14669101,
+      "venta": 10.17212132
+    },
+    {
+      "fecha_valor": "2022-11-08",
+      "fecha_operacion": "2022-11-07",
+      "moneda": "GBP",
+      "compra": 9.97560043,
+      "venta": 10.00060194
+    },
+    {
+      "fecha_valor": "2022-11-07",
+      "fecha_operacion": "2022-11-04",
+      "moneda": "GBP",
+      "compra": 9.90431595,
+      "venta": 9.9291388
+    },
+    {
+      "fecha_valor": "2022-11-04",
+      "fecha_operacion": "2022-11-03",
+      "moneda": "GBP",
+      "compra": 9.69366521,
+      "venta": 9.71796012
+    },
+    {
+      "fecha_valor": "2022-11-03",
+      "fecha_operacion": "2022-11-02",
+      "moneda": "GBP",
+      "compra": 9.8957338,
+      "venta": 9.92053514
+    },
+    {
+      "fecha_valor": "2022-11-02",
+      "fecha_operacion": "2022-11-01",
+      "moneda": "GBP",
+      "compra": 9.81452619,
+      "venta": 9.839124
+    },
+    {
+      "fecha_valor": "2022-11-01",
+      "fecha_operacion": "2022-10-28",
+      "moneda": "GBP",
+      "compra": 9.9261452,
+      "venta": 9.95102276
+    },
+    {
+      "fecha_valor": "2022-10-28",
+      "fecha_operacion": "2022-10-27",
+      "moneda": "GBP",
+      "compra": 9.84943298,
+      "venta": 9.87411828
+    },
+    {
+      "fecha_valor": "2022-10-27",
+      "fecha_operacion": "2022-10-26",
+      "moneda": "GBP",
+      "compra": 9.78179254,
+      "venta": 9.80630832
+    },
+    {
+      "fecha_valor": "2022-10-26",
+      "fecha_operacion": "2022-10-25",
+      "moneda": "GBP",
+      "compra": 9.62253552,
+      "venta": 9.64665216
+    },
+    {
+      "fecha_valor": "2022-10-25",
+      "fecha_operacion": "2022-10-21",
+      "moneda": "GBP",
+      "compra": 9.42400106,
+      "venta": 9.44762012
+    },
+    {
+      "fecha_valor": "2022-10-21",
+      "fecha_operacion": "2022-10-20",
+      "moneda": "GBP",
+      "compra": 9.46958899,
+      "venta": 9.4933223
+    },
+    {
+      "fecha_valor": "2022-10-20",
+      "fecha_operacion": "2022-10-19",
+      "moneda": "GBP",
+      "compra": 9.40246971,
+      "venta": 9.4260348
+    },
+    {
+      "fecha_valor": "2022-10-19",
+      "fecha_operacion": "2022-10-18",
+      "moneda": "GBP",
+      "compra": 9.43685182,
+      "venta": 9.46050308
+    },
+    {
+      "fecha_valor": "2022-10-18",
+      "fecha_operacion": "2022-10-17",
+      "moneda": "GBP",
+      "compra": 9.44471244,
+      "venta": 9.4683834
+    },
+    {
+      "fecha_valor": "2022-10-17",
+      "fecha_operacion": "2022-10-14",
+      "moneda": "GBP",
+      "compra": 9.2947334,
+      "venta": 9.31802848
+    },
+    {
+      "fecha_valor": "2022-10-14",
+      "fecha_operacion": "2022-10-13",
+      "moneda": "GBP",
+      "compra": 9.26722846,
+      "venta": 9.2904546
+    },
+    {
+      "fecha_valor": "2022-10-13",
+      "fecha_operacion": "2022-10-11",
+      "moneda": "GBP",
+      "compra": 9.15134805,
+      "venta": 9.17428376
+    },
+    {
+      "fecha_valor": "2022-10-11",
+      "fecha_operacion": "2022-10-10",
+      "moneda": "GBP",
+      "compra": 9.05080278,
+      "venta": 9.0734865
+    },
+    {
+      "fecha_valor": "2022-10-10",
+      "fecha_operacion": "2022-10-07",
+      "moneda": "GBP",
+      "compra": 9.1290546,
+      "venta": 9.15193444
+    },
+    {
+      "fecha_valor": "2022-10-07",
+      "fecha_operacion": "2022-10-06",
+      "moneda": "GBP",
+      "compra": 9.15605609,
+      "venta": 9.1790036
+    },
+    {
+      "fecha_valor": "2022-10-06",
+      "fecha_operacion": "2022-10-05",
+      "moneda": "GBP",
+      "compra": 9.21170053,
+      "venta": 9.2347875
+    },
+    {
+      "fecha_valor": "2022-10-05",
+      "fecha_operacion": "2022-10-04",
+      "moneda": "GBP",
+      "compra": 9.32813167,
+      "venta": 9.35151045
+    },
+    {
+      "fecha_valor": "2022-10-04",
+      "fecha_operacion": "2022-10-03",
+      "moneda": "GBP",
+      "compra": 9.19674114,
+      "venta": 9.21979062
+    },
+    {
+      "fecha_valor": "2022-10-03",
+      "fecha_operacion": "2022-09-30",
+      "moneda": "GBP",
+      "compra": 9.13969433,
+      "venta": 9.16260084
+    },
+    {
+      "fecha_valor": "2022-09-30",
+      "fecha_operacion": "2022-09-29",
+      "moneda": "GBP",
+      "compra": 9.01466676,
+      "venta": 9.03725991
+    },
+    {
+      "fecha_valor": "2022-09-29",
+      "fecha_operacion": "2022-09-28",
+      "moneda": "GBP",
+      "compra": 8.73016438,
+      "venta": 8.7520445
+    },
+    {
+      "fecha_valor": "2022-09-28",
+      "fecha_operacion": "2022-09-27",
+      "moneda": "GBP",
+      "compra": 8.75421362,
+      "venta": 8.77615401
+    },
+    {
+      "fecha_valor": "2022-09-27",
+      "fecha_operacion": "2022-09-26",
+      "moneda": "GBP",
+      "compra": 8.72645283,
+      "venta": 8.74832364
+    },
+    {
+      "fecha_valor": "2022-09-26",
+      "fecha_operacion": "2022-09-23",
+      "moneda": "GBP",
+      "compra": 8.83297661,
+      "venta": 8.8551144
+    },
+    {
+      "fecha_valor": "2022-09-23",
+      "fecha_operacion": "2022-09-22",
+      "moneda": "GBP",
+      "compra": 9.11756994,
+      "venta": 9.140421
+    },
+    {
+      "fecha_valor": "2022-09-22",
+      "fecha_operacion": "2022-09-21",
+      "moneda": "GBP",
+      "compra": 9.14891549,
+      "venta": 9.17184511
+    },
+    {
+      "fecha_valor": "2022-09-21",
+      "fecha_operacion": "2022-09-20",
+      "moneda": "GBP",
+      "compra": 9.16082916,
+      "venta": 9.18378864
+    },
+    {
+      "fecha_valor": "2022-09-20",
+      "fecha_operacion": "2022-09-19",
+      "moneda": "GBP",
+      "compra": 9.13087385,
+      "venta": 9.15375825
+    },
+    {
+      "fecha_valor": "2022-09-19",
+      "fecha_operacion": "2022-09-16",
+      "moneda": "GBP",
+      "compra": 9.18628684,
+      "venta": 9.20931012
+    },
+    {
+      "fecha_valor": "2022-09-16",
+      "fecha_operacion": "2022-09-15",
+      "moneda": "GBP",
+      "compra": 9.21037688,
+      "venta": 9.23346054
+    },
+    {
+      "fecha_valor": "2022-09-15",
+      "fecha_operacion": "2022-09-14",
+      "moneda": "GBP",
+      "compra": 9.27800381,
+      "venta": 9.30125696
+    },
+    {
+      "fecha_valor": "2022-09-14",
+      "fecha_operacion": "2022-09-13",
+      "moneda": "GBP",
+      "compra": 9.20793566,
+      "venta": 9.2310132
+    },
+    {
+      "fecha_valor": "2022-09-13",
+      "fecha_operacion": "2022-09-12",
+      "moneda": "GBP",
+      "compra": 9.31132723,
+      "venta": 9.33466389
+    },
+    {
+      "fecha_valor": "2022-09-12",
+      "fecha_operacion": "2022-09-09",
+      "moneda": "GBP",
+      "compra": 9.22576253,
+      "venta": 9.24888475
+    },
+    {
+      "fecha_valor": "2022-09-09",
+      "fecha_operacion": "2022-09-08",
+      "moneda": "GBP",
+      "compra": 9.17952837,
+      "venta": 9.20253471
+    },
+    {
+      "fecha_valor": "2022-09-08",
+      "fecha_operacion": "2022-09-07",
+      "moneda": "GBP",
+      "compra": 9.13762241,
+      "venta": 9.16052372
+    },
+    {
+      "fecha_valor": "2022-09-07",
+      "fecha_operacion": "2022-09-06",
+      "moneda": "GBP",
+      "compra": 9.18614715,
+      "venta": 9.20917008
+    },
+    {
+      "fecha_valor": "2022-09-06",
+      "fecha_operacion": "2022-09-05",
+      "moneda": "GBP",
+      "compra": 9.12307379,
+      "venta": 9.14593864
+    },
+    {
+      "fecha_valor": "2022-09-05",
+      "fecha_operacion": "2022-09-02",
+      "moneda": "GBP",
+      "compra": 9.20130715,
+      "venta": 9.22436808
+    },
+    {
+      "fecha_valor": "2022-09-02",
+      "fecha_operacion": "2022-09-01",
+      "moneda": "GBP",
+      "compra": 9.1043648,
+      "venta": 9.12718276
+    },
+    {
+      "fecha_valor": "2022-09-01",
+      "fecha_operacion": "2022-08-31",
+      "moneda": "GBP",
+      "compra": 9.15883101,
+      "venta": 9.18178548
+    },
+    {
+      "fecha_valor": "2022-08-31",
+      "fecha_operacion": "2022-08-30",
+      "moneda": "GBP",
+      "compra": 9.11679244,
+      "venta": 9.13964155
+    },
+    {
+      "fecha_valor": "2022-08-30",
+      "fecha_operacion": "2022-08-29",
+      "moneda": "GBP",
+      "compra": 9.13163138,
+      "venta": 9.15451768
+    },
+    {
+      "fecha_valor": "2022-08-29",
+      "fecha_operacion": "2022-08-26",
+      "moneda": "GBP",
+      "compra": 9.23048603,
+      "venta": 9.25362009
+    },
+    {
+      "fecha_valor": "2022-08-26",
+      "fecha_operacion": "2022-08-25",
+      "moneda": "GBP",
+      "compra": 9.23743333,
+      "venta": 9.2605848
+    },
+    {
+      "fecha_valor": "2022-08-25",
+      "fecha_operacion": "2022-08-24",
+      "moneda": "GBP",
+      "compra": 8.26994724,
+      "venta": 8.29067393
+    },
+    {
+      "fecha_valor": "2022-08-24",
+      "fecha_operacion": "2022-08-23",
+      "moneda": "GBP",
+      "compra": 7.42959116,
+      "venta": 7.44821169
+    },
+    {
+      "fecha_valor": "2022-08-23",
+      "fecha_operacion": "2022-08-22",
+      "moneda": "GBP",
+      "compra": 7.33173288,
+      "venta": 7.35010816
+    },
+    {
+      "fecha_valor": "2022-08-22",
+      "fecha_operacion": "2022-08-19",
+      "moneda": "GBP",
+      "compra": 7.27613609,
+      "venta": 7.29437203
+    },
+    {
+      "fecha_valor": "2022-08-19",
+      "fecha_operacion": "2022-08-18",
+      "moneda": "GBP",
+      "compra": 7.29536529,
+      "venta": 7.31364942
+    },
+    {
+      "fecha_valor": "2022-08-18",
+      "fecha_operacion": "2022-08-17",
+      "moneda": "GBP",
+      "compra": 7.17890455,
+      "venta": 7.1968968
+    },
+    {
+      "fecha_valor": "2022-08-17",
+      "fecha_operacion": "2022-08-16",
+      "moneda": "GBP",
+      "compra": 7.20325872,
+      "venta": 7.221312
+    },
+    {
+      "fecha_valor": "2022-08-16",
+      "fecha_operacion": "2022-08-12",
+      "moneda": "GBP",
+      "compra": 7.22758535,
+      "venta": 7.2456996
+    },
+    {
+      "fecha_valor": "2022-08-12",
+      "fecha_operacion": "2022-08-11",
+      "moneda": "GBP",
+      "compra": 7.25218672,
+      "venta": 7.27036263
+    },
+    {
+      "fecha_valor": "2022-08-11",
+      "fecha_operacion": "2022-08-10",
+      "moneda": "GBP",
+      "compra": 7.24517657,
+      "venta": 7.26333491
+    },
+    {
+      "fecha_valor": "2022-08-10",
+      "fecha_operacion": "2022-08-09",
+      "moneda": "GBP",
+      "compra": 7.11164931,
+      "venta": 7.129473
+    },
+    {
+      "fecha_valor": "2022-08-09",
+      "fecha_operacion": "2022-08-08",
+      "moneda": "GBP",
+      "compra": 7.07581808,
+      "venta": 7.09355196
+    },
+    {
+      "fecha_valor": "2022-08-08",
+      "fecha_operacion": "2022-08-05",
+      "moneda": "GBP",
+      "compra": 7.0557803,
+      "venta": 7.07346396
+    },
+    {
+      "fecha_valor": "2022-08-05",
+      "fecha_operacion": "2022-08-04",
+      "moneda": "GBP",
+      "compra": 7.05948324,
+      "venta": 7.07717619
+    },
+    {
+      "fecha_valor": "2022-08-04",
+      "fecha_operacion": "2022-08-03",
+      "moneda": "GBP",
+      "compra": 6.99628241,
+      "venta": 7.01381696
+    },
+    {
+      "fecha_valor": "2022-08-03",
+      "fecha_operacion": "2022-08-02",
+      "moneda": "GBP",
+      "compra": 7.06427672,
+      "venta": 7.08198168
+    },
+    {
+      "fecha_valor": "2022-08-02",
+      "fecha_operacion": "2022-08-01",
+      "moneda": "GBP",
+      "compra": 7.07456937,
+      "venta": 7.09230013
+    },
+    {
+      "fecha_valor": "2022-08-01",
+      "fecha_operacion": "2022-07-29",
+      "moneda": "GBP",
+      "compra": 7.03467505,
+      "venta": 7.05230582
+    },
+    {
+      "fecha_valor": "2022-07-29",
+      "fecha_operacion": "2022-07-28",
+      "moneda": "GBP",
+      "compra": 6.99969877,
+      "venta": 7.01724188
+    },
+    {
+      "fecha_valor": "2022-07-28",
+      "fecha_operacion": "2022-07-27",
+      "moneda": "GBP",
+      "compra": 6.93691026,
+      "venta": 6.954296
+    },
+    {
+      "fecha_valor": "2022-07-27",
+      "fecha_operacion": "2022-07-26",
+      "moneda": "GBP",
+      "compra": 6.90040814,
+      "venta": 6.9177024
+    },
+    {
+      "fecha_valor": "2022-07-26",
+      "fecha_operacion": "2022-07-25",
+      "moneda": "GBP",
+      "compra": 6.87485847,
+      "venta": 6.8920887
+    },
+    {
+      "fecha_valor": "2022-07-25",
+      "fecha_operacion": "2022-07-22",
+      "moneda": "GBP",
+      "compra": 6.8854872,
+      "venta": 6.90274407
+    },
+    {
+      "fecha_valor": "2022-07-22",
+      "fecha_operacion": "2022-07-21",
+      "moneda": "GBP",
+      "compra": 6.83325787,
+      "venta": 6.85038383
+    },
+    {
+      "fecha_valor": "2022-07-21",
+      "fecha_operacion": "2022-07-20",
+      "moneda": "GBP",
+      "compra": 6.84672897,
+      "venta": 6.8638887
+    },
+    {
+      "fecha_valor": "2022-07-20",
+      "fecha_operacion": "2022-07-19",
+      "moneda": "GBP",
+      "compra": 6.83969115,
+      "venta": 6.85683324
+    },
+    {
+      "fecha_valor": "2022-07-19",
+      "fecha_operacion": "2022-07-18",
+      "moneda": "GBP",
+      "compra": 6.80498519,
+      "venta": 6.8220403
+    },
+    {
+      "fecha_valor": "2022-07-18",
+      "fecha_operacion": "2022-07-15",
+      "moneda": "GBP",
+      "compra": 6.74552731,
+      "venta": 6.7624334
+    },
+    {
+      "fecha_valor": "2022-07-15",
+      "fecha_operacion": "2022-07-14",
+      "moneda": "GBP",
+      "compra": 6.67670692,
+      "venta": 6.69344053
+    },
+    {
+      "fecha_valor": "2022-07-14",
+      "fecha_operacion": "2022-07-13",
+      "moneda": "GBP",
+      "compra": 6.74039328,
+      "venta": 6.7572865
+    },
+    {
+      "fecha_valor": "2022-07-13",
+      "fecha_operacion": "2022-07-12",
+      "moneda": "GBP",
+      "compra": 6.67765524,
+      "venta": 6.69439122
+    },
+    {
+      "fecha_valor": "2022-07-12",
+      "fecha_operacion": "2022-07-11",
+      "moneda": "GBP",
+      "compra": 6.63660808,
+      "venta": 6.65324119
+    },
+    {
+      "fecha_valor": "2022-07-11",
+      "fecha_operacion": "2022-07-08",
+      "moneda": "GBP",
+      "compra": 6.73963626,
+      "venta": 6.75652758
+    },
+    {
+      "fecha_valor": "2022-07-08",
+      "fecha_operacion": "2022-07-07",
+      "moneda": "GBP",
+      "compra": 6.67168406,
+      "venta": 6.68840508
+    },
+    {
+      "fecha_valor": "2022-07-07",
+      "fecha_operacion": "2022-07-06",
+      "moneda": "GBP",
+      "compra": 6.59740016,
+      "venta": 6.613935
+    },
+    {
+      "fecha_valor": "2022-07-06",
+      "fecha_operacion": "2022-07-01",
+      "moneda": "GBP",
+      "compra": 6.67728096,
+      "venta": 6.694016
+    },
+    {
+      "fecha_valor": "2022-07-01",
+      "fecha_operacion": "2022-06-30",
+      "moneda": "GBP",
+      "compra": 6.71106747,
+      "venta": 6.72788719
+    },
+    {
+      "fecha_valor": "2022-06-30",
+      "fecha_operacion": "2022-06-29",
+      "moneda": "GBP",
+      "compra": 6.6972382,
+      "venta": 6.71402326
+    },
+    {
+      "fecha_valor": "2022-06-29",
+      "fecha_operacion": "2022-06-28",
+      "moneda": "GBP",
+      "compra": 6.70696731,
+      "venta": 6.72377676
+    },
+    {
+      "fecha_valor": "2022-06-28",
+      "fecha_operacion": "2022-06-27",
+      "moneda": "GBP",
+      "compra": 6.72431827,
+      "venta": 6.7411712
+    },
+    {
+      "fecha_valor": "2022-06-27",
+      "fecha_operacion": "2022-06-23",
+      "moneda": "GBP",
+      "compra": 6.73171334,
+      "venta": 6.74858481
+    },
+    {
+      "fecha_valor": "2022-06-23",
+      "fecha_operacion": "2022-06-22",
+      "moneda": "GBP",
+      "compra": 6.71249372,
+      "venta": 6.72931702
+    },
+    {
+      "fecha_valor": "2022-06-22",
+      "fecha_operacion": "2022-06-21",
+      "moneda": "GBP",
+      "compra": 6.6857767,
+      "venta": 6.70253304
+    },
+    {
+      "fecha_valor": "2022-06-21",
+      "fecha_operacion": "2022-06-17",
+      "moneda": "GBP",
+      "compra": 6.65821168,
+      "venta": 6.67489893
+    },
+    {
+      "fecha_valor": "2022-06-17",
+      "fecha_operacion": "2022-06-16",
+      "moneda": "GBP",
+      "compra": 6.64400818,
+      "venta": 6.66065983
+    },
+    {
+      "fecha_valor": "2022-06-16",
+      "fecha_operacion": "2022-06-15",
+      "moneda": "GBP",
+      "compra": 6.4514469,
+      "venta": 6.46761594
+    },
+    {
+      "fecha_valor": "2022-06-15",
+      "fecha_operacion": "2022-06-14",
+      "moneda": "GBP",
+      "compra": 6.36203495,
+      "venta": 6.3779799
+    },
+    {
+      "fecha_valor": "2022-06-14",
+      "fecha_operacion": "2022-06-10",
+      "moneda": "GBP",
+      "compra": 6.54113505,
+      "venta": 6.55752888
+    },
+    {
+      "fecha_valor": "2022-06-10",
+      "fecha_operacion": "2022-06-09",
+      "moneda": "GBP",
+      "compra": 6.57077016,
+      "venta": 6.58723826
+    },
+    {
+      "fecha_valor": "2022-06-09",
+      "fecha_operacion": "2022-06-08",
+      "moneda": "GBP",
+      "compra": 6.50977377,
+      "venta": 6.526089
+    },
+    {
+      "fecha_valor": "2022-06-08",
+      "fecha_operacion": "2022-06-07",
+      "moneda": "GBP",
+      "compra": 6.47952105,
+      "venta": 6.49576046
+    },
+    {
+      "fecha_valor": "2022-06-07",
+      "fecha_operacion": "2022-06-06",
+      "moneda": "GBP",
+      "compra": 6.45608695,
+      "venta": 6.47226762
+    },
+    {
+      "fecha_valor": "2022-06-06",
+      "fecha_operacion": "2022-06-03",
+      "moneda": "GBP",
+      "compra": 6.43587324,
+      "venta": 6.45200325
+    },
+    {
+      "fecha_valor": "2022-06-03",
+      "fecha_operacion": "2022-06-02",
+      "moneda": "GBP",
+      "compra": 6.41258068,
+      "venta": 6.42865232
+    },
+    {
+      "fecha_valor": "2022-06-02",
+      "fecha_operacion": "2022-06-01",
+      "moneda": "GBP",
+      "compra": 6.34175621,
+      "venta": 6.35765034
+    },
+    {
+      "fecha_valor": "2022-06-01",
+      "fecha_operacion": "2022-05-31",
+      "moneda": "GBP",
+      "compra": 6.36935613,
+      "venta": 6.38531943
+    },
+    {
+      "fecha_valor": "2022-05-31",
+      "fecha_operacion": "2022-05-27",
+      "moneda": "GBP",
+      "compra": 6.37983208,
+      "venta": 6.39582164
+    },
+    {
+      "fecha_valor": "2022-05-27",
+      "fecha_operacion": "2022-05-26",
+      "moneda": "GBP",
+      "compra": 6.30652691,
+      "venta": 6.32233275
+    },
+    {
+      "fecha_valor": "2022-05-26",
+      "fecha_operacion": "2022-05-25",
+      "moneda": "GBP",
+      "compra": 6.2728362,
+      "venta": 6.2885576
+    },
+    {
+      "fecha_valor": "2022-05-25",
+      "fecha_operacion": "2022-05-24",
+      "moneda": "GBP",
+      "compra": 6.19400572,
+      "venta": 6.20952955
+    },
+    {
+      "fecha_valor": "2022-05-24",
+      "fecha_operacion": "2022-05-23",
+      "moneda": "GBP",
+      "compra": 6.19250593,
+      "venta": 6.208026
+    },
+    {
+      "fecha_valor": "2022-05-23",
+      "fecha_operacion": "2022-05-20",
+      "moneda": "GBP",
+      "compra": 6.15038553,
+      "venta": 6.16580004
+    },
+    {
+      "fecha_valor": "2022-05-20",
+      "fecha_operacion": "2022-05-19",
+      "moneda": "GBP",
+      "compra": 6.10077272,
+      "venta": 6.11606288
+    },
+    {
+      "fecha_valor": "2022-05-19",
+      "fecha_operacion": "2022-05-18",
+      "moneda": "GBP",
+      "compra": 5.98163131,
+      "venta": 5.99662287
+    },
+    {
+      "fecha_valor": "2022-05-18",
+      "fecha_operacion": "2022-05-17",
+      "moneda": "GBP",
+      "compra": 5.97229312,
+      "venta": 5.98726128
+    },
+    {
+      "fecha_valor": "2022-05-17",
+      "fecha_operacion": "2022-05-16",
+      "moneda": "GBP",
+      "compra": 5.84720383,
+      "venta": 5.86185848
+    },
+    {
+      "fecha_valor": "2022-05-16",
+      "fecha_operacion": "2022-05-13",
+      "moneda": "GBP",
+      "compra": 5.81640469,
+      "venta": 5.83098215
+    },
+    {
+      "fecha_valor": "2022-05-13",
+      "fecha_operacion": "2022-05-12",
+      "moneda": "GBP",
+      "compra": 5.75568871,
+      "venta": 5.770114
+    },
+    {
+      "fecha_valor": "2022-05-12",
+      "fecha_operacion": "2022-05-11",
+      "moneda": "GBP",
+      "compra": 5.7144582,
+      "venta": 5.72878016
+    },
+    {
+      "fecha_valor": "2022-05-11",
+      "fecha_operacion": "2022-05-10",
+      "moneda": "GBP",
+      "compra": 5.65863148,
+      "venta": 5.67281352
+    },
+    {
+      "fecha_valor": "2022-05-10",
+      "fecha_operacion": "2022-05-09",
+      "moneda": "GBP",
+      "compra": 5.62949959,
+      "venta": 5.64360862
+    },
+    {
+      "fecha_valor": "2022-05-09",
+      "fecha_operacion": "2022-05-06",
+      "moneda": "GBP",
+      "compra": 5.64536143,
+      "venta": 5.65951021
+    },
+    {
+      "fecha_valor": "2022-05-06",
+      "fecha_operacion": "2022-05-05",
+      "moneda": "GBP",
+      "compra": 5.62359587,
+      "venta": 5.6376901
+    },
+    {
+      "fecha_valor": "2022-05-05",
+      "fecha_operacion": "2022-05-04",
+      "moneda": "GBP",
+      "compra": 5.66583234,
+      "venta": 5.68003243
+    },
+    {
+      "fecha_valor": "2022-05-04",
+      "fecha_operacion": "2022-05-03",
+      "moneda": "GBP",
+      "compra": 5.64330181,
+      "venta": 5.65744543
+    },
+    {
+      "fecha_valor": "2022-05-03",
+      "fecha_operacion": "2022-05-02",
+      "moneda": "GBP",
+      "compra": 5.62563489,
+      "venta": 5.63973423
+    },
+    {
+      "fecha_valor": "2022-05-02",
+      "fecha_operacion": "2022-04-29",
+      "moneda": "GBP",
+      "compra": 5.63662467,
+      "venta": 5.65075155
+    },
+    {
+      "fecha_valor": "2022-04-29",
+      "fecha_operacion": "2022-04-28",
+      "moneda": "GBP",
+      "compra": 5.57555703,
+      "venta": 5.58953086
+    },
+    {
+      "fecha_valor": "2022-04-28",
+      "fecha_operacion": "2022-04-27",
+      "moneda": "GBP",
+      "compra": 5.57884401,
+      "venta": 5.59282608
+    },
+    {
+      "fecha_valor": "2022-04-27",
+      "fecha_operacion": "2022-04-26",
+      "moneda": "GBP",
+      "compra": 5.6041517,
+      "venta": 5.6181972
+    },
+    {
+      "fecha_valor": "2022-04-26",
+      "fecha_operacion": "2022-04-25",
+      "moneda": "GBP",
+      "compra": 5.63039397,
+      "venta": 5.64450524
+    },
+    {
+      "fecha_valor": "2022-04-25",
+      "fecha_operacion": "2022-04-22",
+      "moneda": "GBP",
+      "compra": 5.68704675,
+      "venta": 5.7013
+    },
+    {
+      "fecha_valor": "2022-04-22",
+      "fecha_operacion": "2022-04-21",
+      "moneda": "GBP",
+      "compra": 5.76976794,
+      "venta": 5.78422852
+    },
+    {
+      "fecha_valor": "2022-04-21",
+      "fecha_operacion": "2022-04-20",
+      "moneda": "GBP",
+      "compra": 5.78520625,
+      "venta": 5.79970552
+    },
+    {
+      "fecha_valor": "2022-04-20",
+      "fecha_operacion": "2022-04-18",
+      "moneda": "GBP",
+      "compra": 5.77143922,
+      "venta": 5.78590398
+    },
+    {
+      "fecha_valor": "2022-04-18",
+      "fecha_operacion": "2022-04-13",
+      "moneda": "GBP",
+      "compra": 5.79049416,
+      "venta": 5.80500668
+    },
+    {
+      "fecha_valor": "2022-04-13",
+      "fecha_operacion": "2022-04-12",
+      "moneda": "GBP",
+      "compra": 5.76820944,
+      "venta": 5.78266611
+    },
+    {
+      "fecha_valor": "2022-04-12",
+      "fecha_operacion": "2022-04-11",
+      "moneda": "GBP",
+      "compra": 5.75772122,
+      "venta": 5.7721516
+    },
+    {
+      "fecha_valor": "2022-04-11",
+      "fecha_operacion": "2022-04-08",
+      "moneda": "GBP",
+      "compra": 5.74683905,
+      "venta": 5.76124216
+    },
+    {
+      "fecha_valor": "2022-04-08",
+      "fecha_operacion": "2022-04-07",
+      "moneda": "GBP",
+      "compra": 5.75841883,
+      "venta": 5.77285096
+    },
+    {
+      "fecha_valor": "2022-04-07",
+      "fecha_operacion": "2022-04-06",
+      "moneda": "GBP",
+      "compra": 5.76183215,
+      "venta": 5.77627284
+    },
+    {
+      "fecha_valor": "2022-04-06",
+      "fecha_operacion": "2022-04-05",
+      "moneda": "GBP",
+      "compra": 5.78120883,
+      "venta": 5.79569808
+    },
+    {
+      "fecha_valor": "2022-04-05",
+      "fecha_operacion": "2022-04-04",
+      "moneda": "GBP",
+      "compra": 5.774727,
+      "venta": 5.7892
+    },
+    {
+      "fecha_valor": "2022-04-04",
+      "fecha_operacion": "2022-04-01",
+      "moneda": "GBP",
+      "compra": 5.7642626,
+      "venta": 5.77870938
+    },
+    {
+      "fecha_valor": "2022-04-01",
+      "fecha_operacion": "2022-03-31",
+      "moneda": "GBP",
+      "compra": 5.74551965,
+      "venta": 5.75991945
+    },
+    {
+      "fecha_valor": "2022-03-31",
+      "fecha_operacion": "2022-03-30",
+      "moneda": "GBP",
+      "compra": 5.74848263,
+      "venta": 5.76288986
+    },
+    {
+      "fecha_valor": "2022-03-30",
+      "fecha_operacion": "2022-03-29",
+      "moneda": "GBP",
+      "compra": 5.72538296,
+      "venta": 5.7397323
+    },
+    {
+      "fecha_valor": "2022-03-29",
+      "fecha_operacion": "2022-03-28",
+      "moneda": "GBP",
+      "compra": 5.70337181,
+      "venta": 5.71766598
+    },
+    {
+      "fecha_valor": "2022-03-28",
+      "fecha_operacion": "2022-03-25",
+      "moneda": "GBP",
+      "compra": 5.74416549,
+      "venta": 5.7585619
+    },
+    {
+      "fecha_valor": "2022-03-25",
+      "fecha_operacion": "2022-03-24",
+      "moneda": "GBP",
+      "compra": 5.7143811,
+      "venta": 5.72870286
+    },
+    {
+      "fecha_valor": "2022-03-24",
+      "fecha_operacion": "2022-03-23",
+      "moneda": "GBP",
+      "compra": 5.70154531,
+      "venta": 5.7158349
+    },
+    {
+      "fecha_valor": "2022-03-23",
+      "fecha_operacion": "2022-03-22",
+      "moneda": "GBP",
+      "compra": 5.70001176,
+      "venta": 5.71429751
+    },
+    {
+      "fecha_valor": "2022-03-22",
+      "fecha_operacion": "2022-03-21",
+      "moneda": "GBP",
+      "compra": 5.65403189,
+      "venta": 5.6682024
+    },
+    {
+      "fecha_valor": "2022-03-21",
+      "fecha_operacion": "2022-03-18",
+      "moneda": "GBP",
+      "compra": 5.65147701,
+      "venta": 5.66564112
+    },
+    {
+      "fecha_valor": "2022-03-18",
+      "fecha_operacion": "2022-03-17",
+      "moneda": "GBP",
+      "compra": 5.62952092,
+      "venta": 5.64363
+    },
+    {
+      "fecha_valor": "2022-03-17",
+      "fecha_operacion": "2022-03-16",
+      "moneda": "GBP",
+      "compra": 5.60594497,
+      "venta": 5.61999496
+    },
+    {
+      "fecha_valor": "2022-03-16",
+      "fecha_operacion": "2022-03-15",
+      "moneda": "GBP",
+      "compra": 5.56739846,
+      "venta": 5.58135184
+    },
+    {
+      "fecha_valor": "2022-03-15",
+      "fecha_operacion": "2022-03-14",
+      "moneda": "GBP",
+      "compra": 5.52828536,
+      "venta": 5.54214072
+    },
+    {
+      "fecha_valor": "2022-03-14",
+      "fecha_operacion": "2022-03-11",
+      "moneda": "GBP",
+      "compra": 5.50478964,
+      "venta": 5.51858611
+    },
+    {
+      "fecha_valor": "2022-03-11",
+      "fecha_operacion": "2022-03-10",
+      "moneda": "GBP",
+      "compra": 5.67678415,
+      "venta": 5.69101168
+    },
+    {
+      "fecha_valor": "2022-03-10",
+      "fecha_operacion": "2022-03-09",
+      "moneda": "GBP",
+      "compra": 5.68231013,
+      "venta": 5.69655151
+    },
+    {
+      "fecha_valor": "2022-03-09",
+      "fecha_operacion": "2022-03-08",
+      "moneda": "GBP",
+      "compra": 5.66462175,
+      "venta": 5.6788188
+    },
+    {
+      "fecha_valor": "2022-03-08",
+      "fecha_operacion": "2022-03-07",
+      "moneda": "GBP",
+      "compra": 5.6769539,
+      "venta": 5.69118186
+    },
+    {
+      "fecha_valor": "2022-03-07",
+      "fecha_operacion": "2022-03-04",
+      "moneda": "GBP",
+      "compra": 5.70287631,
+      "venta": 5.71716924
+    },
+    {
+      "fecha_valor": "2022-03-04",
+      "fecha_operacion": "2022-03-03",
+      "moneda": "GBP",
+      "compra": 5.82507792,
+      "venta": 5.83967712
+    },
+    {
+      "fecha_valor": "2022-03-03",
+      "fecha_operacion": "2022-03-02",
+      "moneda": "GBP",
+      "compra": 5.80846009,
+      "venta": 5.82301764
+    },
+    {
+      "fecha_valor": "2022-03-02",
+      "fecha_operacion": "2022-02-25",
+      "moneda": "GBP",
+      "compra": 5.86197574,
+      "venta": 5.87666741
+    },
+    {
+      "fecha_valor": "2022-02-25",
+      "fecha_operacion": "2022-02-24",
+      "moneda": "GBP",
+      "compra": 5.83072585,
+      "venta": 5.8453392
+    },
+    {
+      "fecha_valor": "2022-02-24",
+      "fecha_operacion": "2022-02-23",
+      "moneda": "GBP",
+      "compra": 5.93511741,
+      "venta": 5.9499924
+    },
+    {
+      "fecha_valor": "2022-02-23",
+      "fecha_operacion": "2022-02-22",
+      "moneda": "GBP",
+      "compra": 5.87701173,
+      "venta": 5.89174109
+    },
+    {
+      "fecha_valor": "2022-02-22",
+      "fecha_operacion": "2022-02-21",
+      "moneda": "GBP",
+      "compra": 5.98489761,
+      "venta": 5.99989736
+    },
+    {
+      "fecha_valor": "2022-02-21",
+      "fecha_operacion": "2022-02-18",
+      "moneda": "GBP",
+      "compra": 5.9915246,
+      "venta": 6.00654096
+    },
+    {
+      "fecha_valor": "2022-02-18",
+      "fecha_operacion": "2022-02-17",
+      "moneda": "GBP",
+      "compra": 5.98348316,
+      "venta": 5.99847936
+    },
+    {
+      "fecha_valor": "2022-02-17",
+      "fecha_operacion": "2022-02-16",
+      "moneda": "GBP",
+      "compra": 6.00891918,
+      "venta": 6.02397913
+    },
+    {
+      "fecha_valor": "2022-02-16",
+      "fecha_operacion": "2022-02-15",
+      "moneda": "GBP",
+      "compra": 5.98860512,
+      "venta": 6.00361416
+    },
+    {
+      "fecha_valor": "2022-02-15",
+      "fecha_operacion": "2022-02-14",
+      "moneda": "GBP",
+      "compra": 5.99232234,
+      "venta": 6.0073407
+    },
+    {
+      "fecha_valor": "2022-02-14",
+      "fecha_operacion": "2022-02-11",
+      "moneda": "GBP",
+      "compra": 6.06079846,
+      "venta": 6.07598844
+    },
+    {
+      "fecha_valor": "2022-02-11",
+      "fecha_operacion": "2022-02-10",
+      "moneda": "GBP",
+      "compra": 6.03611094,
+      "venta": 6.05123904
+    },
+    {
+      "fecha_valor": "2022-02-10",
+      "fecha_operacion": "2022-02-09",
+      "moneda": "GBP",
+      "compra": 6.07326983,
+      "venta": 6.08849106
+    },
+    {
+      "fecha_valor": "2022-02-09",
+      "fecha_operacion": "2022-02-08",
+      "moneda": "GBP",
+      "compra": 6.07531349,
+      "venta": 6.09053984
+    },
+    {
+      "fecha_valor": "2022-02-08",
+      "fecha_operacion": "2022-02-07",
+      "moneda": "GBP",
+      "compra": 6.08245614,
+      "venta": 6.0977004
+    },
+    {
+      "fecha_valor": "2022-02-07",
+      "fecha_operacion": "2022-02-04",
+      "moneda": "GBP",
+      "compra": 6.09877583,
+      "venta": 6.11406099
+    },
+    {
+      "fecha_valor": "2022-02-04",
+      "fecha_operacion": "2022-02-03",
+      "moneda": "GBP",
+      "compra": 6.13992708,
+      "venta": 6.15531537
+    },
+    {
+      "fecha_valor": "2022-02-03",
+      "fecha_operacion": "2022-02-02",
+      "moneda": "GBP",
+      "compra": 6.12164377,
+      "venta": 6.13698624
+    },
+    {
+      "fecha_valor": "2022-02-02",
+      "fecha_operacion": "2022-02-01",
+      "moneda": "GBP",
+      "compra": 6.09458659,
+      "venta": 6.10986125
+    },
+    {
+      "fecha_valor": "2022-02-01",
+      "fecha_operacion": "2022-01-31",
+      "moneda": "GBP",
+      "compra": 6.08555119,
+      "venta": 6.1008032
+    },
+    {
+      "fecha_valor": "2022-01-31",
+      "fecha_operacion": "2022-01-28",
+      "moneda": "GBP",
+      "compra": 6.09203274,
+      "venta": 6.107301
+    },
+    {
+      "fecha_valor": "2022-01-28",
+      "fecha_operacion": "2022-01-27",
+      "moneda": "GBP",
+      "compra": 6.11460649,
+      "venta": 6.12993132
+    },
+    {
+      "fecha_valor": "2022-01-27",
+      "fecha_operacion": "2022-01-26",
+      "moneda": "GBP",
+      "compra": 6.17206778,
+      "venta": 6.18753663
+    },
+    {
+      "fecha_valor": "2022-01-26",
+      "fecha_operacion": "2022-01-25",
+      "moneda": "GBP",
+      "compra": 6.17012505,
+      "venta": 6.18558903
+    },
+    {
+      "fecha_valor": "2022-01-25",
+      "fecha_operacion": "2022-01-24",
+      "moneda": "GBP",
+      "compra": 6.16229764,
+      "venta": 6.177742
+    },
+    {
+      "fecha_valor": "2022-01-24",
+      "fecha_operacion": "2022-01-21",
+      "moneda": "GBP",
+      "compra": 6.22825743,
+      "venta": 6.2438671
+    },
+    {
+      "fecha_valor": "2022-01-21",
+      "fecha_operacion": "2022-01-20",
+      "moneda": "GBP",
+      "compra": 6.28302591,
+      "venta": 6.29877285
+    },
+    {
+      "fecha_valor": "2022-01-20",
+      "fecha_operacion": "2022-01-19",
+      "moneda": "GBP",
+      "compra": 6.309763,
+      "venta": 6.32557695
+    },
+    {
+      "fecha_valor": "2022-01-19",
+      "fecha_operacion": "2022-01-18",
+      "moneda": "GBP",
+      "compra": 6.27285551,
+      "venta": 6.28857696
+    },
+    {
+      "fecha_valor": "2022-01-18",
+      "fecha_operacion": "2022-01-14",
+      "moneda": "GBP",
+      "compra": 6.32018872,
+      "venta": 6.3360288
+    },
+    {
+      "fecha_valor": "2022-01-14",
+      "fecha_operacion": "2022-01-13",
+      "moneda": "GBP",
+      "compra": 6.35611443,
+      "venta": 6.37204455
+    },
+    {
+      "fecha_valor": "2022-01-13",
+      "fecha_operacion": "2022-01-12",
+      "moneda": "GBP",
+      "compra": 6.335399,
+      "venta": 6.3512772
+    },
+    {
+      "fecha_valor": "2022-01-12",
+      "fecha_operacion": "2022-01-11",
+      "moneda": "GBP",
+      "compra": 6.29304507,
+      "venta": 6.30881712
+    },
+    {
+      "fecha_valor": "2022-01-11",
+      "fecha_operacion": "2022-01-07",
+      "moneda": "GBP",
+      "compra": 6.27368871,
+      "venta": 6.28941225
+    },
+    {
+      "fecha_valor": "2022-01-07",
+      "fecha_operacion": "2022-01-06",
+      "moneda": "GBP",
+      "compra": 6.23437861,
+      "venta": 6.25000362
+    },
+    {
+      "fecha_valor": "2022-01-06",
+      "fecha_operacion": "2022-01-05",
+      "moneda": "GBP",
+      "compra": 6.21984696,
+      "venta": 6.23543555
+    },
+    {
+      "fecha_valor": "2022-01-05",
+      "fecha_operacion": "2022-01-04",
+      "moneda": "GBP",
+      "compra": 6.22544422,
+      "venta": 6.24104684
+    },
+    {
+      "fecha_valor": "2022-01-04",
+      "fecha_operacion": "2022-01-03",
+      "moneda": "GBP",
+      "compra": 6.15319986,
+      "venta": 6.16862142
+    },
+    {
+      "fecha_valor": "2022-01-03",
+      "fecha_operacion": "2021-12-30",
+      "moneda": "GBP",
+      "compra": 6.19941729,
+      "venta": 6.21495468
+    },
+    {
+      "fecha_valor": "2021-12-30",
+      "fecha_operacion": "2021-12-29",
+      "moneda": "GBP",
+      "compra": 6.17602653,
+      "venta": 6.1915053
+    },
+    {
+      "fecha_valor": "2021-12-29",
+      "fecha_operacion": "2021-12-28",
+      "moneda": "GBP",
+      "compra": 6.13551401,
+      "venta": 6.15089124
+    },
+    {
+      "fecha_valor": "2021-12-28",
+      "fecha_operacion": "2021-12-27",
+      "moneda": "GBP",
+      "compra": 6.12061064,
+      "venta": 6.13595052
+    },
+    {
+      "fecha_valor": "2021-12-27",
+      "fecha_operacion": "2021-12-23",
+      "moneda": "GBP",
+      "compra": 6.14033001,
+      "venta": 6.15571931
+    },
+    {
+      "fecha_valor": "2021-12-23",
+      "fecha_operacion": "2021-12-22",
+      "moneda": "GBP",
+      "compra": 6.09007603,
+      "venta": 6.10533938
+    },
+    {
+      "fecha_valor": "2021-12-22",
+      "fecha_operacion": "2021-12-21",
+      "moneda": "GBP",
+      "compra": 6.07603574,
+      "venta": 6.0912639
+    },
+    {
+      "fecha_valor": "2021-12-21",
+      "fecha_operacion": "2021-12-20",
+      "moneda": "GBP",
+      "compra": 6.0702586,
+      "venta": 6.08547229
+    },
+    {
+      "fecha_valor": "2021-12-20",
+      "fecha_operacion": "2021-12-17",
+      "moneda": "GBP",
+      "compra": 6.11570672,
+      "venta": 6.13103431
+    },
+    {
+      "fecha_valor": "2021-12-17",
+      "fecha_operacion": "2021-12-16",
+      "moneda": "GBP",
+      "compra": 6.13388914,
+      "venta": 6.1492623
+    },
+    {
+      "fecha_valor": "2021-12-16",
+      "fecha_operacion": "2021-12-15",
+      "moneda": "GBP",
+      "compra": 6.07535973,
+      "venta": 6.0905862
+    },
+    {
+      "fecha_valor": "2021-12-15",
+      "fecha_operacion": "2021-12-14",
+      "moneda": "GBP",
+      "compra": 6.1008678,
+      "venta": 6.1161582
+    },
+    {
+      "fecha_valor": "2021-12-14",
+      "fecha_operacion": "2021-12-10",
+      "moneda": "GBP",
+      "compra": 6.11822179,
+      "venta": 6.13355568
+    },
+    {
+      "fecha_valor": "2021-12-10",
+      "fecha_operacion": "2021-12-09",
+      "moneda": "GBP",
+      "compra": 6.1065361,
+      "venta": 6.12184071
+    },
+    {
+      "fecha_valor": "2021-12-09",
+      "fecha_operacion": "2021-12-08",
+      "moneda": "GBP",
+      "compra": 6.10811082,
+      "venta": 6.12341937
+    },
+    {
+      "fecha_valor": "2021-12-08",
+      "fecha_operacion": "2021-12-07",
+      "moneda": "GBP",
+      "compra": 6.11195579,
+      "venta": 6.12727398
+    },
+    {
+      "fecha_valor": "2021-12-07",
+      "fecha_operacion": "2021-12-06",
+      "moneda": "GBP",
+      "compra": 6.12100166,
+      "venta": 6.13634252
+    },
+    {
+      "fecha_valor": "2021-12-06",
+      "fecha_operacion": "2021-12-03",
+      "moneda": "GBP",
+      "compra": 6.12119645,
+      "venta": 6.1365378
+    },
+    {
+      "fecha_valor": "2021-12-03",
+      "fecha_operacion": "2021-12-02",
+      "moneda": "GBP",
+      "compra": 6.17512669,
+      "venta": 6.1906032
+    },
+    {
+      "fecha_valor": "2021-12-02",
+      "fecha_operacion": "2021-12-01",
+      "moneda": "GBP",
+      "compra": 6.15558929,
+      "venta": 6.17101684
+    },
+    {
+      "fecha_valor": "2021-12-01",
+      "fecha_operacion": "2021-11-30",
+      "moneda": "GBP",
+      "compra": 6.15902145,
+      "venta": 6.1744576
+    },
+    {
+      "fecha_valor": "2021-11-30",
+      "fecha_operacion": "2021-11-29",
+      "moneda": "GBP",
+      "compra": 6.11489157,
+      "venta": 6.13021712
+    },
+    {
+      "fecha_valor": "2021-11-29",
+      "fecha_operacion": "2021-11-26",
+      "moneda": "GBP",
+      "compra": 6.14017008,
+      "venta": 6.15555898
+    },
+    {
+      "fecha_valor": "2021-11-26",
+      "fecha_operacion": "2021-11-25",
+      "moneda": "GBP",
+      "compra": 6.08902887,
+      "venta": 6.1042896
+    },
+    {
+      "fecha_valor": "2021-11-25",
+      "fecha_operacion": "2021-11-24",
+      "moneda": "GBP",
+      "compra": 6.06814721,
+      "venta": 6.0833556
+    },
+    {
+      "fecha_valor": "2021-11-24",
+      "fecha_operacion": "2021-11-23",
+      "moneda": "GBP",
+      "compra": 6.05829973,
+      "venta": 6.07348344
+    },
+    {
+      "fecha_valor": "2021-11-23",
+      "fecha_operacion": "2021-11-19",
+      "moneda": "GBP",
+      "compra": 6.0966364,
+      "venta": 6.1119162
+    },
+    {
+      "fecha_valor": "2021-11-19",
+      "fecha_operacion": "2021-11-18",
+      "moneda": "GBP",
+      "compra": 6.16157554,
+      "venta": 6.17701809
+    },
+    {
+      "fecha_valor": "2021-11-18",
+      "fecha_operacion": "2021-11-17",
+      "moneda": "GBP",
+      "compra": 6.08310155,
+      "venta": 6.09834742
+    },
+    {
+      "fecha_valor": "2021-11-17",
+      "fecha_operacion": "2021-11-16",
+      "moneda": "GBP",
+      "compra": 6.05733417,
+      "venta": 6.07251546
+    },
+    {
+      "fecha_valor": "2021-11-16",
+      "fecha_operacion": "2021-11-15",
+      "moneda": "GBP",
+      "compra": 6.01047889,
+      "venta": 6.02554275
+    },
+    {
+      "fecha_valor": "2021-11-15",
+      "fecha_operacion": "2021-11-12",
+      "moneda": "GBP",
+      "compra": 5.99104915,
+      "venta": 6.00606432
+    },
+    {
+      "fecha_valor": "2021-11-12",
+      "fecha_operacion": "2021-11-11",
+      "moneda": "GBP",
+      "compra": 5.97535672,
+      "venta": 5.99033256
+    },
+    {
+      "fecha_valor": "2021-11-11",
+      "fecha_operacion": "2021-11-10",
+      "moneda": "GBP",
+      "compra": 6.03618555,
+      "venta": 6.05131384
+    },
+    {
+      "fecha_valor": "2021-11-10",
+      "fecha_operacion": "2021-11-09",
+      "moneda": "GBP",
+      "compra": 6.02102535,
+      "venta": 6.03611564
+    },
+    {
+      "fecha_valor": "2021-11-09",
+      "fecha_operacion": "2021-11-08",
+      "moneda": "GBP",
+      "compra": 6.0003993,
+      "venta": 6.0154379
+    },
+    {
+      "fecha_valor": "2021-11-08",
+      "fecha_operacion": "2021-11-05",
+      "moneda": "GBP",
+      "compra": 5.97422001,
+      "venta": 5.989193
+    },
+    {
+      "fecha_valor": "2021-11-05",
+      "fecha_operacion": "2021-11-04",
+      "moneda": "GBP",
+      "compra": 5.95754349,
+      "venta": 5.97247468
+    },
+    {
+      "fecha_valor": "2021-11-04",
+      "fecha_operacion": "2021-11-03",
+      "moneda": "GBP",
+      "compra": 6.04647121,
+      "venta": 6.06162528
+    },
+    {
+      "fecha_valor": "2021-11-03",
+      "fecha_operacion": "2021-11-02",
+      "moneda": "GBP",
+      "compra": 5.99231597,
+      "venta": 6.00733431
+    },
+    {
+      "fecha_valor": "2021-11-02",
+      "fecha_operacion": "2021-10-29",
+      "moneda": "GBP",
+      "compra": 5.98534886,
+      "venta": 6.00034974
+    },
+    {
+      "fecha_valor": "2021-10-29",
+      "fecha_operacion": "2021-10-28",
+      "moneda": "GBP",
+      "compra": 6.04175219,
+      "venta": 6.05689443
+    },
+    {
+      "fecha_valor": "2021-10-28",
+      "fecha_operacion": "2021-10-27",
+      "moneda": "GBP",
+      "compra": 5.92385177,
+      "venta": 5.93869852
+    },
+    {
+      "fecha_valor": "2021-10-27",
+      "fecha_operacion": "2021-10-26",
+      "moneda": "GBP",
+      "compra": 5.90588755,
+      "venta": 5.92068928
+    },
+    {
+      "fecha_valor": "2021-10-26",
+      "fecha_operacion": "2021-10-25",
+      "moneda": "GBP",
+      "compra": 5.86510057,
+      "venta": 5.87980008
+    },
+    {
+      "fecha_valor": "2021-10-25",
+      "fecha_operacion": "2021-10-22",
+      "moneda": "GBP",
+      "compra": 5.82477245,
+      "venta": 5.83937088
+    },
+    {
+      "fecha_valor": "2021-10-22",
+      "fecha_operacion": "2021-10-21",
+      "moneda": "GBP",
+      "compra": 5.80309056,
+      "venta": 5.81763465
+    },
+    {
+      "fecha_valor": "2021-10-21",
+      "fecha_operacion": "2021-10-20",
+      "moneda": "GBP",
+      "compra": 5.75598532,
+      "venta": 5.77041135
+    },
+    {
+      "fecha_valor": "2021-10-20",
+      "fecha_operacion": "2021-10-19",
+      "moneda": "GBP",
+      "compra": 5.72149242,
+      "venta": 5.735832
+    },
+    {
+      "fecha_valor": "2021-10-19",
+      "fecha_operacion": "2021-10-18",
+      "moneda": "GBP",
+      "compra": 5.68052,
+      "venta": 5.6947569
+    },
+    {
+      "fecha_valor": "2021-10-18",
+      "fecha_operacion": "2021-10-15",
+      "moneda": "GBP",
+      "compra": 5.68130035,
+      "venta": 5.6955392
+    },
+    {
+      "fecha_valor": "2021-10-15",
+      "fecha_operacion": "2021-10-14",
+      "moneda": "GBP",
+      "compra": 5.6784152,
+      "venta": 5.69264682
+    },
+    {
+      "fecha_valor": "2021-10-14",
+      "fecha_operacion": "2021-10-13",
+      "moneda": "GBP",
+      "compra": 5.68860891,
+      "venta": 5.70286608
+    },
+    {
+      "fecha_valor": "2021-10-13",
+      "fecha_operacion": "2021-10-11",
+      "moneda": "GBP",
+      "compra": 5.66191661,
+      "venta": 5.67610688
+    },
+    {
+      "fecha_valor": "2021-10-11",
+      "fecha_operacion": "2021-10-08",
+      "moneda": "GBP",
+      "compra": 5.66895577,
+      "venta": 5.68316368
+    },
+    {
+      "fecha_valor": "2021-10-08",
+      "fecha_operacion": "2021-10-07",
+      "moneda": "GBP",
+      "compra": 5.64758491,
+      "venta": 5.66173926
+    },
+    {
+      "fecha_valor": "2021-10-07",
+      "fecha_operacion": "2021-10-06",
+      "moneda": "GBP",
+      "compra": 5.63429695,
+      "venta": 5.648418
+    },
+    {
+      "fecha_valor": "2021-10-06",
+      "fecha_operacion": "2021-10-05",
+      "moneda": "GBP",
+      "compra": 5.70908676,
+      "venta": 5.72339525
+    },
+    {
+      "fecha_valor": "2021-10-05",
+      "fecha_operacion": "2021-10-04",
+      "moneda": "GBP",
+      "compra": 5.66698233,
+      "venta": 5.6811853
+    },
+    {
+      "fecha_valor": "2021-10-04",
+      "fecha_operacion": "2021-09-29",
+      "moneda": "GBP",
+      "compra": 5.60709826,
+      "venta": 5.62115114
+    },
+    {
+      "fecha_valor": "2021-09-29",
+      "fecha_operacion": "2021-09-28",
+      "moneda": "GBP",
+      "compra": 5588440.47489966,
+      "venta": 5602446.59137811
+    },
+    {
+      "fecha_valor": "2021-09-28",
+      "fecha_operacion": "2021-09-27",
+      "moneda": "GBP",
+      "compra": 5665479.57313255,
+      "venta": 5679678.7700577
+    },
+    {
+      "fecha_valor": "2021-09-27",
+      "fecha_operacion": "2021-09-24",
+      "moneda": "GBP",
+      "compra": 5598486.80525323,
+      "venta": 5612518.1005045
+    },
+    {
+      "fecha_valor": "2021-09-24",
+      "fecha_operacion": "2021-09-23",
+      "moneda": "GBP",
+      "compra": 5536261.6612298,
+      "venta": 5550137.00373915
+    },
+    {
+      "fecha_valor": "2021-09-23",
+      "fecha_operacion": "2021-09-22",
+      "moneda": "GBP",
+      "compra": 5493715.69823239,
+      "venta": 5507484.40925553
+    },
+    {
+      "fecha_valor": "2021-09-22",
+      "fecha_operacion": "2021-09-21",
+      "moneda": "GBP",
+      "compra": 5481378.83443053,
+      "venta": 5495116.62599552
+    },
+    {
+      "fecha_valor": "2021-09-21",
+      "fecha_operacion": "2021-09-20",
+      "moneda": "GBP",
+      "compra": 5516068.59108052,
+      "venta": 5529893.3243915
+    },
+    {
+      "fecha_valor": "2021-09-20",
+      "fecha_operacion": "2021-09-17",
+      "moneda": "GBP",
+      "compra": 5546042.09659703,
+      "venta": 5559941.95147572
+    },
+    {
+      "fecha_valor": "2021-09-17",
+      "fecha_operacion": "2021-09-16",
+      "moneda": "GBP",
+      "compra": 5562618.69004731,
+      "venta": 5576560.090273
+    },
+    {
+      "fecha_valor": "2021-09-16",
+      "fecha_operacion": "2021-09-15",
+      "moneda": "GBP",
+      "compra": 5553894.32588618,
+      "venta": 5567813.86053753
+    },
+    {
+      "fecha_valor": "2021-09-15",
+      "fecha_operacion": "2021-09-14",
+      "moneda": "GBP",
+      "compra": 5569881.61643977,
+      "venta": 5583841.2194885
+    },
+    {
+      "fecha_valor": "2021-09-14",
+      "fecha_operacion": "2021-09-13",
+      "moneda": "GBP",
+      "compra": 5516655.82291404,
+      "venta": 5530482.027984
+    },
+    {
+      "fecha_valor": "2021-09-13",
+      "fecha_operacion": "2021-09-10",
+      "moneda": "GBP",
+      "compra": 5604818.51226757,
+      "venta": 5618865.67645872
+    },
+    {
+      "fecha_valor": "2021-09-10",
+      "fecha_operacion": "2021-09-09",
+      "moneda": "GBP",
+      "compra": 5640106.53950278,
+      "venta": 5654242.14486495
+    },
+    {
+      "fecha_valor": "2021-09-09",
+      "fecha_operacion": "2021-09-08",
+      "moneda": "GBP",
+      "compra": 5579597.79700801,
+      "venta": 5593581.75138648
+    },
+    {
+      "fecha_valor": "2021-09-08",
+      "fecha_operacion": "2021-09-07",
+      "moneda": "GBP",
+      "compra": 5596191.77031701,
+      "venta": 5610217.31360102
+    },
+    {
+      "fecha_valor": "2021-09-07",
+      "fecha_operacion": "2021-09-06",
+      "moneda": "GBP",
+      "compra": 5617473.10802557,
+      "venta": 5631551.98799556
+    },
+    {
+      "fecha_valor": "2021-09-06",
+      "fecha_operacion": "2021-09-03",
+      "moneda": "GBP",
+      "compra": 5615868.74778336,
+      "venta": 5629943.60680037
+    },
+    {
+      "fecha_valor": "2021-09-03",
+      "fecha_operacion": "2021-09-02",
+      "moneda": "GBP",
+      "compra": 5637155.32532076,
+      "venta": 5651283.53415615
+    },
+    {
+      "fecha_valor": "2021-09-02",
+      "fecha_operacion": "2021-09-01",
+      "moneda": "GBP",
+      "compra": 5638687.16920934,
+      "venta": 5652819.21725248
+    },
+    {
+      "fecha_valor": "2021-09-01",
+      "fecha_operacion": "2021-08-31",
+      "moneda": "GBP",
+      "compra": 5663765.02989376,
+      "venta": 5677959.92971806
+    },
+    {
+      "fecha_valor": "2021-08-31",
+      "fecha_operacion": "2021-08-30",
+      "moneda": "GBP",
+      "compra": 5688165.42395003,
+      "venta": 5702421.47764414
+    },
+    {
+      "fecha_valor": "2021-08-30",
+      "fecha_operacion": "2021-08-27",
+      "moneda": "GBP",
+      "compra": 5670860.56310178,
+      "venta": 5685073.24621733
+    },
+    {
+      "fecha_valor": "2021-08-27",
+      "fecha_operacion": "2021-08-26",
+      "moneda": "GBP",
+      "compra": 5667340.3573971,
+      "venta": 5681544.21794196
+    },
+    {
+      "fecha_valor": "2021-08-26",
+      "fecha_operacion": "2021-08-25",
+      "moneda": "GBP",
+      "compra": 5680007.99930987,
+      "venta": 5694243.6083307
+    },
+    {
+      "fecha_valor": "2021-08-25",
+      "fecha_operacion": "2021-08-24",
+      "moneda": "GBP",
+      "compra": 5646115.03644908,
+      "venta": 5660265.70070084
+    },
+    {
+      "fecha_valor": "2021-08-24",
+      "fecha_operacion": "2021-08-23",
+      "moneda": "GBP",
+      "compra": 5650906.17341523,
+      "venta": 5665068.84552906
+    },
+    {
+      "fecha_valor": "2021-08-23",
+      "fecha_operacion": "2021-08-20",
+      "moneda": "GBP",
+      "compra": 5604997.21312174,
+      "venta": 5619044.82518471
+    },
+    {
+      "fecha_valor": "2021-08-20",
+      "fecha_operacion": "2021-08-19",
+      "moneda": "GBP",
+      "compra": 5619346.89724764,
+      "venta": 5633430.47343122
+    },
+    {
+      "fecha_valor": "2021-08-19",
+      "fecha_operacion": "2021-08-18",
+      "moneda": "GBP",
+      "compra": 5604973.44030557,
+      "venta": 5619020.99278754
+    },
+    {
+      "fecha_valor": "2021-08-18",
+      "fecha_operacion": "2021-08-17",
+      "moneda": "GBP",
+      "compra": 5663543.28347434,
+      "venta": 5677737.6275432
+    },
+    {
+      "fecha_valor": "2021-08-17",
+      "fecha_operacion": "2021-08-16",
+      "moneda": "GBP",
+      "compra": 5679627.17364426,
+      "venta": 5693861.8282148
+    },
+    {
+      "fecha_valor": "2021-08-16",
+      "fecha_operacion": "2021-08-13",
+      "moneda": "GBP",
+      "compra": 5717044.50631791,
+      "venta": 5731372.93866458
+    },
+    {
+      "fecha_valor": "2021-08-13",
+      "fecha_operacion": "2021-08-12",
+      "moneda": "GBP",
+      "compra": 5676204.00140193,
+      "venta": 5690430.07659342
+    },
+    {
+      "fecha_valor": "2021-08-12",
+      "fecha_operacion": "2021-08-11",
+      "moneda": "GBP",
+      "compra": 5693204.1712596,
+      "venta": 5707472.85339309
+    },
+    {
+      "fecha_valor": "2021-08-11",
+      "fecha_operacion": "2021-08-10",
+      "moneda": "GBP",
+      "compra": 5654665.95737363,
+      "venta": 5668838.0525049
+    },
+    {
+      "fecha_valor": "2021-08-10",
+      "fecha_operacion": "2021-08-09",
+      "moneda": "GBP",
+      "compra": 5638416.38096929,
+      "venta": 5652547.75034516
+    },
+    {
+      "fecha_valor": "2021-08-09",
+      "fecha_operacion": "2021-08-06",
+      "moneda": "GBP",
+      "compra": 5628131.29986534,
+      "venta": 5642236.89209558
+    },
+    {
+      "fecha_valor": "2021-08-06",
+      "fecha_operacion": "2021-08-05",
+      "moneda": "GBP",
+      "compra": 5615950.30284397,
+      "venta": 5630025.36625962
+    },
+    {
+      "fecha_valor": "2021-08-05",
+      "fecha_operacion": "2021-08-04",
+      "moneda": "GBP",
+      "compra": 5599505.94358584,
+      "venta": 5613539.79306852
+    },
+    {
+      "fecha_valor": "2021-08-04",
+      "fecha_operacion": "2021-08-03",
+      "moneda": "GBP",
+      "compra": 5594011.77877434,
+      "venta": 5608031.8584204
+    },
+    {
+      "fecha_valor": "2021-08-03",
+      "fecha_operacion": "2021-08-02",
+      "moneda": "GBP",
+      "compra": 5572140.79614165,
+      "venta": 5586106.06129489
+    },
+    {
+      "fecha_valor": "2021-08-02",
+      "fecha_operacion": "2021-07-30",
+      "moneda": "GBP",
+      "compra": 5572599.96286082,
+      "venta": 5586566.37880784
+    },
+    {
+      "fecha_valor": "2021-07-30",
+      "fecha_operacion": "2021-07-29",
+      "moneda": "GBP",
+      "compra": 5550979.53840312,
+      "venta": 5564891.76782268
+    },
+    {
+      "fecha_valor": "2021-07-29",
+      "fecha_operacion": "2021-07-28",
+      "moneda": "GBP",
+      "compra": 5590854.07674612,
+      "venta": 5604866.242352
+    },
+    {
+      "fecha_valor": "2021-07-28",
+      "fecha_operacion": "2021-07-27",
+      "moneda": "GBP",
+      "compra": 5524264.66027944,
+      "venta": 5538109.93511724
+    },
+    {
+      "fecha_valor": "2021-07-27",
+      "fecha_operacion": "2021-07-26",
+      "moneda": "GBP",
+      "compra": 5357930.96719267,
+      "venta": 5371359.36560669
+    },
+    {
+      "fecha_valor": "2021-07-26",
+      "fecha_operacion": "2021-07-23",
+      "moneda": "GBP",
+      "compra": 5193909.42973922,
+      "venta": 5206926.74660574
+    },
+    {
+      "fecha_valor": "2021-07-23",
+      "fecha_operacion": "2021-07-22",
+      "moneda": "GBP",
+      "compra": 5176232.52609663,
+      "venta": 5189205.5399465
+    },
+    {
+      "fecha_valor": "2021-07-22",
+      "fecha_operacion": "2021-07-21",
+      "moneda": "GBP",
+      "compra": 5065905.23212702,
+      "venta": 5078601.73646819
+    },
+    {
+      "fecha_valor": "2021-07-21",
+      "fecha_operacion": "2021-07-20",
+      "moneda": "GBP",
+      "compra": 4953974.65282604,
+      "venta": 4966390.62939954
+    },
+    {
+      "fecha_valor": "2021-07-20",
+      "fecha_operacion": "2021-07-19",
+      "moneda": "GBP",
+      "compra": 4938471.28539008,
+      "venta": 4950848.4064061
+    },
+    {
+      "fecha_valor": "2021-07-19",
+      "fecha_operacion": "2021-07-16",
+      "moneda": "GBP",
+      "compra": 4882620.42604647,
+      "venta": 4894857.5699714
+    },
+    {
+      "fecha_valor": "2021-07-16",
+      "fecha_operacion": "2021-07-15",
+      "moneda": "GBP",
+      "compra": 4761644.16352044,
+      "venta": 4773578.10879243
+    },
+    {
+      "fecha_valor": "2021-07-15",
+      "fecha_operacion": "2021-07-14",
+      "moneda": "GBP",
+      "compra": 4688739.15874045,
+      "venta": 4700490.38470221
+    },
+    {
+      "fecha_valor": "2021-07-14",
+      "fecha_operacion": "2021-07-13",
+      "moneda": "GBP",
+      "compra": 4587006.41884456,
+      "venta": 4598502.6755334
+    },
+    {
+      "fecha_valor": "2021-07-13",
+      "fecha_operacion": "2021-07-12",
+      "moneda": "GBP",
+      "compra": 4558245.77265563,
+      "venta": 4569669.94752445
+    },
+    {
+      "fecha_valor": "2021-07-12",
+      "fecha_operacion": "2021-07-09",
+      "moneda": "GBP",
+      "compra": 4522219.26324859,
+      "venta": 4533553.14611388
+    },
+    {
+      "fecha_valor": "2021-07-09",
+      "fecha_operacion": "2021-07-08",
+      "moneda": "GBP",
+      "compra": 4476126.49571345,
+      "venta": 4487344.8578581
+    },
+    {
+      "fecha_valor": "2021-07-08",
+      "fecha_operacion": "2021-07-07",
+      "moneda": "GBP",
+      "compra": 4465242.24666816,
+      "venta": 4476433.32999315
+    },
+    {
+      "fecha_valor": "2021-07-07",
+      "fecha_operacion": "2021-07-06",
+      "moneda": "GBP",
+      "compra": 4462862.30005309,
+      "venta": 4474047.41859959
+    },
+    {
+      "fecha_valor": "2021-07-06",
+      "fecha_operacion": "2021-07-02",
+      "moneda": "GBP",
+      "compra": 4457400.94515105,
+      "venta": 4468572.37609128
+    },
+    {
+      "fecha_valor": "2021-07-02",
+      "fecha_operacion": "2021-07-01",
+      "moneda": "GBP",
+      "compra": 4461598.98285533,
+      "venta": 4472780.93519332
+    },
+    {
+      "fecha_valor": "2021-07-01",
+      "fecha_operacion": "2021-06-30",
+      "moneda": "GBP",
+      "compra": 4438454.73806916,
+      "venta": 4449578.68478112
+    },
+    {
+      "fecha_valor": "2021-06-30",
+      "fecha_operacion": "2021-06-29",
+      "moneda": "GBP",
+      "compra": 4424318.75705655,
+      "venta": 4435407.27524467
+    },
+    {
+      "fecha_valor": "2021-06-29",
+      "fecha_operacion": "2021-06-25",
+      "moneda": "GBP",
+      "compra": 4432267.05833106,
+      "venta": 4443375.49707375
+    },
+    {
+      "fecha_valor": "2021-06-25",
+      "fecha_operacion": "2021-06-23",
+      "moneda": "GBP",
+      "compra": 4435475.51037308,
+      "venta": 4446591.99034896
+    },
+    {
+      "fecha_valor": "2021-06-23",
+      "fecha_operacion": "2021-06-22",
+      "moneda": "GBP",
+      "compra": 4411849.24858472,
+      "venta": 4422906.5148719
+    },
+    {
+      "fecha_valor": "2021-06-22",
+      "fecha_operacion": "2021-06-21",
+      "moneda": "GBP",
+      "compra": 4368829.23411787,
+      "venta": 4379778.68081992
+    },
+    {
+      "fecha_valor": "2021-06-21",
+      "fecha_operacion": "2021-06-18",
+      "moneda": "GBP",
+      "compra": 4324508.16936122,
+      "venta": 4335346.53570048
+    },
+    {
+      "fecha_valor": "2021-06-18",
+      "fecha_operacion": "2021-06-17",
+      "moneda": "GBP",
+      "compra": 4328242.57275559,
+      "venta": 4339090.29850185
+    },
+    {
+      "fecha_valor": "2021-06-17",
+      "fecha_operacion": "2021-06-16",
+      "moneda": "GBP",
+      "compra": 4369011.88352902,
+      "venta": 4379961.78799902
+    },
+    {
+      "fecha_valor": "2021-06-16",
+      "fecha_operacion": "2021-06-15",
+      "moneda": "GBP",
+      "compra": 4374690.24919143,
+      "venta": 4385654.38515432
+    },
+    {
+      "fecha_valor": "2021-06-15",
+      "fecha_operacion": "2021-06-11",
+      "moneda": "GBP",
+      "compra": 4393779.12208844,
+      "venta": 4404791.09983804
+    },
+    {
+      "fecha_valor": "2021-06-11",
+      "fecha_operacion": "2021-06-10",
+      "moneda": "GBP",
+      "compra": 4423643.17461552,
+      "venta": 4434729.99961456
+    },
+    {
+      "fecha_valor": "2021-06-10",
+      "fecha_operacion": "2021-06-09",
+      "moneda": "GBP",
+      "compra": 4400489.88501881,
+      "venta": 4411518.68172312
+    },
+    {
+      "fecha_valor": "2021-06-09",
+      "fecha_operacion": "2021-06-08",
+      "moneda": "GBP",
+      "compra": 4414320.13170696,
+      "venta": 4425383.59068367
+    },
+    {
+      "fecha_valor": "2021-06-08",
+      "fecha_operacion": "2021-06-07",
+      "moneda": "GBP",
+      "compra": 4399806.91045553,
+      "venta": 4410833.99544414
+    },
+    {
+      "fecha_valor": "2021-06-07",
+      "fecha_operacion": "2021-06-04",
+      "moneda": "GBP",
+      "compra": 4401079.21948196,
+      "venta": 4412109.493215
+    },
+    {
+      "fecha_valor": "2021-06-04",
+      "fecha_operacion": "2021-06-03",
+      "moneda": "GBP",
+      "compra": 4364535.94072985,
+      "venta": 4375474.6272981
+    },
+    {
+      "fecha_valor": "2021-06-03",
+      "fecha_operacion": "2021-06-02",
+      "moneda": "GBP",
+      "compra": 4379793.4798886,
+      "venta": 4390770.40590336
+    },
+    {
+      "fecha_valor": "2021-06-02",
+      "fecha_operacion": "2021-06-01",
+      "moneda": "GBP",
+      "compra": 4403504.23028179,
+      "venta": 4414540.58173613
+    },
+    {
+      "fecha_valor": "2021-06-01",
+      "fecha_operacion": "2021-05-31",
+      "moneda": "GBP",
+      "compra": 4416124.67628529,
+      "venta": 4427192.65793012
+    },
+    {
+      "fecha_valor": "2021-05-31",
+      "fecha_operacion": "2021-05-28",
+      "moneda": "GBP",
+      "compra": 4385414.30249625,
+      "venta": 4396405.31578572
+    },
+    {
+      "fecha_valor": "2021-05-28",
+      "fecha_operacion": "2021-05-27",
+      "moneda": "GBP",
+      "compra": 4337717.67681497,
+      "venta": 4348589.1496892
+    },
+    {
+      "fecha_valor": "2021-05-27",
+      "fecha_operacion": "2021-05-26",
+      "moneda": "GBP",
+      "compra": 4323788.74107446,
+      "venta": 4334625.3043353
+    },
+    {
+      "fecha_valor": "2021-05-26",
+      "fecha_operacion": "2021-05-25",
+      "moneda": "GBP",
+      "compra": 4307307.99649326,
+      "venta": 4318103.25462984
+    },
+    {
+      "fecha_valor": "2021-05-25",
+      "fecha_operacion": "2021-05-21",
+      "moneda": "GBP",
+      "compra": 4303857.95748995,
+      "venta": 4314644.56891224
+    },
+    {
+      "fecha_valor": "2021-05-21",
+      "fecha_operacion": "2021-05-20",
+      "moneda": "GBP",
+      "compra": 4313515.81709931,
+      "venta": 4324326.63368352
+    },
+    {
+      "fecha_valor": "2021-05-20",
+      "fecha_operacion": "2021-05-19",
+      "moneda": "GBP",
+      "compra": 4276322.318507,
+      "venta": 4287039.91830276
+    },
+    {
+      "fecha_valor": "2021-05-19",
+      "fecha_operacion": "2021-05-18",
+      "moneda": "GBP",
+      "compra": 4183326.07478023,
+      "venta": 4193810.60128344
+    },
+    {
+      "fecha_valor": "2021-05-18",
+      "fecha_operacion": "2021-05-17",
+      "moneda": "GBP",
+      "compra": 4129270.31509883,
+      "venta": 4139619.3635076
+    },
+    {
+      "fecha_valor": "2021-05-17",
+      "fecha_operacion": "2021-05-14",
+      "moneda": "GBP",
+      "compra": 4167824.96474534,
+      "venta": 4178270.64134872
+    },
+    {
+      "fecha_valor": "2021-05-14",
+      "fecha_operacion": "2021-05-13",
+      "moneda": "GBP",
+      "compra": 4074627.41840753,
+      "venta": 4084839.51720054
+    },
+    {
+      "fecha_valor": "2021-05-13",
+      "fecha_operacion": "2021-05-12",
+      "moneda": "GBP",
+      "compra": 3986557.55894329,
+      "venta": 3996548.93127147
+    },
+    {
+      "fecha_valor": "2021-05-12",
+      "fecha_operacion": "2021-05-11",
+      "moneda": "GBP",
+      "compra": 3984112.34681168,
+      "venta": 3994097.59078866
+    },
+    {
+      "fecha_valor": "2021-05-11",
+      "fecha_operacion": "2021-05-10",
+      "moneda": "GBP",
+      "compra": 3997769.76758075,
+      "venta": 4007789.24068246
+    },
+    {
+      "fecha_valor": "2021-05-10",
+      "fecha_operacion": "2021-05-07",
+      "moneda": "GBP",
+      "compra": 3964756.51388264,
+      "venta": 3974693.24700014
+    },
+    {
+      "fecha_valor": "2021-05-07",
+      "fecha_operacion": "2021-05-06",
+      "moneda": "GBP",
+      "compra": 3962508.83309607,
+      "venta": 3972439.9329284
+    },
+    {
+      "fecha_valor": "2021-05-06",
+      "fecha_operacion": "2021-05-05",
+      "moneda": "GBP",
+      "compra": 3978233.42575846,
+      "venta": 3988203.93559746
+    },
+    {
+      "fecha_valor": "2021-05-05",
+      "fecha_operacion": "2021-05-04",
+      "moneda": "GBP",
+      "compra": 3928734.15429395,
+      "venta": 3938580.60580848
+    },
+    {
+      "fecha_valor": "2021-05-04",
+      "fecha_operacion": "2021-05-03",
+      "moneda": "GBP",
+      "compra": 3883508.27395171,
+      "venta": 3893241.3773952
+    },
+    {
+      "fecha_valor": "2021-05-03",
+      "fecha_operacion": "2021-04-30",
+      "moneda": "GBP",
+      "compra": 3891741.08479399,
+      "venta": 3901494.82184862
+    },
+    {
+      "fecha_valor": "2021-04-30",
+      "fecha_operacion": "2021-04-29",
+      "moneda": "GBP",
+      "compra": 3822400.2867551,
+      "venta": 3831980.23734848
+    },
+    {
+      "fecha_valor": "2021-04-29",
+      "fecha_operacion": "2021-04-28",
+      "moneda": "GBP",
+      "compra": 3782781.19097464,
+      "venta": 3792261.84558862
+    },
+    {
+      "fecha_valor": "2021-04-28",
+      "fecha_operacion": "2021-04-27",
+      "moneda": "GBP",
+      "compra": 3731080.87203236,
+      "venta": 3740431.95191214
+    },
+    {
+      "fecha_valor": "2021-04-27",
+      "fecha_operacion": "2021-04-26",
+      "moneda": "GBP",
+      "compra": 3770472.18002343,
+      "venta": 3779921.9849859
+    },
+    {
+      "fecha_valor": "2021-04-26",
+      "fecha_operacion": "2021-04-23",
+      "moneda": "GBP",
+      "compra": 3661804.092549,
+      "venta": 3670981.54641504
+    },
+    {
+      "fecha_valor": "2021-04-23",
+      "fecha_operacion": "2021-04-22",
+      "moneda": "GBP",
+      "compra": 3461088.72538543,
+      "venta": 3469763.13321848
+    },
+    {
+      "fecha_valor": "2021-04-22",
+      "fecha_operacion": "2021-04-21",
+      "moneda": "GBP",
+      "compra": 3501777.70138848,
+      "venta": 3510554.086605
+    },
+    {
+      "fecha_valor": "2021-04-21",
+      "fecha_operacion": "2021-04-20",
+      "moneda": "GBP",
+      "compra": 3431779.50078875,
+      "venta": 3440380.45191855
+    },
+    {
+      "fecha_valor": "2021-04-20",
+      "fecha_operacion": "2021-04-16",
+      "moneda": "GBP",
+      "compra": 3257601.26920493,
+      "venta": 3265765.68341347
+    },
+    {
+      "fecha_valor": "2021-04-16",
+      "fecha_operacion": "2021-04-15",
+      "moneda": "GBP",
+      "compra": 3274381.53469708,
+      "venta": 3282588.00470886
+    },
+    {
+      "fecha_valor": "2021-04-15",
+      "fecha_operacion": "2021-04-14",
+      "moneda": "GBP",
+      "compra": 3186013.90554886,
+      "venta": 3193998.90280588
+    },
+    {
+      "fecha_valor": "2021-04-14",
+      "fecha_operacion": "2021-04-13",
+      "moneda": "GBP",
+      "compra": 3199780.89834308,
+      "venta": 3207800.39934144
+    },
+    {
+      "fecha_valor": "2021-04-13",
+      "fecha_operacion": "2021-04-12",
+      "moneda": "GBP",
+      "compra": 3141090.8899594,
+      "venta": 3148963.29820492
+    },
+    {
+      "fecha_valor": "2021-04-12",
+      "fecha_operacion": "2021-04-09",
+      "moneda": "GBP",
+      "compra": 3060773.48083429,
+      "venta": 3068444.59231508
+    },
+    {
+      "fecha_valor": "2021-04-09",
+      "fecha_operacion": "2021-04-08",
+      "moneda": "GBP",
+      "compra": 2934959.25165486,
+      "venta": 2942315.039253
+    },
+    {
+      "fecha_valor": "2021-04-08",
+      "fecha_operacion": "2021-04-07",
+      "moneda": "GBP",
+      "compra": 2895655.1241542,
+      "venta": 2902912.40516712
+    },
+    {
+      "fecha_valor": "2021-04-07",
+      "fecha_operacion": "2021-04-06",
+      "moneda": "GBP",
+      "compra": 2871830.42085791,
+      "venta": 2879027.990835
+    },
+    {
+      "fecha_valor": "2021-04-06",
+      "fecha_operacion": "2021-04-05",
+      "moneda": "GBP",
+      "compra": 2872944.7256608,
+      "venta": 2880145.08838176
+    },
+    {
+      "fecha_valor": "2021-04-05",
+      "fecha_operacion": "2021-03-31",
+      "moneda": "GBP",
+      "compra": 2732089.396048,
+      "venta": 2738936.73789274
+    },
+    {
+      "fecha_valor": "2021-03-31",
+      "fecha_operacion": "2021-03-30",
+      "moneda": "GBP",
+      "compra": 2692844.71332574,
+      "venta": 2699593.69756967
+    },
+    {
+      "fecha_valor": "2021-03-30",
+      "fecha_operacion": "2021-03-29",
+      "moneda": "GBP",
+      "compra": 2658167.9561265,
+      "venta": 2664830.03120452
+    },
+    {
+      "fecha_valor": "2021-03-29",
+      "fecha_operacion": "2021-03-26",
+      "moneda": "GBP",
+      "compra": 2601785.14277913,
+      "venta": 2608305.907548
+    },
+    {
+      "fecha_valor": "2021-03-26",
+      "fecha_operacion": "2021-03-25",
+      "moneda": "GBP",
+      "compra": 2535922.06001639,
+      "venta": 2542277.7544024
+    },
+    {
+      "fecha_valor": "2021-03-25",
+      "fecha_operacion": "2021-03-24",
+      "moneda": "GBP",
+      "compra": 2525546.06054404,
+      "venta": 2531875.74991884
+    },
+    {
+      "fecha_valor": "2021-03-24",
+      "fecha_operacion": "2021-03-23",
+      "moneda": "GBP",
+      "compra": 2515845.6309662,
+      "venta": 2522151.00848742
+    },
+    {
+      "fecha_valor": "2021-03-23",
+      "fecha_operacion": "2021-03-22",
+      "moneda": "GBP",
+      "compra": 2514355.79036392,
+      "venta": 2520657.4339488
+    },
+    {
+      "fecha_valor": "2021-03-22",
+      "fecha_operacion": "2021-03-18",
+      "moneda": "GBP",
+      "compra": 2509691.81806593,
+      "venta": 2515981.77249718
+    },
+    {
+      "fecha_valor": "2021-03-18",
+      "fecha_operacion": "2021-03-17",
+      "moneda": "GBP",
+      "compra": 2498176.22778281,
+      "venta": 2504437.32108553
+    },
+    {
+      "fecha_valor": "2021-03-17",
+      "fecha_operacion": "2021-03-16",
+      "moneda": "GBP",
+      "compra": 2522875.31777472,
+      "venta": 2529198.31355862
+    },
+    {
+      "fecha_valor": "2021-03-16",
+      "fecha_operacion": "2021-03-15",
+      "moneda": "GBP",
+      "compra": 2531753.32992488,
+      "venta": 2538098.5763658
+    },
+    {
+      "fecha_valor": "2021-03-15",
+      "fecha_operacion": "2021-03-12",
+      "moneda": "GBP",
+      "compra": 2559028.46832345,
+      "venta": 2565442.07350722
+    },
+    {
+      "fecha_valor": "2021-03-12",
+      "fecha_operacion": "2021-03-11",
+      "moneda": "GBP",
+      "compra": 2585552.51235988,
+      "venta": 2592032.5938445
+    },
+    {
+      "fecha_valor": "2021-03-11",
+      "fecha_operacion": "2021-03-10",
+      "moneda": "GBP",
+      "compra": 2597501.08743326,
+      "venta": 2604011.11522132
+    },
+    {
+      "fecha_valor": "2021-03-10",
+      "fecha_operacion": "2021-03-09",
+      "moneda": "GBP",
+      "compra": 2607568.6069286,
+      "venta": 2614103.86659509
+    },
+    {
+      "fecha_valor": "2021-03-09",
+      "fecha_operacion": "2021-03-08",
+      "moneda": "GBP",
+      "compra": 2603495.70355714,
+      "venta": 2610020.75544576
+    },
+    {
+      "fecha_valor": "2021-03-08",
+      "fecha_operacion": "2021-03-05",
+      "moneda": "GBP",
+      "compra": 2603949.51688538,
+      "venta": 2610475.70615076
+    },
+    {
+      "fecha_valor": "2021-03-05",
+      "fecha_operacion": "2021-03-04",
+      "moneda": "GBP",
+      "compra": 2615455.48892565,
+      "venta": 2622010.51521369
+    },
+    {
+      "fecha_valor": "2021-03-04",
+      "fecha_operacion": "2021-03-03",
+      "moneda": "GBP",
+      "compra": 2592258.608121,
+      "venta": 2598755.49686316
+    },
+    {
+      "fecha_valor": "2021-03-03",
+      "fecha_operacion": "2021-03-02",
+      "moneda": "GBP",
+      "compra": 2593854.90965842,
+      "venta": 2600355.79915632
+    },
+    {
+      "fecha_valor": "2021-03-02",
+      "fecha_operacion": "2021-03-01",
+      "moneda": "GBP",
+      "compra": 2592456.22042807,
+      "venta": 2598953.60443917
+    },
+    {
+      "fecha_valor": "2021-03-01",
+      "fecha_operacion": "2021-02-26",
+      "moneda": "GBP",
+      "compra": 2596955.51830342,
+      "venta": 2603464.1787503
+    },
+    {
+      "fecha_valor": "2021-02-26",
+      "fecha_operacion": "2021-02-25",
+      "moneda": "GBP",
+      "compra": 2643409.41645029,
+      "venta": 2650034.50270706
+    },
+    {
+      "fecha_valor": "2021-02-25",
+      "fecha_operacion": "2021-02-24",
+      "moneda": "GBP",
+      "compra": 2635705.31676285,
+      "venta": 2642311.0944991
+    },
+    {
+      "fecha_valor": "2021-02-24",
+      "fecha_operacion": "2021-02-23",
+      "moneda": "GBP",
+      "compra": 2572657.59798277,
+      "venta": 2579105.36138624
+    },
+    {
+      "fecha_valor": "2021-02-23",
+      "fecha_operacion": "2021-02-22",
+      "moneda": "GBP",
+      "compra": 2528222.44326022,
+      "venta": 2534558.84036112
+    },
+    {
+      "fecha_valor": "2021-02-22",
+      "fecha_operacion": "2021-02-19",
+      "moneda": "GBP",
+      "compra": 2459234.3364994,
+      "venta": 2465397.83107709
+    },
+    {
+      "fecha_valor": "2021-02-19",
+      "fecha_operacion": "2021-02-18",
+      "moneda": "GBP",
+      "compra": 2391076.9379518,
+      "venta": 2397069.61198175
+    },
+    {
+      "fecha_valor": "2021-02-18",
+      "fecha_operacion": "2021-02-17",
+      "moneda": "GBP",
+      "compra": 2376820.78944143,
+      "venta": 2382777.73377587
+    },
+    {
+      "fecha_valor": "2021-02-17",
+      "fecha_operacion": "2021-02-12",
+      "moneda": "GBP",
+      "compra": 2377189.45396595,
+      "venta": 2383147.32227163
+    },
+    {
+      "fecha_valor": "2021-02-12",
+      "fecha_operacion": "2021-02-11",
+      "moneda": "GBP",
+      "compra": 2439776.26120418,
+      "venta": 2445890.98867587
+    },
+    {
+      "fecha_valor": "2021-02-11",
+      "fecha_operacion": "2021-02-10",
+      "moneda": "GBP",
+      "compra": 2470887.15488709,
+      "venta": 2477079.8545234
+    },
+    {
+      "fecha_valor": "2021-02-10",
+      "fecha_operacion": "2021-02-09",
+      "moneda": "GBP",
+      "compra": 2482144.11857472,
+      "venta": 2488365.0311526
+    },
+    {
+      "fecha_valor": "2021-02-09",
+      "fecha_operacion": "2021-02-08",
+      "moneda": "GBP",
+      "compra": 2485363.79980587,
+      "venta": 2491592.78176027
+    },
+    {
+      "fecha_valor": "2021-02-08",
+      "fecha_operacion": "2021-02-05",
+      "moneda": "GBP",
+      "compra": 2512809.79529788,
+      "venta": 2519107.5642084
+    },
+    {
+      "fecha_valor": "2021-02-05",
+      "fecha_operacion": "2021-02-04",
+      "moneda": "GBP",
+      "compra": 2491905.05910853,
+      "venta": 2498150.43519652
+    },
+    {
+      "fecha_valor": "2021-02-04",
+      "fecha_operacion": "2021-02-03",
+      "moneda": "GBP",
+      "compra": 2439996.51754981,
+      "venta": 2446111.79704242
+    },
+    {
+      "fecha_valor": "2021-02-03",
+      "fecha_operacion": "2021-02-02",
+      "moneda": "GBP",
+      "compra": 2433773.91155437,
+      "venta": 2439873.59554323
+    },
+    {
+      "fecha_valor": "2021-02-02",
+      "fecha_operacion": "2021-02-01",
+      "moneda": "GBP",
+      "compra": 2463422.58091553,
+      "venta": 2469596.5723464
+    },
+    {
+      "fecha_valor": "2021-02-01",
+      "fecha_operacion": "2021-01-29",
+      "moneda": "GBP",
+      "compra": 2493079.40756425,
+      "venta": 2499327.72688145
+    },
+    {
+      "fecha_valor": "2021-01-29",
+      "fecha_operacion": "2021-01-28",
+      "moneda": "GBP",
+      "compra": 2497034.98842396,
+      "venta": 2503293.22147765
+    },
+    {
+      "fecha_valor": "2021-01-28",
+      "fecha_operacion": "2021-01-27",
+      "moneda": "GBP",
+      "compra": 2492056.02992081,
+      "venta": 2498301.78438176
+    },
+    {
+      "fecha_valor": "2021-01-27",
+      "fecha_operacion": "2021-01-26",
+      "moneda": "GBP",
+      "compra": 2447884.02223762,
+      "venta": 2454019.0699124
+    },
+    {
+      "fecha_valor": "2021-01-26",
+      "fecha_operacion": "2021-01-25",
+      "moneda": "GBP",
+      "compra": 2360419.08505891,
+      "venta": 2366334.92236482
+    },
+    {
+      "fecha_valor": "2021-01-25",
+      "fecha_operacion": "2021-01-22",
+      "moneda": "GBP",
+      "compra": 2368169.00395955,
+      "venta": 2374104.2646211
+    },
+    {
+      "fecha_valor": "2021-01-22",
+      "fecha_operacion": "2021-01-21",
+      "moneda": "GBP",
+      "compra": 2259745.00109051,
+      "venta": 2265408.5223965
+    },
+    {
+      "fecha_valor": "2021-01-21",
+      "fecha_operacion": "2021-01-20",
+      "moneda": "GBP",
+      "compra": 2125491.14447027,
+      "venta": 2130818.18994513
+    },
+    {
+      "fecha_valor": "2021-01-20",
+      "fecha_operacion": "2021-01-19",
+      "moneda": "GBP",
+      "compra": 2112895.57437595,
+      "venta": 2118191.05200597
+    },
+    {
+      "fecha_valor": "2021-01-19",
+      "fecha_operacion": "2021-01-15",
+      "moneda": "GBP",
+      "compra": 2103909.53893374,
+      "venta": 2109182.49517167
+    },
+    {
+      "fecha_valor": "2021-01-15",
+      "fecha_operacion": "2021-01-14",
+      "moneda": "GBP",
+      "compra": 2039070.06451175,
+      "venta": 2044180.51580125
+    },
+    {
+      "fecha_valor": "2021-01-14",
+      "fecha_operacion": "2021-01-13",
+      "moneda": "GBP",
+      "compra": 2042313.42455069,
+      "venta": 2047432.0045621
+    },
+    {
+      "fecha_valor": "2021-01-13",
+      "fecha_operacion": "2021-01-12",
+      "moneda": "GBP",
+      "compra": 2039843.1640388,
+      "venta": 2044955.5529211
+    },
+    {
+      "fecha_valor": "2021-01-12",
+      "fecha_operacion": "2021-01-08",
+      "moneda": "GBP",
+      "compra": 1985957.66081941,
+      "venta": 1990934.9983152
+    },
+    {
+      "fecha_valor": "2021-01-08",
+      "fecha_operacion": "2021-01-07",
+      "moneda": "GBP",
+      "compra": 1781490.90159474,
+      "venta": 1785955.79107242
+    },
+    {
+      "fecha_valor": "2021-01-07",
+      "fecha_operacion": "2021-01-06",
+      "moneda": "GBP",
+      "compra": 1667797.95737767,
+      "venta": 1671977.902133
+    },
+    {
+      "fecha_valor": "2021-01-06",
+      "fecha_operacion": "2021-01-05",
+      "moneda": "GBP",
+      "compra": 1591416.45967362,
+      "venta": 1595404.97210388
+    },
+    {
+      "fecha_valor": "2021-01-05",
+      "fecha_operacion": "2021-01-04",
+      "moneda": "GBP",
+      "compra": 1509849.39078921,
+      "venta": 1513633.4744754
+    },
+    {
+      "fecha_valor": "2021-01-04",
+      "fecha_operacion": "2020-12-30",
+      "moneda": "GBP",
+      "compra": 1500479.39555424,
+      "venta": 1504239.9955431
+    },
+    {
+      "fecha_valor": "2020-12-30",
+      "fecha_operacion": "2020-12-29",
+      "moneda": "GBP",
+      "compra": 1465466.49279862,
+      "venta": 1469139.3411515
+    },
+    {
+      "fecha_valor": "2020-12-29",
+      "fecha_operacion": "2020-12-28",
+      "moneda": "GBP",
+      "compra": 1397090.68732489,
+      "venta": 1400592.16774425
+    },
+    {
+      "fecha_valor": "2020-12-28",
+      "fecha_operacion": "2020-12-23",
+      "moneda": "GBP",
+      "compra": 1389728.49067795,
+      "venta": 1393211.51947664
+    },
+    {
+      "fecha_valor": "2020-12-23",
+      "fecha_operacion": "2020-12-22",
+      "moneda": "GBP",
+      "compra": 1422435.09035169,
+      "venta": 1426000.09057814
+    },
+    {
+      "fecha_valor": "2020-12-22",
+      "fecha_operacion": "2020-12-21",
+      "moneda": "GBP",
+      "compra": 1418693.61620075,
+      "venta": 1422249.239299
+    },
+    {
+      "fecha_valor": "2020-12-21",
+      "fecha_operacion": "2020-12-18",
+      "moneda": "GBP",
+      "compra": 1435396.87020626,
+      "venta": 1438994.3560965
+    },
+    {
+      "fecha_valor": "2020-12-18",
+      "fecha_operacion": "2020-12-17",
+      "moneda": "GBP",
+      "compra": 1423578.95399019,
+      "venta": 1427146.8210428
+    },
+    {
+      "fecha_valor": "2020-12-17",
+      "fecha_operacion": "2020-12-16",
+      "moneda": "GBP",
+      "compra": 1447466.37700927,
+      "venta": 1451094.11228999
+    },
+    {
+      "fecha_valor": "2020-12-16",
+      "fecha_operacion": "2020-12-15",
+      "moneda": "GBP",
+      "compra": 1450278.09592053,
+      "venta": 1453912.87811582
+    },
+    {
+      "fecha_valor": "2020-12-15",
+      "fecha_operacion": "2020-12-11",
+      "moneda": "GBP",
+      "compra": 1451253.27242582,
+      "venta": 1454890.4986725
+    },
+    {
+      "fecha_valor": "2020-12-11",
+      "fecha_operacion": "2020-12-10",
+      "moneda": "GBP",
+      "compra": 1438689.41774369,
+      "venta": 1442295.15563277
+    },
+    {
+      "fecha_valor": "2020-12-10",
+      "fecha_operacion": "2020-12-09",
+      "moneda": "GBP",
+      "compra": 1446064.69119582,
+      "venta": 1449688.91347952
+    },
+    {
+      "fecha_valor": "2020-12-09",
+      "fecha_operacion": "2020-12-08",
+      "moneda": "GBP",
+      "compra": 1436695.57794634,
+      "venta": 1440296.3187432
+    },
+    {
+      "fecha_valor": "2020-12-08",
+      "fecha_operacion": "2020-12-07",
+      "moneda": "GBP",
+      "compra": 1441968.52362851,
+      "venta": 1445582.47982808
+    },
+    {
+      "fecha_valor": "2020-12-07",
+      "fecha_operacion": "2020-12-04",
+      "moneda": "GBP",
+      "compra": 1461540.81524279,
+      "venta": 1465203.8248048
+    },
+    {
+      "fecha_valor": "2020-12-04",
+      "fecha_operacion": "2020-12-03",
+      "moneda": "GBP",
+      "compra": 1381743.77307531,
+      "venta": 1385206.79005044
+    },
+    {
+      "fecha_valor": "2020-12-03",
+      "fecha_operacion": "2020-12-02",
+      "moneda": "GBP",
+      "compra": 1343904.71004591,
+      "venta": 1347272.8922766
+    },
+    {
+      "fecha_valor": "2020-12-02",
+      "fecha_operacion": "2020-12-01",
+      "moneda": "GBP",
+      "compra": 1384930.9984248,
+      "venta": 1388402.00343338
+    },
+    {
+      "fecha_valor": "2020-12-01",
+      "fecha_operacion": "2020-11-30",
+      "moneda": "GBP",
+      "compra": 1401842.54632702,
+      "venta": 1405355.93616744
+    },
+    {
+      "fecha_valor": "2020-11-30",
+      "fecha_operacion": "2020-11-27",
+      "moneda": "GBP",
+      "compra": 1379761.89755161,
+      "venta": 1383219.94742016
+    },
+    {
+      "fecha_valor": "2020-11-27",
+      "fecha_operacion": "2020-11-26",
+      "moneda": "GBP",
+      "compra": 1295924.2025379,
+      "venta": 1299172.13287008
+    },
+    {
+      "fecha_valor": "2020-11-26",
+      "fecha_operacion": "2020-11-25",
+      "moneda": "GBP",
+      "compra": 1231815.24876154,
+      "venta": 1234902.5050241
+    },
+    {
+      "fecha_valor": "2020-11-25",
+      "fecha_operacion": "2020-11-24",
+      "moneda": "GBP",
+      "compra": 1218274.4344967,
+      "venta": 1221327.7538814
+    },
+    {
+      "fecha_valor": "2020-11-24",
+      "fecha_operacion": "2020-11-20",
+      "moneda": "GBP",
+      "compra": 1034997.00999386,
+      "venta": 1037590.98746252
+    },
+    {
+      "fecha_valor": "2020-11-20",
+      "fecha_operacion": "2020-11-19",
+      "moneda": "GBP",
+      "compra": 936914.97246004,
+      "venta": 939263.13028576
+    },
+    {
+      "fecha_valor": "2020-11-19",
+      "fecha_operacion": "2020-11-18",
+      "moneda": "GBP",
+      "compra": 904080.22839686,
+      "venta": 906346.09363094
+    },
+    {
+      "fecha_valor": "2020-11-18",
+      "fecha_operacion": "2020-11-17",
+      "moneda": "GBP",
+      "compra": 887020.62790335,
+      "venta": 889243.73724647
+    },
+    {
+      "fecha_valor": "2020-11-17",
+      "fecha_operacion": "2020-11-16",
+      "moneda": "GBP",
+      "compra": 875866.13854576,
+      "venta": 878061.2917752
+    },
+    {
+      "fecha_valor": "2020-11-16",
+      "fecha_operacion": "2020-11-13",
+      "moneda": "GBP",
+      "compra": 848756.86344233,
+      "venta": 850884.0736264
+    },
+    {
+      "fecha_valor": "2020-11-13",
+      "fecha_operacion": "2020-11-12",
+      "moneda": "GBP",
+      "compra": 798712.09824796,
+      "venta": 800713.88295535
+    },
+    {
+      "fecha_valor": "2020-11-12",
+      "fecha_operacion": "2020-11-11",
+      "moneda": "GBP",
+      "compra": 753453.16696853,
+      "venta": 755341.52077046
+    },
+    {
+      "fecha_valor": "2020-11-11",
+      "fecha_operacion": "2020-11-10",
+      "moneda": "GBP",
+      "compra": 724651.21607805,
+      "venta": 726467.3845394
+    },
+    {
+      "fecha_valor": "2020-11-10",
+      "fecha_operacion": "2020-11-09",
+      "moneda": "GBP",
+      "compra": 704526.53065616,
+      "venta": 706292.26130944
+    },
+    {
+      "fecha_valor": "2020-11-09",
+      "fecha_operacion": "2020-11-06",
+      "moneda": "GBP",
+      "compra": 702273.41087918,
+      "venta": 704033.49461572
+    },
+    {
+      "fecha_valor": "2020-11-06",
+      "fecha_operacion": "2020-11-05",
+      "moneda": "GBP",
+      "compra": 687851.0579171,
+      "venta": 689574.99540562
+    },
+    {
+      "fecha_valor": "2020-11-05",
+      "fecha_operacion": "2020-11-04",
+      "moneda": "GBP",
+      "compra": 669968.90048379,
+      "venta": 671648.02053513
+    },
+    {
+      "fecha_valor": "2020-11-04",
+      "fecha_operacion": "2020-11-03",
+      "moneda": "GBP",
+      "compra": 671132.79528883,
+      "venta": 672814.83236976
+    },
+    {
+      "fecha_valor": "2020-11-03",
+      "fecha_operacion": "2020-11-02",
+      "moneda": "GBP",
+      "compra": 665467.35815012,
+      "venta": 667135.19614048
+    },
+    {
+      "fecha_valor": "2020-11-02",
+      "fecha_operacion": "2020-10-30",
+      "moneda": "GBP",
+      "compra": 670375.8606274,
+      "venta": 672056.00062898
+    },
+    {
+      "fecha_valor": "2020-10-30",
+      "fecha_operacion": "2020-10-29",
+      "moneda": "GBP",
+      "compra": 652765.32407218,
+      "venta": 654401.32739066
+    },
+    {
+      "fecha_valor": "2020-10-29",
+      "fecha_operacion": "2020-10-28",
+      "moneda": "GBP",
+      "compra": 632997.99558815,
+      "venta": 634584.45672998
+    },
+    {
+      "fecha_valor": "2020-10-28",
+      "fecha_operacion": "2020-10-27",
+      "moneda": "GBP",
+      "compra": 612988.12799201,
+      "venta": 614524.43908974
+    },
+    {
+      "fecha_valor": "2020-10-27",
+      "fecha_operacion": "2020-10-26",
+      "moneda": "GBP",
+      "compra": 602440.48492417,
+      "venta": 603950.36082624
+    },
+    {
+      "fecha_valor": "2020-10-26",
+      "fecha_operacion": "2020-10-23",
+      "moneda": "GBP",
+      "compra": 601759.70633745,
+      "venta": 603267.87602752
+    },
+    {
+      "fecha_valor": "2020-10-23",
+      "fecha_operacion": "2020-10-22",
+      "moneda": "GBP",
+      "compra": 599841.00895352,
+      "venta": 601344.36987822
+    },
+    {
+      "fecha_valor": "2020-10-22",
+      "fecha_operacion": "2020-10-21",
+      "moneda": "GBP",
+      "compra": 599633.37331467,
+      "venta": 601136.2138493
+    },
+    {
+      "fecha_valor": "2020-10-21",
+      "fecha_operacion": "2020-10-20",
+      "moneda": "GBP",
+      "compra": 590506.01149746,
+      "venta": 591985.97643856
+    },
+    {
+      "fecha_valor": "2020-10-20",
+      "fecha_operacion": "2020-10-19",
+      "moneda": "GBP",
+      "compra": 590600.42305446,
+      "venta": 592080.624616
+    },
+    {
+      "fecha_valor": "2020-10-19",
+      "fecha_operacion": "2020-10-16",
+      "moneda": "GBP",
+      "compra": 583431.27115267,
+      "venta": 584893.50491496
+    },
+    {
+      "fecha_valor": "2020-10-16",
+      "fecha_operacion": "2020-10-15",
+      "moneda": "GBP",
+      "compra": 579922.97519735,
+      "venta": 581376.41623795
+    },
+    {
+      "fecha_valor": "2020-10-15",
+      "fecha_operacion": "2020-10-14",
+      "moneda": "GBP",
+      "compra": 586313.91584799,
+      "venta": 587783.3742837
+    },
+    {
+      "fecha_valor": "2020-10-14",
+      "fecha_operacion": "2020-10-13",
+      "moneda": "GBP",
+      "compra": 586927.40096377,
+      "venta": 588398.39695616
+    },
+    {
+      "fecha_valor": "2020-10-13",
+      "fecha_operacion": "2020-10-09",
+      "moneda": "GBP",
+      "compra": 586302.36072938,
+      "venta": 587771.7902049
+    },
+    {
+      "fecha_valor": "2020-10-09",
+      "fecha_operacion": "2020-10-08",
+      "moneda": "GBP",
+      "compra": 580260.74340845,
+      "venta": 581715.03098592
+    },
+    {
+      "fecha_valor": "2020-10-08",
+      "fecha_operacion": "2020-10-07",
+      "moneda": "GBP",
+      "compra": 568838.23582507,
+      "venta": 570263.89556398
+    },
+    {
+      "fecha_valor": "2020-10-07",
+      "fecha_operacion": "2020-10-06",
+      "moneda": "GBP",
+      "compra": 570188.47773066,
+      "venta": 571617.5215345
+    },
+    {
+      "fecha_valor": "2020-10-06",
+      "fecha_operacion": "2020-10-05",
+      "moneda": "GBP",
+      "compra": 566892.51221113,
+      "venta": 568313.29544976
+    },
+    {
+      "fecha_valor": "2020-10-05",
+      "fecha_operacion": "2020-10-02",
+      "moneda": "GBP",
+      "compra": 566154.3985506,
+      "venta": 567573.33188031
+    },
+    {
+      "fecha_valor": "2020-10-02",
+      "fecha_operacion": "2020-10-01",
+      "moneda": "GBP",
+      "compra": 561081.94810668,
+      "venta": 562488.168528
+    },
+    {
+      "fecha_valor": "2020-10-01",
+      "fecha_operacion": "2020-09-30",
+      "moneda": "GBP",
+      "compra": 563299.49924117,
+      "venta": 564711.27743476
+    },
+    {
+      "fecha_valor": "2020-09-30",
+      "fecha_operacion": "2020-09-29",
+      "moneda": "GBP",
+      "compra": 552457.22722468,
+      "venta": 553841.8318042
+    },
+    {
+      "fecha_valor": "2020-09-29",
+      "fecha_operacion": "2020-09-28",
+      "moneda": "GBP",
+      "compra": 539712.98192918,
+      "venta": 541065.6460443
+    },
+    {
+      "fecha_valor": "2020-09-28",
+      "fecha_operacion": "2020-09-25",
+      "moneda": "GBP",
+      "compra": 525731.09381384,
+      "venta": 527048.71560285
+    },
+    {
+      "fecha_valor": "2020-09-25",
+      "fecha_operacion": "2020-09-24",
+      "moneda": "GBP",
+      "compra": 507718.47078425,
+      "venta": 508990.94815464
+    },
+    {
+      "fecha_valor": "2020-09-24",
+      "fecha_operacion": "2020-09-23",
+      "moneda": "GBP",
+      "compra": 499770.03397905,
+      "venta": 501022.59045519
+    },
+    {
+      "fecha_valor": "2020-09-23",
+      "fecha_operacion": "2020-09-22",
+      "moneda": "GBP",
+      "compra": 492641.1776005,
+      "venta": 493875.86726868
+    },
+    {
+      "fecha_valor": "2020-09-22",
+      "fecha_operacion": "2020-09-21",
+      "moneda": "GBP",
+      "compra": 480696.11622421,
+      "venta": 481900.8683952
+    },
+    {
+      "fecha_valor": "2020-09-21",
+      "fecha_operacion": "2020-09-18",
+      "moneda": "GBP",
+      "compra": 484021.63662699,
+      "venta": 485234.72343558
+    },
+    {
+      "fecha_valor": "2020-09-18",
+      "fecha_operacion": "2020-09-17",
+      "moneda": "GBP",
+      "compra": 478703.06443134,
+      "venta": 479902.82148506
+    },
+    {
+      "fecha_valor": "2020-09-17",
+      "fecha_operacion": "2020-09-16",
+      "moneda": "GBP",
+      "compra": 474758.42033027,
+      "venta": 475948.29105792
+    },
+    {
+      "fecha_valor": "2020-09-16",
+      "fecha_operacion": "2020-09-15",
+      "moneda": "GBP",
+      "compra": 470318.28326492,
+      "venta": 471497.0258295
+    },
+    {
+      "fecha_valor": "2020-09-15",
+      "fecha_operacion": "2020-09-11",
+      "moneda": "GBP",
+      "compra": 463109.43018262,
+      "venta": 464270.10544624
+    },
+    {
+      "fecha_valor": "2020-09-11",
+      "fecha_operacion": "2020-09-10",
+      "moneda": "GBP",
+      "compra": 463439.6248608,
+      "venta": 464601.12768
+    },
+    {
+      "fecha_valor": "2020-09-10",
+      "fecha_operacion": "2020-09-09",
+      "moneda": "GBP",
+      "compra": 467784.67186747,
+      "venta": 468957.0645288
+    },
+    {
+      "fecha_valor": "2020-09-09",
+      "fecha_operacion": "2020-09-08",
+      "moneda": "GBP",
+      "compra": 466956.52375974,
+      "venta": 468126.8408619
+    },
+    {
+      "fecha_valor": "2020-09-08",
+      "fecha_operacion": "2020-09-07",
+      "moneda": "GBP",
+      "compra": 467236.20033776,
+      "venta": 468407.21838372
+    },
+    {
+      "fecha_valor": "2020-09-07",
+      "fecha_operacion": "2020-09-04",
+      "moneda": "GBP",
+      "compra": 460340.35345481,
+      "venta": 461494.08867651
+    },
+    {
+      "fecha_valor": "2020-09-04",
+      "fecha_operacion": "2020-09-03",
+      "moneda": "GBP",
+      "compra": 447995.27208023,
+      "venta": 449118.06724836
+    },
+    {
+      "fecha_valor": "2020-09-03",
+      "fecha_operacion": "2020-09-02",
+      "moneda": "GBP",
+      "compra": 444263.55334501,
+      "venta": 445376.9958346
+    },
+    {
+      "fecha_valor": "2020-09-02",
+      "fecha_operacion": "2020-09-01",
+      "moneda": "GBP",
+      "compra": 441417.85853484,
+      "venta": 442524.16895724
+    },
+    {
+      "fecha_valor": "2020-09-01",
+      "fecha_operacion": "2020-08-31",
+      "moneda": "GBP",
+      "compra": 437824.01060503,
+      "venta": 438921.31388976
+    },
+    {
+      "fecha_valor": "2020-08-31",
+      "fecha_operacion": "2020-08-28",
+      "moneda": "GBP",
+      "compra": 431366.58162612,
+      "venta": 432447.70087832
+    },
+    {
+      "fecha_valor": "2020-08-28",
+      "fecha_operacion": "2020-08-27",
+      "moneda": "GBP",
+      "compra": 416348.83835348,
+      "venta": 417392.31915136
+    },
+    {
+      "fecha_valor": "2020-08-27",
+      "fecha_operacion": "2020-08-26",
+      "moneda": "GBP",
+      "compra": 411419.45415137,
+      "venta": 412450.58060288
+    },
+    {
+      "fecha_valor": "2020-08-26",
+      "fecha_operacion": "2020-08-25",
+      "moneda": "GBP",
+      "compra": 403350.6656202,
+      "venta": 404361.56954406
+    },
+    {
+      "fecha_valor": "2020-08-25",
+      "fecha_operacion": "2020-08-24",
+      "moneda": "GBP",
+      "compra": 399491.3805717,
+      "venta": 400492.61210196
+    },
+    {
+      "fecha_valor": "2020-08-24",
+      "fecha_operacion": "2020-08-21",
+      "moneda": "GBP",
+      "compra": 399447.05187613,
+      "venta": 400448.1723069
+    },
+    {
+      "fecha_valor": "2020-08-21",
+      "fecha_operacion": "2020-08-20",
+      "moneda": "GBP",
+      "compra": 396822.35884347,
+      "venta": 397816.90109622
+    },
+    {
+      "fecha_valor": "2020-08-20",
+      "fecha_operacion": "2020-08-19",
+      "moneda": "GBP",
+      "compra": 390696.79228559,
+      "venta": 391675.9822412
+    },
+    {
+      "fecha_valor": "2020-08-19",
+      "fecha_operacion": "2020-08-18",
+      "moneda": "GBP",
+      "compra": 385988.82340072,
+      "venta": 386956.21393556
+    },
+    {
+      "fecha_valor": "2020-08-18",
+      "fecha_operacion": "2020-08-17",
+      "moneda": "GBP",
+      "compra": 379398.34850561,
+      "venta": 380349.22155951
+    },
+    {
+      "fecha_valor": "2020-08-17",
+      "fecha_operacion": "2020-08-14",
+      "moneda": "GBP",
+      "compra": 385241.92116289,
+      "venta": 386207.4397623
+    },
+    {
+      "fecha_valor": "2020-08-14",
+      "fecha_operacion": "2020-08-13",
+      "moneda": "GBP",
+      "compra": 375424.60846189,
+      "venta": 376365.52226756
+    },
+    {
+      "fecha_valor": "2020-08-13",
+      "fecha_operacion": "2020-08-12",
+      "moneda": "GBP",
+      "compra": 369499.07015375,
+      "venta": 370425.13298622
+    },
+    {
+      "fecha_valor": "2020-08-12",
+      "fecha_operacion": "2020-08-11",
+      "moneda": "GBP",
+      "compra": 370791.84386939,
+      "venta": 371721.14673624
+    },
+    {
+      "fecha_valor": "2020-08-11",
+      "fecha_operacion": "2020-08-10",
+      "moneda": "GBP",
+      "compra": 371441.36895613,
+      "venta": 372372.2997054
+    },
+    {
+      "fecha_valor": "2020-08-10",
+      "fecha_operacion": "2020-08-07",
+      "moneda": "GBP",
+      "compra": 361988.80287059,
+      "venta": 362896.04297804
+    },
+    {
+      "fecha_valor": "2020-08-07",
+      "fecha_operacion": "2020-08-06",
+      "moneda": "GBP",
+      "compra": 355191.92242627,
+      "venta": 356082.12774564
+    },
+    {
+      "fecha_valor": "2020-08-06",
+      "fecha_operacion": "2020-08-05",
+      "moneda": "GBP",
+      "compra": 348308.61323179,
+      "venta": 349181.56714967
+    },
+    {
+      "fecha_valor": "2020-08-05",
+      "fecha_operacion": "2020-08-04",
+      "moneda": "GBP",
+      "compra": 342290.85792363,
+      "venta": 343148.729748
+    },
+    {
+      "fecha_valor": "2020-08-04",
+      "fecha_operacion": "2020-08-03",
+      "moneda": "GBP",
+      "compra": 341576.29322855,
+      "venta": 342432.37416396
+    },
+    {
+      "fecha_valor": "2020-08-03",
+      "fecha_operacion": "2020-07-31",
+      "moneda": "GBP",
+      "compra": 339575.28690043,
+      "venta": 340426.35278239
+    },
+    {
+      "fecha_valor": "2020-07-31",
+      "fecha_operacion": "2020-07-30",
+      "moneda": "GBP",
+      "compra": 335833.4985509,
+      "venta": 336675.1865172
+    },
+    {
+      "fecha_valor": "2020-07-30",
+      "fecha_operacion": "2020-07-29",
+      "moneda": "GBP",
+      "compra": 323176.80883703,
+      "venta": 323986.77577648
+    },
+    {
+      "fecha_valor": "2020-07-29",
+      "fecha_operacion": "2020-07-28",
+      "moneda": "GBP",
+      "compra": 321975.4819222,
+      "venta": 322782.43801725
+    },
+    {
+      "fecha_valor": "2020-07-28",
+      "fecha_operacion": "2020-07-27",
+      "moneda": "GBP",
+      "compra": 314965.31601561,
+      "venta": 315754.70277255
+    },
+    {
+      "fecha_valor": "2020-07-27",
+      "fecha_operacion": "2020-07-23",
+      "moneda": "GBP",
+      "compra": 307524.23451482,
+      "venta": 308294.97194469
+    },
+    {
+      "fecha_valor": "2020-07-23",
+      "fecha_operacion": "2020-07-22",
+      "moneda": "GBP",
+      "compra": 300929.70388037,
+      "venta": 301683.91366454
+    },
+    {
+      "fecha_valor": "2020-07-22",
+      "fecha_operacion": "2020-07-21",
+      "moneda": "GBP",
+      "compra": 294603.46542398,
+      "venta": 295341.81997392
+    },
+    {
+      "fecha_valor": "2020-07-21",
+      "fecha_operacion": "2020-07-20",
+      "moneda": "GBP",
+      "compra": 288670.15824547,
+      "venta": 289393.64235135
+    },
+    {
+      "fecha_valor": "2020-07-20",
+      "fecha_operacion": "2020-07-17",
+      "moneda": "GBP",
+      "compra": 283543.98347657,
+      "venta": 284254.62002664
+    },
+    {
+      "fecha_valor": "2020-07-17",
+      "fecha_operacion": "2020-07-16",
+      "moneda": "GBP",
+      "compra": 281290.64475715,
+      "venta": 281995.63384176
+    },
+    {
+      "fecha_valor": "2020-07-16",
+      "fecha_operacion": "2020-07-15",
+      "moneda": "GBP",
+      "compra": 278272.55925418,
+      "venta": 278969.98421472
+    },
+    {
+      "fecha_valor": "2020-07-15",
+      "fecha_operacion": "2020-07-14",
+      "moneda": "GBP",
+      "compra": 274720.18869791,
+      "venta": 275408.7104741
+    },
+    {
+      "fecha_valor": "2020-07-14",
+      "fecha_operacion": "2020-07-13",
+      "moneda": "GBP",
+      "compra": 272770.29957392,
+      "venta": 273453.93440995
+    },
+    {
+      "fecha_valor": "2020-07-13",
+      "fecha_operacion": "2020-07-10",
+      "moneda": "GBP",
+      "compra": 272784.71360312,
+      "venta": 273468.38456454
+    },
+    {
+      "fecha_valor": "2020-07-10",
+      "fecha_operacion": "2020-07-09",
+      "moneda": "GBP",
+      "compra": 269401.02344445,
+      "venta": 270076.2139794
+    },
+    {
+      "fecha_valor": "2020-07-09",
+      "fecha_operacion": "2020-07-08",
+      "moneda": "GBP",
+      "compra": 265727.01595282,
+      "venta": 266392.99844895
+    },
+    {
+      "fecha_valor": "2020-07-08",
+      "fecha_operacion": "2020-07-07",
+      "moneda": "GBP",
+      "compra": 261447.98779227,
+      "venta": 262103.24590704
+    },
+    {
+      "fecha_valor": "2020-07-07",
+      "fecha_operacion": "2020-07-06",
+      "moneda": "GBP",
+      "compra": 259190.16087269,
+      "venta": 259839.76027338
+    },
+    {
+      "fecha_valor": "2020-07-06",
+      "fecha_operacion": "2020-07-03",
+      "moneda": "GBP",
+      "compra": 257343.83140541,
+      "venta": 257988.80341395
+    },
+    {
+      "fecha_valor": "2020-07-03",
+      "fecha_operacion": "2020-07-02",
+      "moneda": "GBP",
+      "compra": 256072.55667545,
+      "venta": 256714.34253178
+    },
+    {
+      "fecha_valor": "2020-07-02",
+      "fecha_operacion": "2020-07-01",
+      "moneda": "GBP",
+      "compra": 255071.8612639,
+      "venta": 255711.13911168
+    },
+    {
+      "fecha_valor": "2020-07-01",
+      "fecha_operacion": "2020-06-30",
+      "moneda": "GBP",
+      "compra": 251926.66282687,
+      "venta": 252558.0579718
+    },
+    {
+      "fecha_valor": "2020-06-30",
+      "fecha_operacion": "2020-06-26",
+      "moneda": "GBP",
+      "compra": 248750.15223275,
+      "venta": 249373.58619825
+    },
+    {
+      "fecha_valor": "2020-06-26",
+      "fecha_operacion": "2020-06-25",
+      "moneda": "GBP",
+      "compra": 250169.00530197,
+      "venta": 250795.9952902
+    },
+    {
+      "fecha_valor": "2020-06-25",
+      "fecha_operacion": "2020-06-23",
+      "moneda": "GBP",
+      "compra": 252404.84284015,
+      "venta": 253037.43643123
+    },
+    {
+      "fecha_valor": "2020-06-23",
+      "fecha_operacion": "2020-06-22",
+      "moneda": "GBP",
+      "compra": 250637.22931406,
+      "venta": 251265.39279605
+    },
+    {
+      "fecha_valor": "2020-06-22",
+      "fecha_operacion": "2020-06-19",
+      "moneda": "GBP",
+      "compra": 250243.96278457,
+      "venta": 250871.14063616
+    },
+    {
+      "fecha_valor": "2020-06-19",
+      "fecha_operacion": "2020-06-18",
+      "moneda": "GBP",
+      "compra": 251492.63744896,
+      "venta": 252122.94481099
+    },
+    {
+      "fecha_valor": "2020-06-18",
+      "fecha_operacion": "2020-06-17",
+      "moneda": "GBP",
+      "compra": 254457.72457996,
+      "venta": 255095.46323806
+    },
+    {
+      "fecha_valor": "2020-06-17",
+      "fecha_operacion": "2020-06-16",
+      "moneda": "GBP",
+      "compra": 255253.84220739,
+      "venta": 255893.57614776
+    },
+    {
+      "fecha_valor": "2020-06-16",
+      "fecha_operacion": "2020-06-15",
+      "moneda": "GBP",
+      "compra": 254922.93397742,
+      "venta": 255561.83857386
+    },
+    {
+      "fecha_valor": "2020-06-15",
+      "fecha_operacion": "2020-06-12",
+      "moneda": "GBP",
+      "compra": 254024.68006846,
+      "venta": 254661.33340197
+    },
+    {
+      "fecha_valor": "2020-06-12",
+      "fecha_operacion": "2020-06-11",
+      "moneda": "GBP",
+      "compra": 255458.4285189,
+      "venta": 256098.67520692
+    },
+    {
+      "fecha_valor": "2020-06-11",
+      "fecha_operacion": "2020-06-10",
+      "moneda": "GBP",
+      "compra": 256166.87951707,
+      "venta": 256808.9017715
+    },
+    {
+      "fecha_valor": "2020-06-10",
+      "fecha_operacion": "2020-06-09",
+      "moneda": "GBP",
+      "compra": 251486.29100704,
+      "venta": 252116.5824632
+    },
+    {
+      "fecha_valor": "2020-06-09",
+      "fecha_operacion": "2020-06-08",
+      "moneda": "GBP",
+      "compra": 251085.61181861,
+      "venta": 251714.89906628
+    },
+    {
+      "fecha_valor": "2020-06-08",
+      "fecha_operacion": "2020-06-05",
+      "moneda": "GBP",
+      "compra": 251819.70870822,
+      "venta": 252470.73889105
+    },
+    {
+      "fecha_valor": "2020-06-05",
+      "fecha_operacion": "2020-06-04",
+      "moneda": "GBP",
+      "compra": 249437.60933836,
+      "venta": 250062.766254
+    },
+    {
+      "fecha_valor": "2020-06-04",
+      "fecha_operacion": "2020-06-03",
+      "moneda": "GBP",
+      "compra": 248305.84681095,
+      "venta": 248928.16722903
+    },
+    {
+      "fecha_valor": "2020-06-03",
+      "fecha_operacion": "2020-06-02",
+      "moneda": "GBP",
+      "compra": 246617.52880585,
+      "venta": 247235.61785048
+    },
+    {
+      "fecha_valor": "2020-06-02",
+      "fecha_operacion": "2020-06-01",
+      "moneda": "GBP",
+      "compra": 245993.95836352,
+      "venta": 246610.48457496
+    },
+    {
+      "fecha_valor": "2020-06-01",
+      "fecha_operacion": "2020-05-29",
+      "moneda": "GBP",
+      "compra": 243877.05928291,
+      "venta": 244488.27998287
+    },
+    {
+      "fecha_valor": "2020-05-29",
+      "fecha_operacion": "2020-05-28",
+      "moneda": "GBP",
+      "compra": 242164.68021261,
+      "venta": 242771.6092357
+    },
+    {
+      "fecha_valor": "2020-05-28",
+      "fecha_operacion": "2020-05-27",
+      "moneda": "GBP",
+      "compra": 238973.87055878,
+      "venta": 239572.8025652
+    },
+    {
+      "fecha_valor": "2020-05-27",
+      "fecha_operacion": "2020-05-26",
+      "moneda": "GBP",
+      "compra": 238157.43644277,
+      "venta": 238754.3222484
+    },
+    {
+      "fecha_valor": "2020-05-26",
+      "fecha_operacion": "2020-05-22",
+      "moneda": "GBP",
+      "compra": 235035.74790107,
+      "venta": 235624.80992589
+    },
+    {
+      "fecha_valor": "2020-05-22",
+      "fecha_operacion": "2020-05-21",
+      "moneda": "GBP",
+      "compra": 229563.96743311,
+      "venta": 230139.31572242
+    },
+    {
+      "fecha_valor": "2020-05-21",
+      "fecha_operacion": "2020-05-20",
+      "moneda": "GBP",
+      "compra": 224742.8694043,
+      "venta": 225306.13474116
+    },
+    {
+      "fecha_valor": "2020-05-20",
+      "fecha_operacion": "2020-05-19",
+      "moneda": "GBP",
+      "compra": 223466.70846387,
+      "venta": 224026.77540238
+    },
+    {
+      "fecha_valor": "2020-05-19",
+      "fecha_operacion": "2020-05-18",
+      "moneda": "GBP",
+      "compra": 223094.40585462,
+      "venta": 223653.53970388
+    },
+    {
+      "fecha_valor": "2020-05-18",
+      "fecha_operacion": "2020-05-15",
+      "moneda": "GBP",
+      "compra": 221391.19713926,
+      "venta": 221946.062295
+    },
+    {
+      "fecha_valor": "2020-05-15",
+      "fecha_operacion": "2020-05-14",
+      "moneda": "GBP",
+      "compra": 220945.48067884,
+      "venta": 221499.22875072
+    },
+    {
+      "fecha_valor": "2020-05-14",
+      "fecha_operacion": "2020-05-13",
+      "moneda": "GBP",
+      "compra": 218402.28530667,
+      "venta": 218949.65945531
+    },
+    {
+      "fecha_valor": "2020-05-13",
+      "fecha_operacion": "2020-05-12",
+      "moneda": "GBP",
+      "compra": 219241.81014041,
+      "venta": 219791.28836132
+    },
+    {
+      "fecha_valor": "2020-05-12",
+      "fecha_operacion": "2020-05-11",
+      "moneda": "GBP",
+      "compra": 220462.5083054,
+      "venta": 221015.0459202
+    },
+    {
+      "fecha_valor": "2020-05-11",
+      "fecha_operacion": "2020-05-08",
+      "moneda": "GBP",
+      "compra": 222053.92318931,
+      "venta": 222610.4493126
+    },
+    {
+      "fecha_valor": "2020-05-08",
+      "fecha_operacion": "2020-05-07",
+      "moneda": "GBP",
+      "compra": 212769.46313597,
+      "venta": 213302.71993581
+    },
+    {
+      "fecha_valor": "2020-05-07",
+      "fecha_operacion": "2020-05-06",
+      "moneda": "GBP",
+      "compra": 208607.70184111,
+      "venta": 209130.52816152
+    },
+    {
+      "fecha_valor": "2020-05-06",
+      "fecha_operacion": "2020-05-05",
+      "moneda": "GBP",
+      "compra": 213431.70625632,
+      "venta": 213966.62281336
+    },
+    {
+      "fecha_valor": "2020-05-05",
+      "fecha_operacion": "2020-05-04",
+      "moneda": "GBP",
+      "compra": 217494.60417022,
+      "venta": 218039.7034288
+    },
+    {
+      "fecha_valor": "2020-05-04",
+      "fecha_operacion": "2020-04-30",
+      "moneda": "GBP",
+      "compra": 221969.88429865,
+      "venta": 222526.19979815
+    },
+    {
+      "fecha_valor": "2020-04-30",
+      "fecha_operacion": "2020-04-29",
+      "moneda": "GBP",
+      "compra": 219077.73812356,
+      "venta": 219626.80513641
+    },
+    {
+      "fecha_valor": "2020-04-29",
+      "fecha_operacion": "2020-04-28",
+      "moneda": "GBP",
+      "compra": 218097.196569,
+      "venta": 218643.80608422
+    },
+    {
+      "fecha_valor": "2020-04-28",
+      "fecha_operacion": "2020-04-27",
+      "moneda": "GBP",
+      "compra": 210934.74233951,
+      "venta": 211463.40084162
+    },
+    {
+      "fecha_valor": "2020-04-27",
+      "fecha_operacion": "2020-04-24",
+      "moneda": "GBP",
+      "compra": 210473.75005702,
+      "venta": 211001.25319
+    },
+    {
+      "fecha_valor": "2020-04-24",
+      "fecha_operacion": "2020-04-23",
+      "moneda": "GBP",
+      "compra": 211742.53668546,
+      "venta": 212273.2197348
+    },
+    {
+      "fecha_valor": "2020-04-23",
+      "fecha_operacion": "2020-04-22",
+      "moneda": "GBP",
+      "compra": 178256.46589539,
+      "venta": 178703.22395528
+    },
+    {
+      "fecha_valor": "2020-04-22",
+      "fecha_operacion": "2020-04-21",
+      "moneda": "GBP",
+      "compra": 158232.98854379,
+      "venta": 158629.56244992
+    },
+    {
+      "fecha_valor": "2020-04-21",
+      "fecha_operacion": "2020-04-20",
+      "moneda": "GBP",
+      "compra": 159131.54327654,
+      "venta": 159530.36919954
+    },
+    {
+      "fecha_valor": "2020-04-20",
+      "fecha_operacion": "2020-04-17",
+      "moneda": "GBP",
+      "compra": 156600.17416704,
+      "venta": 156992.65580656
+    },
+    {
+      "fecha_valor": "2020-04-17",
+      "fecha_operacion": "2020-04-16",
+      "moneda": "GBP",
+      "compra": 156107.60617987,
+      "venta": 156498.85331316
+    },
+    {
+      "fecha_valor": "2020-04-16",
+      "fecha_operacion": "2020-04-15",
+      "moneda": "GBP",
+      "compra": 150938.93936249,
+      "venta": 151317.2324436
+    },
+    {
+      "fecha_valor": "2020-04-15",
+      "fecha_operacion": "2020-04-14",
+      "moneda": "GBP",
+      "compra": 142867.83529732,
+      "venta": 143225.90004744
+    },
+    {
+      "fecha_valor": "2020-04-14",
+      "fecha_operacion": "2020-04-13",
+      "moneda": "GBP",
+      "compra": 132295.38576379,
+      "venta": 132626.95314666
+    },
+    {
+      "fecha_valor": "2020-04-13",
+      "fecha_operacion": "2020-04-08",
+      "moneda": "GBP",
+      "compra": 125093.70489286,
+      "venta": 125407.22295024
+    },
+    {
+      "fecha_valor": "2020-04-08",
+      "fecha_operacion": "2020-04-07",
+      "moneda": "GBP",
+      "compra": 118994.5059533,
+      "venta": 119292.7377978
+    },
+    {
+      "fecha_valor": "2020-04-07",
+      "fecha_operacion": "2020-04-06",
+      "moneda": "GBP",
+      "compra": 112661.89131702,
+      "venta": 112944.25194689
+    },
+    {
+      "fecha_valor": "2020-04-06",
+      "fecha_operacion": "2020-04-03",
+      "moneda": "GBP",
+      "compra": 105838.64715784,
+      "venta": 106103.90692516
+    },
+    {
+      "fecha_valor": "2020-04-03",
+      "fecha_operacion": "2020-04-02",
+      "moneda": "GBP",
+      "compra": 104605.10201055,
+      "venta": 104867.27018602
+    },
+    {
+      "fecha_valor": "2020-04-02",
+      "fecha_operacion": "2020-04-01",
+      "moneda": "GBP",
+      "compra": 103127.4268311,
+      "venta": 103385.89156
+    },
+    {
+      "fecha_valor": "2020-04-01",
+      "fecha_operacion": "2020-03-31",
+      "moneda": "GBP",
+      "compra": 100517.40909897,
+      "venta": 100769.33243005
+    },
+    {
+      "fecha_valor": "2020-03-31",
+      "fecha_operacion": "2020-03-30",
+      "moneda": "GBP",
+      "compra": 99222.02830716,
+      "venta": 99470.70506984
+    },
+    {
+      "fecha_valor": "2020-03-30",
+      "fecha_operacion": "2020-03-27",
+      "moneda": "GBP",
+      "compra": 96470.7392554,
+      "venta": 96712.5205568
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:09:32-04:00",
+  "updated_at": "2026-10-23T19:22:19+00:00",
   "source": "https://www.bcv.org.ve/estadisticas/tipo-cambio-de-referencia-smc",
   "monedas": {
     "EUR": {
@@ -148,6 +148,20 @@
       "moneda": "ANG",
       "compra": 506.85828349,
       "venta": 508.12860501
+    },
+    "GBP": {
+      "fecha_valor": "2024-09-13",
+      "fecha_operacion": "2024-09-12",
+      "moneda": "GBP",
+      "compra": 47.93342001,
+      "venta": 48.0535539
+    },
+    "CHF": {
+      "fecha_valor": "2024-09-13",
+      "fecha_operacion": "2024-09-12",
+      "moneda": "CHF",
+      "compra": 42.91167775,
+      "venta": 43.01922581
     }
   }
 }

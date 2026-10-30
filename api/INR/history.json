@@ -1,8 +1,15 @@
 {
   "moneda": "INR",
-  "updated_at": "2026-10-29T02:43:14+00:00",
-  "count": 1585,
+  "updated_at": "2026-10-30T01:12:02+00:00",
+  "count": 1586,
   "data": [
+    {
+      "fecha_valor": "2026-10-30",
+      "fecha_operacion": "2026-10-29",
+      "moneda": "INR",
+      "compra": 9.31267361,
+      "venta": 9.33601364
+    },
     {
       "fecha_valor": "2026-10-29",
       "fecha_operacion": "2026-10-28",

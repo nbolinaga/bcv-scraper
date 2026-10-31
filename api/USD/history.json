@@ -1,8 +1,15 @@
 {
   "moneda": "USD",
-  "updated_at": "2026-10-30T02:50:36+00:00",
-  "count": 1586,
+  "updated_at": "2026-10-31T00:54:53+00:00",
+  "count": 1587,
   "data": [
+    {
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
+      "moneda": "USD",
+      "compra": 887.3514615,
+      "venta": 889.5754
+    },
     {
       "fecha_valor": "2026-10-30",
       "fecha_operacion": "2026-10-29",

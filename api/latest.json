@@ -1,153 +1,153 @@
 {
-  "updated_at": "2026-10-30T02:50:36+00:00",
+  "updated_at": "2026-10-31T00:54:53+00:00",
   "source": "https://www.bcv.org.ve/estadisticas/tipo-cambio-de-referencia-smc",
   "monedas": {
     "EUR": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "EUR",
-      "compra": 990.31818666,
-      "venta": 992.80018713
+      "compra": 988.77573354,
+      "venta": 991.25386822
     },
     "CNY": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "CNY",
-      "compra": 133.17801392,
-      "venta": 133.5117934
+      "compra": 133.37614031,
+      "venta": 133.71041635
     },
     "TRY": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "TRY",
-      "compra": 17.80022771,
-      "venta": 17.84483981
+      "compra": 17.76596063,
+      "venta": 17.81048685
     },
     "RUB": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "RUB",
-      "compra": 10.97130448,
-      "venta": 10.99880148
+      "compra": 10.98922642,
+      "venta": 11.01676834
     },
     "USD": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "USD",
-      "compra": 887.03216175,
-      "venta": 889.2553
+      "compra": 887.3514615,
+      "venta": 889.5754
     },
     "CAD": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "CAD",
-      "compra": 634.37831159,
-      "venta": 635.96823217
+      "compra": 635.38825068,
+      "venta": 636.98070244
     },
     "INR": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "INR",
-      "compra": 9.31267361,
-      "venta": 9.33601364
+      "compra": 9.34644471,
+      "venta": 9.36986939
     },
     "JPY": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "JPY",
-      "compra": 5.61899977,
-      "venta": 5.63308248
+      "compra": 5.64035202,
+      "venta": 5.65448824
     },
     "ARS": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "ARS",
-      "compra": 0.57618198,
-      "venta": 0.57762604
+      "compra": 0.57751478,
+      "venta": 0.57896218
     },
     "BRL": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "BRL",
-      "compra": 164.50588115,
-      "venta": 164.91817659
+      "compra": 164.10553733,
+      "venta": 164.51682941
     },
     "CLP": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "CLP",
-      "compra": 0.89531381,
-      "venta": 0.8975577
+      "compra": 0.8959526,
+      "venta": 0.8981981
     },
     "COP": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "COP",
-      "compra": 0.28028949,
-      "venta": 0.28099197
+      "compra": 0.2802664,
+      "venta": 0.28096882
     },
     "UYU": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "UYU",
-      "compra": 22.12270954,
-      "venta": 22.17815492
+      "compra": 22.07836235,
+      "venta": 22.13369659
     },
     "PEN": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "PEN",
-      "compra": 256.79071353,
-      "venta": 257.43429927
+      "compra": 256.5044405,
+      "venta": 257.14730878
     },
     "BOB": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "BOB",
-      "compra": 73.61262753,
-      "venta": 73.79712033
+      "compra": 73.51710534,
+      "venta": 73.70135874
     },
     "MXP": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "MXP",
-      "compra": 47.24287184,
-      "venta": 47.36127503
+      "compra": 47.17946945,
+      "venta": 47.29771373
     },
     "CUC": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "CUC",
-      "compra": 887.03216175,
-      "venta": 889.2553
+      "compra": 887.3514615,
+      "venta": 889.5754
     },
     "NIO": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "NIO",
-      "compra": 24.23585141,
-      "venta": 24.29659289
+      "compra": 24.88987609,
+      "venta": 24.95225673
     },
     "DOP": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "DOP",
-      "compra": 14.65684338,
-      "venta": 14.69357732
+      "compra": 14.76949836,
+      "venta": 14.80651464
     },
     "TTD": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "TTD",
-      "compra": 132.3336061,
-      "venta": 132.66526928
+      "compra": 132.24313882,
+      "venta": 132.57457526
     },
     "ANG": {
-      "fecha_valor": "2026-10-30",
-      "fecha_operacion": "2026-10-29",
+      "fecha_valor": "2026-11-02",
+      "fecha_operacion": "2026-10-30",
       "moneda": "ANG",
-      "compra": 508.59019651,
-      "venta": 509.86485866
+      "compra": 508.77327074,
+      "venta": 510.04839172
     },
     "GBP": {
       "fecha_valor": "2024-09-13",

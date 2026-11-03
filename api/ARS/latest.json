@@ -1,8 +1,8 @@
 {
-  "fecha_valor": "2026-11-02",
-  "fecha_operacion": "2026-10-30",
+  "fecha_valor": "2026-11-03",
+  "fecha_operacion": "2026-11-02",
   "moneda": "ARS",
-  "compra": 0.57751478,
-  "venta": 0.57896218,
-  "updated_at": "2026-10-31T02:39:40+00:00"
+  "compra": 0.57588444,
+  "venta": 0.57732776,
+  "updated_at": "2026-11-03T02:59:06+00:00"
 }

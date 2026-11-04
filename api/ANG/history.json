@@ -1,8 +1,15 @@
 {
   "moneda": "ANG",
-  "updated_at": "2026-11-03T03:59:26+00:00",
-  "count": 1588,
+  "updated_at": "2026-11-04T01:32:11+00:00",
+  "count": 1589,
   "data": [
+    {
+      "fecha_valor": "2026-11-04",
+      "fecha_operacion": "2026-11-03",
+      "moneda": "ANG",
+      "compra": 510.8561761,
+      "venta": 512.1365174
+    },
     {
       "fecha_valor": "2026-11-03",
       "fecha_operacion": "2026-11-02",

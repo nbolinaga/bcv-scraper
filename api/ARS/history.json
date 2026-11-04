@@ -1,8 +1,15 @@
 {
   "moneda": "ARS",
-  "updated_at": "2026-11-03T03:59:26+00:00",
-  "count": 1588,
+  "updated_at": "2026-11-04T01:32:11+00:00",
+  "count": 1589,
   "data": [
+    {
+      "fecha_valor": "2026-11-04",
+      "fecha_operacion": "2026-11-03",
+      "moneda": "ARS",
+      "compra": 0.57575719,
+      "venta": 0.57720019
+    },
     {
       "fecha_valor": "2026-11-03",
       "fecha_operacion": "2026-11-02",

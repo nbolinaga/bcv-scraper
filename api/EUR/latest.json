@@ -1,8 +1,8 @@
 {
-  "fecha_valor": "2026-11-04",
-  "fecha_operacion": "2026-11-03",
+  "fecha_valor": "2026-11-05",
+  "fecha_operacion": "2026-11-04",
   "moneda": "EUR",
-  "compra": 997.26976873,
-  "venta": 999.76919171,
-  "updated_at": "2026-11-04T03:08:28+00:00"
+  "compra": 1003.51755832,
+  "venta": 1006.03263992,
+  "updated_at": "2026-11-05T01:34:15+00:00"
 }

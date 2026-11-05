@@ -1,8 +1,15 @@
 {
   "moneda": "CUC",
-  "updated_at": "2026-11-04T03:08:28+00:00",
-  "count": 1589,
+  "updated_at": "2026-11-05T01:34:15+00:00",
+  "count": 1590,
   "data": [
+    {
+      "fecha_valor": "2026-11-05",
+      "fecha_operacion": "2026-11-04",
+      "moneda": "CUC",
+      "compra": 892.650381,
+      "venta": 894.8876
+    },
     {
       "fecha_valor": "2026-11-04",
       "fecha_operacion": "2026-11-03",

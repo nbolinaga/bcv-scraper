@@ -1,8 +1,15 @@
 {
   "moneda": "JPY",
-  "updated_at": "2026-11-06T03:35:33+00:00",
-  "count": 1591,
+  "updated_at": "2026-11-07T01:00:21+00:00",
+  "count": 1592,
   "data": [
+    {
+      "fecha_valor": "2026-11-09",
+      "fecha_operacion": "2026-11-06",
+      "moneda": "JPY",
+      "compra": 5.65711142,
+      "venta": 5.67128964
+    },
     {
       "fecha_valor": "2026-11-06",
       "fecha_operacion": "2026-11-05",

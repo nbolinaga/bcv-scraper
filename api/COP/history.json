@@ -1,8 +1,15 @@
 {
   "moneda": "COP",
-  "updated_at": "2026-11-07T03:05:38+00:00",
-  "count": 1592,
+  "updated_at": "2026-11-10T03:41:17+00:00",
+  "count": 1593,
   "data": [
+    {
+      "fecha_valor": "2026-11-10",
+      "fecha_operacion": "2026-11-09",
+      "moneda": "COP",
+      "compra": 0.27417621,
+      "venta": 0.27486337
+    },
     {
       "fecha_valor": "2026-11-09",
       "fecha_operacion": "2026-11-06",

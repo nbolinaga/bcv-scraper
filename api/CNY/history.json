@@ -1,8 +1,15 @@
 {
   "moneda": "CNY",
-  "updated_at": "2026-11-07T03:05:38+00:00",
-  "count": 1592,
+  "updated_at": "2026-11-10T03:41:17+00:00",
+  "count": 1593,
   "data": [
+    {
+      "fecha_valor": "2026-11-10",
+      "fecha_operacion": "2026-11-09",
+      "moneda": "CNY",
+      "compra": 134.4417619,
+      "venta": 134.77870867
+    },
     {
       "fecha_valor": "2026-11-09",
       "fecha_operacion": "2026-11-06",

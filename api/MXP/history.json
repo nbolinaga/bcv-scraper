@@ -1,8 +1,15 @@
 {
   "moneda": "MXP",
-  "updated_at": "2026-11-10T04:44:46+00:00",
-  "count": 1593,
+  "updated_at": "2026-11-11T01:21:13+00:00",
+  "count": 1594,
   "data": [
+    {
+      "fecha_valor": "2026-11-11",
+      "fecha_operacion": "2026-11-10",
+      "moneda": "MXP",
+      "compra": 48.06217535,
+      "venta": 48.18263193
+    },
     {
       "fecha_valor": "2026-11-10",
       "fecha_operacion": "2026-11-09",

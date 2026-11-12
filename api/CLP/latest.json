@@ -1,8 +1,8 @@
 {
-  "fecha_valor": "2026-11-11",
-  "fecha_operacion": "2026-11-10",
+  "fecha_valor": "2026-11-12",
+  "fecha_operacion": "2026-11-11",
   "moneda": "CLP",
-  "compra": 0.91893681,
-  "venta": 0.92123991,
-  "updated_at": "2026-11-11T02:56:45+00:00"
+  "compra": 0.91687572,
+  "venta": 0.91917366,
+  "updated_at": "2026-11-12T02:21:17+00:00"
 }

@@ -1,8 +1,8 @@
 {
-  "fecha_valor": "2026-11-11",
-  "fecha_operacion": "2026-11-10",
+  "fecha_valor": "2026-11-12",
+  "fecha_operacion": "2026-11-11",
   "moneda": "CAD",
-  "compra": 634.91500677,
-  "venta": 636.50627245,
-  "updated_at": "2026-11-11T02:56:45+00:00"
+  "compra": 633.70540838,
+  "venta": 635.29364248,
+  "updated_at": "2026-11-12T02:21:17+00:00"
 }

@@ -1,8 +1,15 @@
 {
   "moneda": "CAD",
-  "updated_at": "2026-11-12T04:03:45+00:00",
-  "count": 1595,
+  "updated_at": "2026-11-13T01:59:40+00:00",
+  "count": 1596,
   "data": [
+    {
+      "fecha_valor": "2026-11-13",
+      "fecha_operacion": "2026-11-12",
+      "moneda": "CAD",
+      "compra": 637.60455426,
+      "venta": 639.20256066
+    },
     {
       "fecha_valor": "2026-11-12",
       "fecha_operacion": "2026-11-11",

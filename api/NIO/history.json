@@ -1,8 +1,15 @@
 {
   "moneda": "NIO",
-  "updated_at": "2026-11-18T04:39:41+00:00",
-  "count": 1599,
+  "updated_at": "2026-11-19T02:41:32+00:00",
+  "count": 1600,
   "data": [
+    {
+      "fecha_valor": "2026-11-19",
+      "fecha_operacion": "2026-11-18",
+      "moneda": "NIO",
+      "compra": 25.6934476,
+      "venta": 25.7578422
+    },
     {
       "fecha_valor": "2026-11-18",
       "fecha_operacion": "2026-11-17",

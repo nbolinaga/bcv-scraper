@@ -1,8 +1,15 @@
 {
   "moneda": "BOB",
-  "updated_at": "2026-11-19T04:25:59+00:00",
-  "count": 1600,
+  "updated_at": "2026-11-20T02:27:40+00:00",
+  "count": 1601,
   "data": [
+    {
+      "fecha_valor": "2026-11-20",
+      "fecha_operacion": "2026-11-19",
+      "moneda": "BOB",
+      "compra": 80.43508232,
+      "venta": 80.636674
+    },
     {
       "fecha_valor": "2026-11-19",
       "fecha_operacion": "2026-11-18",

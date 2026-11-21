@@ -1,8 +1,15 @@
 {
   "moneda": "PEN",
-  "updated_at": "2026-11-20T04:12:26+00:00",
-  "count": 1601,
+  "updated_at": "2026-11-21T02:38:09+00:00",
+  "count": 1602,
   "data": [
+    {
+      "fecha_valor": "2026-11-24",
+      "fecha_operacion": "2026-11-20",
+      "moneda": "PEN",
+      "compra": 266.00270873,
+      "venta": 266.66938219
+    },
     {
       "fecha_valor": "2026-11-20",
       "fecha_operacion": "2026-11-19",

@@ -1,8 +1,15 @@
 {
   "moneda": "UYU",
-  "updated_at": "2026-11-25T05:37:30+00:00",
-  "count": 1603,
+  "updated_at": "2026-11-26T03:40:45+00:00",
+  "count": 1604,
   "data": [
+    {
+      "fecha_valor": "2026-11-26",
+      "fecha_operacion": "2026-11-25",
+      "moneda": "UYU",
+      "compra": 22.65627728,
+      "venta": 22.71305993
+    },
     {
       "fecha_valor": "2026-11-25",
       "fecha_operacion": "2026-11-24",

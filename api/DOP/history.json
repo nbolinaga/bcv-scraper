@@ -1,8 +1,15 @@
 {
   "moneda": "DOP",
-  "updated_at": "2026-11-25T05:37:30+00:00",
-  "count": 1603,
+  "updated_at": "2026-11-26T03:40:45+00:00",
+  "count": 1604,
   "data": [
+    {
+      "fecha_valor": "2026-11-26",
+      "fecha_operacion": "2026-11-25",
+      "moneda": "DOP",
+      "compra": 15.41103988,
+      "venta": 15.44966404
+    },
     {
       "fecha_valor": "2026-11-25",
       "fecha_operacion": "2026-11-24",

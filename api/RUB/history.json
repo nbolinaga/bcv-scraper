@@ -1,8 +1,15 @@
 {
   "moneda": "RUB",
-  "updated_at": "2026-11-26T05:21:30+00:00",
-  "count": 1604,
+  "updated_at": "2026-11-27T03:41:56+00:00",
+  "count": 1605,
   "data": [
+    {
+      "fecha_valor": "2026-11-27",
+      "fecha_operacion": "2026-11-26",
+      "moneda": "RUB",
+      "compra": 11.24816254,
+      "venta": 11.27635342
+    },
     {
       "fecha_valor": "2026-11-26",
       "fecha_operacion": "2026-11-25",
